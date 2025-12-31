@@ -11,7 +11,7 @@
           <mxGeometry x="160" y="240" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HguyfQ09_523I49XQqLJ-4" value="计数模块counter10/16&lt;div&gt;（功能：实现模10/模16计数）&lt;/div&gt;&lt;div&gt;输入：clk_926（1Hz）&lt;/div&gt;&lt;div&gt;输入：TR_926（模式控制）&lt;/div&gt;&lt;div&gt;输入：CLR_926（异步清零）&lt;/div&gt;&lt;div&gt;输出：Q_926[3..0]（计数值）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="235" width="210" height="100" as="geometry" />
+          <mxGeometry x="360" y="235" width="210" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
