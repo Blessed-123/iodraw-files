@@ -10,7 +10,7 @@
         <mxCell id="HguyfQ09_523I49XQqLJ-3" value="分频模块fre_div&lt;div&gt;(功能：50MHz-&amp;gt;1Hz时钟)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;输入：clk_50mhz&lt;/span&gt;&lt;/div&gt;&lt;div&gt;输出：clk_1hz&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="240" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="HguyfQ09_523I49XQqLJ-4" value="计数模块counter10/16&lt;div&gt;(功能：实现模10/模16计数)&lt;/div&gt;&lt;div&gt;输入：clk_926（1Hz）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HguyfQ09_523I49XQqLJ-4" value="计数模块counter10/16&lt;div&gt;（功能：实现模10/模16计数）&lt;/div&gt;&lt;div&gt;输入：clk_926（1Hz）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="230" width="210" height="100" as="geometry" />
         </mxCell>
       </root>
