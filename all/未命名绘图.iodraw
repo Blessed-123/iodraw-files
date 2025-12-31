@@ -13,7 +13,7 @@
         <mxCell id="HguyfQ09_523I49XQqLJ-4" value="计数模块counter10/16&lt;div&gt;（功能：实现模10/模16计数）&lt;/div&gt;&lt;div&gt;输入：clk_926（1Hz）&lt;/div&gt;&lt;div&gt;输入：TR_926（模式控制）&lt;/div&gt;&lt;div&gt;输入：CLR_926（异步清零）&lt;/div&gt;&lt;div&gt;输出：Q_926[3..0]（计数值）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="232.5" width="190" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="HguyfQ09_523I49XQqLJ-6" value="输出端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HguyfQ09_523I49XQqLJ-6" value="输出端&lt;div&gt;a_926~g_926&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HguyfQ09_523I49XQqLJ-7" value="数码管译码模块&lt;div&gt;（功能：4位二进制转7段）&lt;/div&gt;&lt;div&gt;输入：Q_926[3..0]&lt;/div&gt;&lt;div&gt;输出：a_926~g_926&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
