@@ -1,0 +1,45 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="cCIFSCyaqZMbnoal3zal">
+    <mxGraphModel dx="1213" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZJhdnzhI-KmXTmz4ND-s-1" value="输入端&#xa;50MHz时钟信号&#xa;(clk_50mhz)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="64" width="170" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJhdnzhI-KmXTmz4ND-s-2" value="分频模块 fre_div&#xa;(功能：50MHz-&amp;gt;1Hz时钟)&#xa;输入：clk_50mhz&#xa;输出：clk_1hz" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="46" width="256" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJhdnzhI-KmXTmz4ND-s-3" value="计数模块 counter10/16&#xa;(功能：实现模10/模16计数)&#xa;输入：clk_926（1Hz）&#xa;输入：TR_926（模式控制）&#xa;输入：CLR_926（异步清零）&#xa;输出：Q_926[3..0]（计数值）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="546" y="20" width="258" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJhdnzhI-KmXTmz4ND-s-4" value="数码管译码模块&#xa;(功能：4位二进制转7段)&#xa;输入：Q_926[3..0]&#xa;输出：a_926~g_926" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="854" y="55" width="233" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJhdnzhI-KmXTmz4ND-s-5" value="输出端&#xa;a_926~g_926" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1136" y="73" width="152" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJhdnzhI-KmXTmz4ND-s-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="ZJhdnzhI-KmXTmz4ND-s-1" target="ZJhdnzhI-KmXTmz4ND-s-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZJhdnzhI-KmXTmz4ND-s-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="ZJhdnzhI-KmXTmz4ND-s-2" target="ZJhdnzhI-KmXTmz4ND-s-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZJhdnzhI-KmXTmz4ND-s-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="ZJhdnzhI-KmXTmz4ND-s-3" target="ZJhdnzhI-KmXTmz4ND-s-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZJhdnzhI-KmXTmz4ND-s-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="ZJhdnzhI-KmXTmz4ND-s-4" target="ZJhdnzhI-KmXTmz4ND-s-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
