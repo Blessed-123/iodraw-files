@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZJhdnzhI-KmXTmz4ND-s-1" value="输入端&#xa;50MHz时钟信号&#xa;(clk_50mhz)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="350" y="298.5" width="170" height="84" as="geometry" />
+          <mxGeometry x="320" y="298.5" width="170" height="84" as="geometry" />
         </mxCell>
         <mxCell id="ZJhdnzhI-KmXTmz4ND-s-2" value="分频模块 fre_div&#xa;(功能：50MHz-&amp;gt;1Hz时钟)&#xa;输入：clk_50mhz&#xa;输出：clk_1hz" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="571" y="281" width="256" height="119" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="1210" y="290" width="233" height="101" as="geometry" />
         </mxCell>
         <mxCell id="ZJhdnzhI-KmXTmz4ND-s-5" value="输出端&#xa;a_926~g_926" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="307.5" width="152" height="66" as="geometry" />
+          <mxGeometry x="1490" y="307.5" width="152" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ZJhdnzhI-KmXTmz4ND-s-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="ZJhdnzhI-KmXTmz4ND-s-1" target="ZJhdnzhI-KmXTmz4ND-s-2">
           <mxGeometry relative="1" as="geometry">
