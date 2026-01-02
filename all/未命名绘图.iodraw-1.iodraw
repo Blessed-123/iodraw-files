@@ -7,10 +7,10 @@
         <mxCell id="ZJhdnzhI-KmXTmz4ND-s-1" value="输入端&#xa;50MHz时钟信号&#xa;(clk_50mhz)" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="340" y="298.5" width="170" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="ZJhdnzhI-KmXTmz4ND-s-2" value="分频模块 fre_div&#xa;(功能：50MHz-&amp;gt;1Hz时钟)&#xa;输入：clk_50mhz&#xa;输出：clk_1hz" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ZJhdnzhI-KmXTmz4ND-s-2" value="分频模块 fre_div&#xa;(功能：50MHz-&amp;gt;1Hz时钟)&#xa;输入：clk_50mhz&#xa;输出：clk_1hz" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="571" y="281" width="256" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="ZJhdnzhI-KmXTmz4ND-s-3" value="计数模块 counter10/16&#xa;(功能：实现模10/模16计数)&#xa;输入：clk_926（1Hz）&#xa;输入：TR_926（模式控制）&#xa;输入：CLR_926（异步清零）&#xa;输出：Q_926[3..0]（计数值）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ZJhdnzhI-KmXTmz4ND-s-3" value="计数模块 counter10/16&#xa;(功能：实现模10/模16计数)&#xa;输入：clk_926（1Hz）&#xa;输入：TR_926（模式控制）&#xa;输入：CLR_926（异步清零）&#xa;输出：Q_926[3..0]（计数值）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="910" y="254.5" width="258" height="172" as="geometry" />
         </mxCell>
         <mxCell id="ZJhdnzhI-KmXTmz4ND-s-4" value="数码管译码模块&#xa;(功能：4位二进制转7段)&#xa;输入：Q_926[3..0]&#xa;输出：a_926~g_926" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
