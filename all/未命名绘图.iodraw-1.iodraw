@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="64" width="170" height="84" as="geometry" />
         </mxCell>
         <mxCell id="ZJhdnzhI-KmXTmz4ND-s-2" value="分频模块 fre_div&#xa;(功能：50MHz-&amp;gt;1Hz时钟)&#xa;输入：clk_50mhz&#xa;输出：clk_1hz" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="240" y="46" width="256" height="119" as="geometry" />
+          <mxGeometry x="571" y="281" width="256" height="119" as="geometry" />
         </mxCell>
         <mxCell id="ZJhdnzhI-KmXTmz4ND-s-3" value="计数模块 counter10/16&#xa;(功能：实现模10/模16计数)&#xa;输入：clk_926（1Hz）&#xa;输入：TR_926（模式控制）&#xa;输入：CLR_926（异步清零）&#xa;输出：Q_926[3..0]（计数值）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="910" y="254.5" width="258" height="172" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="1250" y="290" width="233" height="101" as="geometry" />
         </mxCell>
         <mxCell id="ZJhdnzhI-KmXTmz4ND-s-5" value="输出端&#xa;a_926~g_926" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="64" width="152" height="66" as="geometry" />
+          <mxGeometry x="1550" y="307.5" width="152" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ZJhdnzhI-KmXTmz4ND-s-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="ZJhdnzhI-KmXTmz4ND-s-1" target="ZJhdnzhI-KmXTmz4ND-s-2">
           <mxGeometry relative="1" as="geometry">
