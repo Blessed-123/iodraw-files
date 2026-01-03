@@ -14,7 +14,7 @@
           <mxGeometry x="827" y="257.75" width="270" height="165.5" as="geometry" />
         </mxCell>
         <mxCell id="ZJhdnzhI-KmXTmz4ND-s-4" value="数码管译码模块&#xa;(功能：4位二进制转7段)&#xa;输入：Q_926[3..0]&#xa;输出：a_926~g_926" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="290" width="233" height="101" as="geometry" />
+          <mxGeometry x="1150" y="290" width="233" height="101" as="geometry" />
         </mxCell>
         <mxCell id="ZJhdnzhI-KmXTmz4ND-s-5" value="输出端&#xa;a_926~g_926" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1440" y="307.5" width="152" height="66" as="geometry" />
@@ -39,8 +39,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZJhdnzhI-KmXTmz4ND-s-10" value="输出端（数码管位选信号）&lt;div&gt;L_926[5..0]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="560" width="160" height="60" as="geometry" />
+        <mxCell id="ZJhdnzhI-KmXTmz4ND-s-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;输出端（数码管位选信号）&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;L_926[5..0]&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="530" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
