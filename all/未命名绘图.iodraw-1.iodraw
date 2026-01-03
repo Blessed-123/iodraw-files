@@ -45,11 +45,10 @@
         <mxCell id="ZJhdnzhI-KmXTmz4ND-s-19" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZJhdnzhI-KmXTmz4ND-s-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1350" y="570" as="sourcePoint" />
-            <mxPoint x="1400" y="520" as="targetPoint" />
+            <mxPoint x="1400" y="560" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1360" y="495" />
-              <mxPoint x="1360" y="540" />
-              <mxPoint x="1400" y="540" />
+              <mxPoint x="1330" y="495" />
+              <mxPoint x="1330" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
