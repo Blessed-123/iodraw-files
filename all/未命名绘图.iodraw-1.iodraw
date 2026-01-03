@@ -39,7 +39,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZJhdnzhI-KmXTmz4ND-s-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZJhdnzhI-KmXTmz4ND-s-10" value="输出端（数码管位选信号）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
