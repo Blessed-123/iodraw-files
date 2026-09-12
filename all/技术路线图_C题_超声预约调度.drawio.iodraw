@@ -14,13 +14,13 @@
           <mxGeometry x="258" y="2003" width="1725" height="490" as="geometry" />
         </mxCell>
         <mxCell id="n23" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;dashed=1;opacity=95;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="251" y="399" width="1882.5" height="491" as="geometry" />
+          <mxGeometry x="251" y="360" width="1882.5" height="530" as="geometry" />
         </mxCell>
         <mxCell id="n24" value="建立预热平衡阶段药材温度和水分浓度变化规律的数学模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=17;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="420" width="1120" height="62" as="geometry" />
+          <mxGeometry x="650" y="370" width="1120" height="62" as="geometry" />
         </mxCell>
         <mxCell id="n25" value="明确问题与几何简化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="494" width="260" height="48" as="geometry" />
+          <mxGeometry x="428" y="460" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n27" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="494" width="260" height="48" as="geometry" />
@@ -110,10 +110,10 @@
           <mxGeometry x="630" y="190" width="1164" height="128" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-3" value="&lt;span style=&quot;color: rgb(11, 58, 102); font-size: 18px; font-weight: 700;&quot;&gt;研究框架&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="138" y="261" width="252" height="115" as="geometry" />
+          <mxGeometry x="160" y="190" width="252" height="115" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-5" value="&lt;span style=&quot;color: rgb(11, 58, 102); font-size: 18px; font-weight: 700;&quot;&gt;研究方法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1976" y="220" width="252" height="115" as="geometry" />
+          <mxGeometry x="1970" y="180" width="252" height="115" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-34" value="问题二：患者级48小时预约方案优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b9e0b9;strokeColor=#82b366;fontSize=17;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="688" y="2034" width="1000" height="46" as="geometry" />
