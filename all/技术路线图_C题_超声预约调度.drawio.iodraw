@@ -115,6 +115,24 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-5" value="&lt;span style=&quot;color: rgb(11, 58, 102); font-size: 18px; font-weight: 700;&quot;&gt;研究方法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1993" y="256" width="252" height="115" as="geometry" />
         </mxCell>
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-15" value="问题三：固定服务水平资源压缩优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b9e0b9;strokeColor=#82b366;fontSize=17;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1636" width="1000" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-16" value="① 服务结果锁定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1694" width="260" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-17" value="② 候选列压缩" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1694" width="260" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-18" value="③ 资源压缩MILP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1694" width="260" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-19" value="④ 字典序压缩优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1694" width="260" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-20" value="⑤ 结果与审计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1694" width="260" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
