@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="n23" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;dashed=1;opacity=95;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="360" y="419" width="1600" height="360" as="geometry" />
+          <mxGeometry x="297.5" y="419" width="1725" height="457" as="geometry" />
         </mxCell>
         <mxCell id="n24" value="问题一：超声检查需求分析与基础排程优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b9e0b9;strokeColor=#82b366;fontSize=17;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="436" width="1000" height="46" as="geometry" />
@@ -36,9 +36,6 @@
         </mxCell>
         <mxCell id="n38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="n39" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#999999;strokeWidth=1;dashed=1;opacity=95;" parent="1" vertex="1">
-          <mxGeometry x="400" y="1010" width="1600" height="360" as="geometry" />
         </mxCell>
         <mxCell id="n40" value="问题二：患者级48小时预约方案优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b9e0b9;strokeColor=#82b366;fontSize=17;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="1026" width="1000" height="46" as="geometry" />
