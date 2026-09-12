@@ -7,9 +7,6 @@
         <mxCell id="n23" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#999999;strokeWidth=1;dashed=1;opacity=95;" parent="1" vertex="1">
           <mxGeometry x="393" y="412" width="1600" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="n2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=2;fontStyle=1;glass=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="700" y="250" width="1000" height="84" as="geometry" />
-        </mxCell>
         <mxCell id="n3" value="研究框架" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontColor=#0b3a66;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="293" width="180" height="74" as="geometry" />
         </mxCell>
@@ -113,7 +110,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-1" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="1376" y="273" width="120" height="60" as="geometry" />
+          <mxGeometry x="658" y="236" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
