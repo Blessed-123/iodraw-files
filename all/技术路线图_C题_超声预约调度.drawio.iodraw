@@ -1,13 +1,13 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram id="c-roadmap" name="C题超声预约技术路线图">
-    <mxGraphModel dx="3033" dy="1820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="2800" math="0" shadow="0">
+    <mxGraphModel dx="3466" dy="2080" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="2800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="n23" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#999999;strokeWidth=1;dashed=1;opacity=95;" parent="1" vertex="1">
           <mxGeometry x="393" y="412" width="1600" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="n2" value="面向住院患者48小时完成率的超声预约调度优化研究" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=2;fontStyle=1;glass=0;shadow=0;" parent="1" vertex="1">
+        <mxCell id="n2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=2;fontStyle=1;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="250" width="1000" height="84" as="geometry" />
         </mxCell>
         <mxCell id="n3" value="研究框架" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontColor=#0b3a66;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
@@ -47,27 +47,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" source="n9" target="n10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="n16" value="数据预处理与描述统计 患者级Episode构建 项目-机器兼容矩阵 服务时间估计 需求状态(高峰/常规/平峰) 连续流LP网络流建模" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbe7f3;strokeColor=#10739e;fontSize=11;fontColor=#0c4a66;strokeWidth=1.5;" parent="1" vertex="1">
-          <mxGeometry x="2100" y="480" width="180" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="n17" value="候选列生成(Beam Search) 机会成本与时间带配额 集合包装0-1 MILP 贪心下界+自适应列扩展 ε-约束法与Pareto选择 理想点法(拐点)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbe7f3;strokeColor=#10739e;fontSize=11;fontColor=#0c4a66;strokeWidth=1.5;" parent="1" vertex="1">
-          <mxGeometry x="2100" y="1070" width="180" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="n18" value="分层多目标MILP 字典序(最坏→期望→总体→资源) AUGMECON / HiGHS求解 CVaR压力测试" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbe7f3;strokeColor=#10739e;fontSize=11;fontColor=#0c4a66;strokeWidth=1.5;" parent="1" vertex="1">
-          <mxGeometry x="2100" y="1660" width="180" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="n19" value="Service-Fixed Restricted Column MILP + 候选列压缩 峰值利用率最小化 ALNS大邻域修复 可行解安全回退 + QA校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbe7f3;strokeColor=#10739e;fontSize=11;fontColor=#0c4a66;strokeWidth=1.5;" parent="1" vertex="1">
-          <mxGeometry x="2100" y="2035" width="180" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="n20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" source="n16" target="n17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="n21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" source="n17" target="n18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="n22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" source="n18" target="n19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n24" value="问题一：超声检查需求分析与基础排程优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b9e0b9;strokeColor=#82b366;fontSize=17;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
