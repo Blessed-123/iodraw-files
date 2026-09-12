@@ -157,8 +157,8 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-56" value="水分守恒和 Fick 定律" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="617" width="170" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-57" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="479" width="50" height="71" as="geometry" />
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-57" value="温度控制方程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="481" width="60" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
