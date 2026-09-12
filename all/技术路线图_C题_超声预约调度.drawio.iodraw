@@ -104,7 +104,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-1" value="&lt;span style=&quot;font-family: 黑体; font-size: 15pt; letter-spacing: 0px; font-weight: bold;&quot;&gt;&lt;b&gt;药材的烘干问题&lt;/b&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="595" y="208" width="1147" height="128" as="geometry" />
+          <mxGeometry x="580" y="208" width="1164" height="128" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-3" value="&lt;span style=&quot;color: rgb(11, 58, 102); font-size: 18px; font-weight: 700;&quot;&gt;研究框架&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="138" y="261" width="252" height="115" as="geometry" />
