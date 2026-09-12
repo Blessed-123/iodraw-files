@@ -1,0 +1,220 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
+  <diagram id="c-roadmap" name="C题超声预约技术路线图">
+    <mxGraphModel dx="2205" dy="1324" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="2800" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#999999;strokeWidth=1;dashed=1;opacity=95;" parent="1" vertex="1">
+          <mxGeometry x="120" y="140" width="2160" height="2500" as="geometry" />
+        </mxCell>
+        <mxCell id="n2" value="面向住院患者48小时完成率的超声预约调度优化研究" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=24;fontColor=#b85450;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="250" width="1000" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="n3" value="研究框架" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontColor=#0b3a66;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="262" width="180" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="n4" value="研究方法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontColor=#0b3a66;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="2100" y="262" width="180" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="n5" value="提出问题" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontColor=#0b3a66;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="330" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n6" value="分析问题" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontColor=#0b3a66;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="490" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n7" value="基础排程与容量感知优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e0ef;strokeColor=#4a86b8;fontSize=14;fontColor=#0b3a66;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="610" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="n8" value="患者级预约优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e0ef;strokeColor=#4a86b8;fontSize=14;fontColor=#0b3a66;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="1200" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="n9" value="资源压缩与服务水平保持" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e0ef;strokeColor=#4a86b8;fontSize=14;fontColor=#0b3a66;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="1790" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="n10" value="调度策略建议" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontColor=#0b3a66;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="2130" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" source="n5" target="n6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" source="n6" target="n7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" source="n7" target="n8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" source="n8" target="n9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" source="n9" target="n10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n16" value="数据预处理与描述统计 患者级Episode构建 项目-机器兼容矩阵 服务时间估计 需求状态(高峰/常规/平峰) 连续流LP网络流建模" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbe7f3;strokeColor=#10739e;fontSize=11;fontColor=#0c4a66;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="2100" y="480" width="180" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n17" value="候选列生成(Beam Search) 机会成本与时间带配额 集合包装0-1 MILP 贪心下界+自适应列扩展 ε-约束法与Pareto选择 理想点法(拐点)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbe7f3;strokeColor=#10739e;fontSize=11;fontColor=#0c4a66;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="2100" y="1070" width="180" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n18" value="分层多目标MILP 字典序(最坏→期望→总体→资源) AUGMECON / HiGHS求解 CVaR压力测试" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbe7f3;strokeColor=#10739e;fontSize=11;fontColor=#0c4a66;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="2100" y="1660" width="180" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n19" value="Service-Fixed Restricted Column MILP + 候选列压缩 峰值利用率最小化 ALNS大邻域修复 可行解安全回退 + QA校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbe7f3;strokeColor=#10739e;fontSize=11;fontColor=#0c4a66;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="2100" y="2035" width="180" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" source="n16" target="n17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" source="n17" target="n18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" source="n18" target="n19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n23" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#999999;strokeWidth=1;dashed=1;opacity=95;" parent="1" vertex="1">
+          <mxGeometry x="400" y="420" width="1600" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="n24" value="问题一：超声检查需求分析与基础排程优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b9e0b9;strokeColor=#82b366;fontSize=17;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="436" width="1000" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="n25" value="① 需求统计与情景识别" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="494" width="260" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="n26" value="分群体需求：门诊/体检/住院&amp;#10;各临床科室需求量统计&amp;#10;高峰期判定(3-4月、周一/二)&amp;#10;周需求状态(高/常/平峰)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b0b0b0;fontSize=12;fontColor=#000000;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="430" y="548" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="n27" value="② 数据与资源建模" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="494" width="260" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="n28" value="项目-机器兼容矩阵&amp;#10;检查项目平均用时估计&amp;#10;医生容量(Q25/Q90)&amp;#10;48h窗口+空腹/憋尿约束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b0b0b0;fontSize=12;fontColor=#000000;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="730" y="548" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="n29" value="③ 排程模型构建" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="494" width="260" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="n30" value="场景式随机规划(SAA)&amp;#10;高/常/平峰代表周场景&amp;#10;连续流网络流LP建模&amp;#10;医生+机器容量约束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b0b0b0;fontSize=12;fontColor=#000000;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="548" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="n31" value="④ 多目标优化求解" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="494" width="260" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="n32" value="ε-约束构造Pareto前沿&amp;#10;拐点(理想点法)自动选ε*&amp;#10;字典序：最坏→期望→总体→资源&amp;#10;非住院服务≥80%保护线" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b0b0b0;fontSize=12;fontColor=#000000;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="548" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="n33" value="⑤ 输出资源模板" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1630" y="494" width="260" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="n34" value="各状态诊室-时段开放表&amp;#10;Q25/Q90医生配置&amp;#10;候选机器分配方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b0b0b0;fontSize=12;fontColor=#000000;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="1630" y="548" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="n35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n39" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#999999;strokeWidth=1;dashed=1;opacity=95;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1010" width="1600" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="n40" value="问题二：患者级48小时预约方案优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b9e0b9;strokeColor=#82b366;fontSize=17;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="1026" width="1000" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="n41" value="① 患者级场景输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="1084" width="260" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="n42" value="住院患者48h窗口&amp;#10;检查项目组合(1-5项)&amp;#10;开单时间与48h截止&amp;#10;空腹约束(10:00前)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b0b0b0;fontSize=12;fontColor=#000000;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="430" y="1138" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="n43" value="② 候选方案列生成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="1084" width="260" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="n44" value="组件候选(锚点采样)&amp;#10;束搜索(Beam Search)拼装&amp;#10;时间带配额与多样性&amp;#10;完整48h方案列池" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b0b0b0;fontSize=12;fontColor=#000000;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="730" y="1138" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="n45" value="③ 全局选择(MILP)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="1084" width="260" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="n46" value="集合包装0-1 MILP&amp;#10;HiGHS求解+自适应列扩展&amp;#10;贪心可行解作下界&amp;#10;最大化完整预约人数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b0b0b0;fontSize=12;fontColor=#000000;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="1138" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="n47" value="④ 修复与重排" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="1084" width="260" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="n48" value="直接插入修复&amp;#10;ALNS大邻域局部MILP&amp;#10;覆盖2-swap/3-swap&amp;#10;空腹覆盖不退化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b0b0b0;fontSize=12;fontColor=#000000;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="1138" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="n49" value="⑤ 质量优化与输出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1630" y="1084" width="260" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="n50" value="最小化等待/跨日/跨诊室&amp;#10;保留Top-K备选方案&amp;#10;输出患者级排班+推荐排序" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b0b0b0;fontSize=12;fontColor=#000000;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="1630" y="1138" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="n51" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n53" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n55" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#999999;strokeWidth=1;dashed=1;opacity=95;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1600" width="1600" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="n56" value="问题三：固定服务水平资源压缩优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b9e0b9;strokeColor=#82b366;fontSize=17;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="1616" width="1000" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="n57" value="① 服务结果锁定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="1674" width="260" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="n58" value="固定住院48h服务(1290/1308)&amp;#10;门诊/体检100%服务&amp;#10;记录基准资源使用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b0b0b0;fontSize=12;fontColor=#000000;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="430" y="1728" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="n59" value="② 候选列压缩" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="1674" width="260" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="n60" value="住院方案列缩减(≤12列)&amp;#10;非住院组件候选(≤8)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b0b0b0;fontSize=12;fontColor=#000000;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="730" y="1728" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="n61" value="③ 资源压缩MILP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="1674" width="260" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="n62" value="Service-Fixed Restricted Column MILP&amp;#10;5分钟级机器/医生约束&amp;#10;动态窗口激活(z)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b0b0b0;fontSize=12;fontColor=#000000;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="1728" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="n63" value="④ 字典序压缩优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="1674" width="260" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="n64" value="最小化模板外新增诊室-时段&amp;#10;最小化总诊室-时段&amp;#10;最小化峰值资源利用率&amp;#10;优化等待/跨日/方案成本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b0b0b0;fontSize=12;fontColor=#000000;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="1728" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="n65" value="⑤ 结果与审计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1630" y="1674" width="260" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="n66" value="可行解安全回退(不退化)&amp;#10;完整QA校验&amp;#10;压缩前后对比(新增↓67%、总↓42%)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b0b0b0;fontSize=12;fontColor=#000000;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="1630" y="1728" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="n67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n68" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n69" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n70" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
