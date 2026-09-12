@@ -119,16 +119,19 @@
           <mxGeometry x="688" y="2034" width="1000" height="46" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-35" value="① 服务结果锁定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="411" y="2171" width="260" height="48" as="geometry" />
+          <mxGeometry x="349" y="2165" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-37" value="① 服务结果锁定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1437" y="2165" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-38" value="① 服务结果锁定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="2171" width="260" height="48" as="geometry" />
+          <mxGeometry x="667" y="2165" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-39" value="① 服务结果锁定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1109" y="2174" width="260" height="48" as="geometry" />
+          <mxGeometry x="1007" y="2161" width="260" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-40" value="① 服务结果锁定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1678" y="2406" width="260" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
