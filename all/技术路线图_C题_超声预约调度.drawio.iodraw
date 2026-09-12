@@ -115,6 +115,12 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-5" value="&lt;span style=&quot;color: rgb(11, 58, 102); font-size: 18px; font-weight: 700;&quot;&gt;研究方法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1993" y="256" width="252" height="115" as="geometry" />
         </mxCell>
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-34" value="问题二：患者级48小时预约方案优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b9e0b9;strokeColor=#82b366;fontSize=17;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="688" y="2034" width="1000" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-35" value="① 服务结果锁定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1684" width="260" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
