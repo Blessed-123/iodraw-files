@@ -28,10 +28,10 @@
         <mxCell id="n29" value="边界条件与初始状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1460" y="500" width="260" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="n31" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="n31" value="线性求解与结果组织" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="770" width="260" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="n33" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="n33" value="收敛性与物理一致性检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="762" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
