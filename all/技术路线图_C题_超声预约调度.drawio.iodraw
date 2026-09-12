@@ -151,8 +151,8 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-53" value="建立控制方程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="1017" y="479" width="110" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-54" value="求解 1800 s 内圆柱药材的径向温度场 T(r,t) 与水分浓度场 C(r,t)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="480" width="330" height="72" as="geometry" />
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-54" value="能量守恒和 Fourier 定律" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="480" width="130" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
