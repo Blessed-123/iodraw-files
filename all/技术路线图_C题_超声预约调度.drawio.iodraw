@@ -7,7 +7,7 @@
         <mxCell id="n23" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#999999;strokeWidth=1;dashed=1;opacity=95;" parent="1" vertex="1">
           <mxGeometry x="393" y="412" width="1600" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="n2" value="面向住院患者48小时完成率的超声预约调度优化研究" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=2;fontStyle=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="n2" value="面向住院患者48小时完成率的超声预约调度优化研究" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=2;fontStyle=1;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="250" width="1000" height="84" as="geometry" />
         </mxCell>
         <mxCell id="n3" value="研究框架" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontColor=#0b3a66;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
