@@ -116,7 +116,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vHZNnp70cTp2YP3ywfks-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;dashed=1;fillColor=#FFB366;" parent="1" vertex="1">
+        <mxCell id="vHZNnp70cTp2YP3ywfks-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1558" y="1546.5" width="492" height="283.5" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;strokeColor=#b85450;dashed=1;fillColor=#f8cecc;" parent="1" vertex="1">
@@ -308,13 +308,13 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-52" value="依据长径比和轴对称特征，将问题降为一维径向传热传质模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#E5FAE4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="580" y="639.25" width="320" height="110.75" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-53" value="建立控制方程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1;fontStyle=1;fillColor=#F6E9FC;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-53" value="建立控制方程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="960" y="529.63" width="110" height="210" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-205" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="FZW20HWMj3qy4EFfsu5H-54" target="FZW20HWMj3qy4EFfsu5H-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-54" value="能量守恒和 Fourier 定律" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#F6E9FC;" parent="1" vertex="1">
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-54" value="能量守恒和 Fourier 定律" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1080" y="538.75" width="200" height="81.25" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-206" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="FZW20HWMj3qy4EFfsu5H-56" target="FZW20HWMj3qy4EFfsu5H-58">
