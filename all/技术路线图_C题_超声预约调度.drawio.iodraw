@@ -537,10 +537,10 @@
           <mxGeometry x="1580" y="3050" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-102" value="检测阈值自动细分时间步并局部二分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="3350" width="410" height="80" as="geometry" />
+          <mxGeometry x="1030" y="3340" width="410" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-104" value="&amp;nbsp;Thomas 算法求解&lt;div style=&quot;font-size: 27px;&quot;&gt;Picard 不收敛时减小时间步&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="3460" width="480" height="90" as="geometry" />
+          <mxGeometry x="1550" y="3460" width="490" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=27;strokeWidth=2;endSize=9;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-121" target="HYAzZhG7RNsZK3y5gQgT-122">
           <mxGeometry relative="1" as="geometry">
