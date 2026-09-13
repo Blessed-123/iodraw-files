@@ -227,10 +227,10 @@
           <mxGeometry x="1227" y="840.5" width="210.32" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-88" value="通过空间网格和时间步收敛性检验评估离散误差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="617" y="830" width="203" height="70" as="geometry" />
+          <mxGeometry x="617" y="830" width="213" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-89" value="结合参数敏感性与能量守恒校核，验证模型及数值结果的一致性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="930" width="200" height="70" as="geometry" />
+          <mxGeometry x="620" y="930" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
