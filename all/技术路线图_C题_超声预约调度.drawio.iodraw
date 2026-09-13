@@ -215,7 +215,7 @@
           <mxGeometry x="1810" y="870" width="240" height="34" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-84" value="将结果插值至规定时空网格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="970" width="213" height="77" as="geometry" />
+          <mxGeometry x="1170" y="980" width="213" height="77" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-87" value="调用 Thomas 算法顺序求解温度场与水分浓度场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="880.5" width="210.32" height="80" as="geometry" />
@@ -225,6 +225,9 @@
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-89" value="结合参数敏感性与能量守恒校核，验证模型及数值结果的一致性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="1020" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-91" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="891.5" width="440" height="247" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
