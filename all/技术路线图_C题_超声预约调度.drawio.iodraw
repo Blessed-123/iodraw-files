@@ -200,7 +200,7 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-5" value="&lt;span style=&quot;color: rgb(11, 58, 102); font-size: 18px; font-weight: 700;&quot;&gt;研究方法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1970" y="180" width="252" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-34" value="问题四：患者级48小时预约方案优化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-34" value="问题四：基于药材因水分流失发生尺寸变化条件确定药材的烘干时长" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="665" y="3171" width="1000" height="46" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-35" value="① 服务结果锁定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
