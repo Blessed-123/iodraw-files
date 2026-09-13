@@ -388,10 +388,10 @@
           <mxGeometry x="525.5" y="1560" width="340" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-105" value="问题一采用常数物性，仅适用于短时预热阶段，难以刻画完整烘干过程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="521.5" y="1305.5" width="327.5" height="70" as="geometry" />
+          <mxGeometry x="510" y="1305.5" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-106" value="需建立物性与状态量之间的函数关系，实现温度场与水分场的联立求解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="521.5" y="1385.5" width="323.5" height="70" as="geometry" />
+          <mxGeometry x="510" y="1385.5" width="350" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-114" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;\(D\) 同时随 \(C\) 和温度 \(T\) 变化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="994.13" y="1385.5" width="145.87" height="70" as="geometry" />
@@ -403,13 +403,13 @@
           <mxGeometry x="1150" y="1300" width="320" height="155.5" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-12" value="初始状态为 T=28 °C、C=2.55 kg/kg" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1610" y="1355.5" width="355" height="44.5" as="geometry" />
+          <mxGeometry x="1610" y="1355.5" width="380" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-13" value="中心采用零通量边界，表面施加 Robin 换热与传质条件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1610" y="1297" width="380" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-14" value="附件 1 时间范围外采用末端值延拓" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1618" y="1410" width="347" height="50" as="geometry" />
+          <mxGeometry x="1610" y="1410" width="380" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-16" value="空间采用径向有限体积法，dr=1 mm" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1578" y="1626.5" width="150" height="80" as="geometry" />
@@ -457,7 +457,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-37" value="采用不同 dr 开展空间离散收敛性检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="528.25" y="1630" width="156.75" height="80" as="geometry" />
+          <mxGeometry x="510" y="1630" width="175" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="vHZNnp70cTp2YP3ywfks-38" target="vHZNnp70cTp2YP3ywfks-39" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -477,7 +477,7 @@
           <mxGeometry x="734.25" y="1730" width="150.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-40" value="确认误差收敛检验计算时间范围" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="528.25" y="1730" width="156.75" height="80" as="geometry" />
+          <mxGeometry x="510" y="1730" width="175" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-46" value="完成Picard收敛后推进时间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1055" y="1661.75" width="360" height="40" as="geometry" />
