@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram id="c-roadmap" name="C题超声预约技术路线图">
-    <mxGraphModel dx="578" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
+    <mxGraphModel dx="1733" dy="1840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,6 +91,9 @@
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-91" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="800" width="470" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZW20HWMj3qy4EFfsu5H-83" target="FZW20HWMj3qy4EFfsu5H-91">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-83" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1590" y="796.16" width="450" height="247" as="geometry" />
@@ -661,9 +664,6 @@
             <mxPoint x="616.25" y="3647.5" as="sourcePoint" />
             <mxPoint x="655.75" y="3567.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-128" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;\begin{aligned}&lt;br&gt;\rho(C)c_p(C)\frac{\partial T}{\partial t}&lt;br&gt;&amp;amp;=&lt;br&gt;\frac{1}{r}\frac{\partial}{\partial r}&lt;br&gt;\left(&lt;br&gt;k(C)r\frac{\partial T}{\partial r}&lt;br&gt;\right)\\&lt;br&gt;\frac{\partial C}{\partial t}&lt;br&gt;&amp;amp;=&lt;br&gt;\frac{1}{r}\frac{\partial}{\partial r}&lt;br&gt;\left(&lt;br&gt;D(C,T)r\frac{\partial C}{\partial r}&lt;br&gt;\right)&lt;br&gt;\end{aligned}&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2590" y="1207.25" width="278.25" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
