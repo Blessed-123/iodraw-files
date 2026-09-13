@@ -552,10 +552,10 @@
           <mxGeometry x="1047.75" y="2968" width="392.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-96" value="水分浓度场采用径向非稳态扩散模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1126.75" y="3135" width="206.5" height="85" as="geometry" />
+          <mxGeometry x="1037" y="3125" width="413" height="85" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-97" value="温度场采用圆柱坐标下的径向非稳态导热模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1037" y="3025" width="403" height="85" as="geometry" />
+          <mxGeometry x="1037" y="3025" width="413" height="85" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-98" value="ξ 方向取 N=250，几何量按步末 R(tⁿ⁺¹) 更新，界面 D、k 采用调和平均" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1570" y="3334.5" width="380" height="70" as="geometry" />
