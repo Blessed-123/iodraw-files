@@ -14,7 +14,7 @@
           <mxGeometry x="400" y="400" width="1710" height="680" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-123" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="518.5" y="3252.5" width="410" height="320" as="geometry" />
+          <mxGeometry x="518.5" y="3250" width="410" height="322.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeWidth=2;endSize=9;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-122">
           <mxGeometry relative="1" as="geometry">
@@ -705,10 +705,10 @@
           <mxGeometry x="547" y="3465" width="92.12" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-113" value="固定距离满足 r≤R(t) 时按 ξ=r/R(t) 插值，r&amp;gt;R(t) 时结果留空，并另设“药材表面”列" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="541.75" y="3370" width="355.25" height="60" as="geometry" />
+          <mxGeometry x="544.5" y="3360" width="355.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-114" value="模型采用均匀、等比、径向收缩假设" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="544.25" y="3310" width="355.75" height="40" as="geometry" />
+          <mxGeometry x="530" y="3310" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-116" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-112">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
