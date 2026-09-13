@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vHZNnp70cTp2YP3ywfks-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="477" y="1243" width="440" height="247" as="geometry" />
+        </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-92" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="412" y="800" width="440" height="247" as="geometry" />
         </mxCell>
@@ -290,9 +293,6 @@
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-115" value="\(\rho\)、\(c_p\)、\(k\) 随水分浓度 \(C\) 变化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" y="1330" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vHZNnp70cTp2YP3ywfks-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="422" y="810" width="440" height="247" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
