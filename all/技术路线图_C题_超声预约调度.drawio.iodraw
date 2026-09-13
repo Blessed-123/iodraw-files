@@ -308,7 +308,7 @@
           <mxGeometry x="1642.26" y="2900" width="306.5" height="58" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-40" value="时空离散与耦合求解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=1.5;fontStyle=1;fillColor=#FFD9AD;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1623.25" y="3274.5" width="330" height="48" as="geometry" />
+          <mxGeometry x="1635" y="3274.5" width="330" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-51" value="求解 1800 s 内圆柱药材的径向温度与水分浓度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="580" y="529.25" width="320" height="100.75" as="geometry" />
@@ -513,7 +513,7 @@
           <mxGeometry x="500" y="2500" width="400" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-79" value="全域达标与终点定位" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=1.5;fontStyle=1;fillColor=#FFD9AD;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="3259.5" width="339.5" height="40" as="geometry" />
+          <mxGeometry x="1071.75" y="3260" width="339.5" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-81" value="考虑产生移动边界和网格重构问题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="520" y="2980" width="420" height="90" as="geometry" />
@@ -537,7 +537,7 @@
           <mxGeometry x="1580" y="3050" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-102" value="检测阈值自动细分时间步并局部二分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="3350" width="410" height="60" as="geometry" />
+          <mxGeometry x="1030" y="3350" width="410" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-104" value="&amp;nbsp;Thomas 算法求解&lt;div style=&quot;font-size: 27px;&quot;&gt;Picard 不收敛时减小时间步&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1550" y="3460" width="490" height="90" as="geometry" />
