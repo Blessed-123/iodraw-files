@@ -448,7 +448,7 @@
           <mxGeometry x="580" y="2190" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-6" value="事件目标可写为&#xa;\(&#xa;t_{\mathrm{dry}}&#xa;=&#xa;\inf&#xa;\left\{&#xa;t\geq 0:&#xa;\max_{r\in[0,R]} C(r,t)&#xa;&lt;&#xa;0.15\ \mathrm{kg/kg}&#xa;\right\}&#xa;\)。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="2170" width="120" height="60" as="geometry" />
+          <mxGeometry x="938.75" y="2170" width="330" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
