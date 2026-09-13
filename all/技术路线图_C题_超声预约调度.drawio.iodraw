@@ -628,7 +628,7 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-109" value="当时间区间宽度不超过 0.1 s 时，取右端时刻作为烘干终点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1211.75" y="3620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-110" value="固定半径、界面平均、通量平衡和 Cmax 单调性检验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-110" value="进一步比较固定半径、界面平均、通量平衡和 Cmax 单调性检验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1038.5" y="3750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-111" value="进开展网格、时间步、环境延拓、R(t) 插值检验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
