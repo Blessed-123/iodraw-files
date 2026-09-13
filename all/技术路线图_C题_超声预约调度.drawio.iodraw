@@ -77,19 +77,19 @@
           <mxGeometry x="640" y="1139" width="1180" height="71" as="geometry" />
         </mxCell>
         <mxCell id="n41" value="问题一局限分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="482" y="1310" width="260" height="48" as="geometry" />
+          <mxGeometry x="620" y="1330" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n43" value="变物性双向耦合模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="782" y="1310" width="260" height="48" as="geometry" />
+          <mxGeometry x="1030" y="1320" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n45" value="边界条件与数据延拓" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1082" y="1310" width="260" height="48" as="geometry" />
+          <mxGeometry x="1470" y="1310" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n47" value="有限体积离散与 Picard 迭代" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1382" y="1310" width="260" height="48" as="geometry" />
+          <mxGeometry x="1470" y="1490" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n49" value="时间推进与结果输出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="923" y="1530" width="260" height="48" as="geometry" />
+          <mxGeometry x="1035.65" y="1490" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n51" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry" />
