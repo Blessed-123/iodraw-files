@@ -224,13 +224,13 @@
         <mxCell id="n43" value="变物性双向耦合模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1030" y="1239" width="430" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="n45" value="边界条件与数据延拓" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="n45" value="边界条件与数据延拓" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1605" y="1237.5" width="395" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="n47" value="有限体积离散与 Picard 迭代" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;fillColor=#FFB366;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="n47" value="有限体积离散与 Picard 迭代" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1591.01" y="1560" width="408.99" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="n49" value="时间推进与结果输出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;fillColor=#FFB366;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="n49" value="时间推进与结果输出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1046.31" y="1530" width="380" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n51" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
@@ -371,7 +371,7 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-89" value="参数敏感性与能量守恒&lt;div&gt;校核&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="610" y="925.5" width="310" height="104.5" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-104" value="空间收敛性与范围检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;fillColor=#FFB366;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-104" value="空间收敛性与范围检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="530" y="1546.5" width="340" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-105" value="问题一采用常数物性，难以刻画完整烘干过程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#FFB366;strokeColor=#d79b00;" parent="1" vertex="1">
