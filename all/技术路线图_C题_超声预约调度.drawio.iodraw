@@ -16,6 +16,9 @@
         <mxCell id="vHZNnp70cTp2YP3ywfks-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1553" y="1248.5" width="440" height="247" as="geometry" />
         </mxCell>
+        <mxCell id="vHZNnp70cTp2YP3ywfks-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vHZNnp70cTp2YP3ywfks-2" target="vHZNnp70cTp2YP3ywfks-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="1248.5" width="480" height="251.5" as="geometry" />
         </mxCell>
@@ -318,8 +321,14 @@
         <mxCell id="vHZNnp70cTp2YP3ywfks-13" value="中心采用零通量边界，表面施加 Robin 换热与传质条件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1613" y="1317" width="320" height="48.5" as="geometry" />
         </mxCell>
+        <mxCell id="vHZNnp70cTp2YP3ywfks-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vHZNnp70cTp2YP3ywfks-14" target="n47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-14" value="附件 1 时间范围外采用末端值延拓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1613" y="1435.5" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vHZNnp70cTp2YP3ywfks-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vHZNnp70cTp2YP3ywfks-16" target="vHZNnp70cTp2YP3ywfks-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-16" value="空间采用径向有限体积法，dr=1 mm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1559.99" y="1646.5" width="150" height="80" as="geometry" />
