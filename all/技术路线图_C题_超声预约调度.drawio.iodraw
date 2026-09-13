@@ -25,7 +25,7 @@
         <mxCell id="n25" value="明确问题与几何简化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="440" y="480" width="110" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="n29" value="边界条件与初始状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="n29" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1720" y="500" width="130" height="220" as="geometry" />
         </mxCell>
         <mxCell id="n31" value="线性求解与结果组织" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
@@ -189,6 +189,9 @@
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-70" value="中心轴处满足零通量条件，药材表面同时发生对流换热与对流传质" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1950" y="590" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-71" value="边界条件与初始状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1794" y="726" width="110" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
