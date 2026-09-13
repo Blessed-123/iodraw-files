@@ -358,7 +358,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-37" value="采用不同 dr 开展空间离散收敛性检验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="523.25" y="1638" width="130.75" height="82" as="geometry" />
+          <mxGeometry x="523.25" y="1640" width="156.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vHZNnp70cTp2YP3ywfks-38" target="vHZNnp70cTp2YP3ywfks-39">
           <mxGeometry relative="1" as="geometry" />
@@ -373,7 +373,7 @@
           <mxGeometry x="709.25" y="1740" width="149.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-40" value="确认误差收敛检验计算时间范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="523.25" y="1740" width="156.75" height="70" as="geometry" />
+          <mxGeometry x="523.25" y="1730" width="156.75" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
