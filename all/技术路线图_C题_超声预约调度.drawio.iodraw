@@ -370,7 +370,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-39" value="比较相邻网格结果并计算相对误差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="709.25" y="1740" width="149.5" height="70" as="geometry" />
+          <mxGeometry x="709.25" y="1740" width="149.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-40" value="确认误差收敛检验计算时间范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="523.25" y="1730" width="156.75" height="80" as="geometry" />
