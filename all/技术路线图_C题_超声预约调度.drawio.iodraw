@@ -492,7 +492,7 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-59" value="在区间 \([t^n,t^{n+1}]\) 内进行二分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1030" y="2500" width="410" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-61" value="重复二分直至区间宽度不超过 \(0.1\ \mathrm{s}\)，取最终右端时刻作为烘干终点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-61" value="重复二分，取最终右端时刻为烘干终点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1030" y="2590" width="410" height="79.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-70" value="记录各径向节点的水分浓度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
