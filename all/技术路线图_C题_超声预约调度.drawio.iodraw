@@ -350,10 +350,10 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-79" value="采用径向有限体积法，dr=1 mm" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#FFB366;" parent="1" vertex="1">
           <mxGeometry x="1750" y="800" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-80" value="离散方程构成三对角系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#FFF7E6;" parent="1" vertex="1">
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-80" value="离散方程构成三对角系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#FFB366;" parent="1" vertex="1">
           <mxGeometry x="1750" y="950" width="290" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-81" value="时间采用后向欧拉格式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#FFF7E6;" parent="1" vertex="1">
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-81" value="时间采用后向欧拉格式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#FFB366;" parent="1" vertex="1">
           <mxGeometry x="1750" y="870" width="290" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-84" value="将结果插值至规定时空网格" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#FDFFC9;" parent="1" vertex="1">
