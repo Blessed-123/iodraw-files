@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="468.5" width="490" height="231" as="geometry" />
+        </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="417" y="470" width="490" height="231" as="geometry" />
         </mxCell>
@@ -152,7 +155,7 @@
           <mxGeometry x="1017" y="479" width="110" height="210" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-54" value="能量守恒和 Fourier 定律" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="480" width="170" height="72" as="geometry" />
+          <mxGeometry x="1140" y="480" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-56" value="水分守恒和 Fick 定律" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="617" width="170" height="72" as="geometry" />
@@ -162,9 +165,6 @@
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-58" value="水分浓度控制方程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1330" y="619" width="60" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="468.5" width="490" height="231" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
