@@ -286,7 +286,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-104" value="空间收敛性与范围检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="1570" width="320" height="48" as="geometry" />
+          <mxGeometry x="540" y="1570" width="340" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-105" value="问题一采用常数物性，仅适用于短时预热阶段，难以刻画完整烘干过程" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="516.5" y="1325.5" width="327.5" height="70" as="geometry" />
