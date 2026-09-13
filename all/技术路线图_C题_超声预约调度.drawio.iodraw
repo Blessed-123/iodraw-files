@@ -616,7 +616,7 @@
           <mxGeometry x="1010" y="1380" width="290" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-210" value="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;圆柱轴对称一维降维&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;Fourier导热方程与Fick扩散方程&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;中心零通量边界与表面Robin边界&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;径向有限体积法&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2328" y="500" width="442" height="500" as="geometry" />
+          <mxGeometry x="2272" y="494.46" width="402" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
