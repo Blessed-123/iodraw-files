@@ -451,7 +451,7 @@
           <mxGeometry x="1064" y="1780" width="351" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-34" value="采用后向欧拉进行时间离散，自适应步长范围为 0.01–10 s" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="1600" width="390" height="42" as="geometry" />
+          <mxGeometry x="1040" y="1590" width="390" height="52" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="vHZNnp70cTp2YP3ywfks-37" target="vHZNnp70cTp2YP3ywfks-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -654,7 +654,7 @@
           <mxGeometry x="532.5" y="3100" width="390" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-83" value="在归一化物质坐标中建立收缩条件下的传热传质模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1071.5" y="2980" width="341.5" height="50" as="geometry" />
+          <mxGeometry x="1071.5" y="2980" width="368.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-94" value="有限体积界面导纳由扩散或导热系数、界面面积、网络间距共同确定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1248" y="3130" width="175" height="80" as="geometry" />
