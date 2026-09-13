@@ -14,7 +14,7 @@
           <mxGeometry x="938.75" y="1243" width="440" height="247" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1243" width="410.5" height="247" as="geometry" />
+          <mxGeometry x="450" y="1243" width="420.5" height="247" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-92" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="469.25" y="797" width="469.5" height="247" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="640" y="1139" width="1180" height="71" as="geometry" />
         </mxCell>
         <mxCell id="n41" value="问题一局限分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="550.5" y="1253.5" width="290" height="58" as="geometry" />
+          <mxGeometry x="500" y="1253.5" width="340.5" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="n43" value="变物性双向耦合模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="977.5" y="1253.5" width="362.5" height="48" as="geometry" />
