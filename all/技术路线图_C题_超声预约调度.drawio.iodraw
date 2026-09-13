@@ -464,8 +464,8 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="666" y="2125" width="29" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-14" value="&lt;div&gt;\\(&lt;/div&gt;&lt;div&gt;t_{\mathrm{dry}}&lt;/div&gt;&lt;div&gt;=&lt;/div&gt;&lt;div&gt;\inf&lt;/div&gt;&lt;div&gt;\left\{&lt;/div&gt;&lt;div&gt;t\geq0:&lt;/div&gt;&lt;div&gt;\max_{r\in[0,R]} C(r,t)&lt;/div&gt;&lt;div&gt;&amp;lt;&lt;/div&gt;&lt;div&gt;0.15\ \mathrm{kg/kg}&lt;/div&gt;&lt;div&gt;\right\}&lt;/div&gt;&lt;div&gt;\\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1134" y="2160" width="426" height="150" as="geometry" />
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-15" value="&lt;div&gt;\\(&lt;/div&gt;&lt;div&gt;t_{\mathrm{dry}}&lt;/div&gt;&lt;div&gt;=&lt;/div&gt;&lt;div&gt;\inf&lt;/div&gt;&lt;div&gt;\left\{&lt;/div&gt;&lt;div&gt;t\geq0:&lt;/div&gt;&lt;div&gt;\max_{r\in[0,R]} C(r,t)&lt;/div&gt;&lt;div&gt;&amp;lt;&lt;/div&gt;&lt;div&gt;0.15\ \mathrm{kg/kg}&lt;/div&gt;&lt;div&gt;\right\}&lt;/div&gt;&lt;div&gt;\\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="2520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
