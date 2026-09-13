@@ -310,19 +310,10 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-57" value="温度控制方程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="534.87" width="180" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="FZW20HWMj3qy4EFfsu5H-58" target="FZW20HWMj3qy4EFfsu5H-56" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-58" value="水分浓度控制方程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1348.5" y="635" width="145" height="90" as="geometry" />
+          <mxGeometry x="1320" y="635" width="173.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="FZW20HWMj3qy4EFfsu5H-54" target="FZW20HWMj3qy4EFfsu5H-57" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1177" y="650.75" as="sourcePoint" />
-            <mxPoint x="1227" y="600.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="FZW20HWMj3qy4EFfsu5H-56" target="FZW20HWMj3qy4EFfsu5H-58" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1177" y="650.75" as="sourcePoint" />
             <mxPoint x="1227" y="600.75" as="targetPoint" />
