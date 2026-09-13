@@ -107,7 +107,7 @@
           <mxGeometry x="1569.99" y="1586.5" width="380" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n49" value="时间推进与结果输出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1045.75" y="1560" width="374.25" height="48" as="geometry" />
+          <mxGeometry x="1040" y="1560" width="380" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n51" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -358,7 +358,7 @@
           <mxGeometry x="1059" y="1800" width="326" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-34" value="采用后向欧拉进行时间离散，自适应步长范围为 0.01–10 s" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="1620" width="340" height="42" as="geometry" />
+          <mxGeometry x="1050" y="1620" width="360" height="42" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vHZNnp70cTp2YP3ywfks-37" target="vHZNnp70cTp2YP3ywfks-38">
           <mxGeometry relative="1" as="geometry" />
@@ -390,7 +390,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-46" value="完成Picard收敛后推进时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="1681.75" width="340" height="40" as="geometry" />
+          <mxGeometry x="1050" y="1681.75" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vHZNnp70cTp2YP3ywfks-47" target="vHZNnp70cTp2YP3ywfks-32">
           <mxGeometry relative="1" as="geometry" />
