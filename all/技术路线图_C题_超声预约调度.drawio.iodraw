@@ -488,6 +488,9 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-61" value="重复二分直至区间宽度不超过 \(0.1\ \mathrm{s}\)，取最终右端时刻作为烘干终点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1030" y="2590" width="410" height="79.5" as="geometry" />
         </mxCell>
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-70" value="记录各径向节点的水分浓度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="513.49" y="2420" width="376.51" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-71" value="将结果映射到 0–2 cm、每隔 0.1 cm 的径向位置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="523.75" y="2580" width="366.25" height="80" as="geometry" />
         </mxCell>
