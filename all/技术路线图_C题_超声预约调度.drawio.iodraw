@@ -218,7 +218,7 @@
           <mxGeometry x="1159.68" y="973" width="213" height="77" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-87" value="调用 Thomas 算法顺序求解温度场与水分浓度场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1157" y="860" width="203" height="80" as="geometry" />
+          <mxGeometry x="1159.68" y="883.5" width="203" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-88" value="通过空间网格和时间步收敛性检验评估离散误差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="677" y="920" width="203" height="70" as="geometry" />
