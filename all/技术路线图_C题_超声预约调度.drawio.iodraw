@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram id="c-roadmap" name="C题超声预约技术路线图">
-    <mxGraphModel dx="2593" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
+    <mxGraphModel dx="3893" dy="2618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,8 +19,11 @@
         <mxCell id="vHZNnp70cTp2YP3ywfks-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="1248.5" width="480" height="251.5" as="geometry" />
         </mxCell>
+        <mxCell id="vHZNnp70cTp2YP3ywfks-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vHZNnp70cTp2YP3ywfks-1" target="vHZNnp70cTp2YP3ywfks-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1248.5" width="420.5" height="247" as="geometry" />
+          <mxGeometry x="470" y="1248.5" width="420.5" height="251.5" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-92" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="469.25" y="797" width="469.5" height="247" as="geometry" />
