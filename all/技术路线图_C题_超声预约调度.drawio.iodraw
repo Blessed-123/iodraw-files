@@ -552,28 +552,10 @@
           <mxGeometry x="1045" y="2408" width="375" height="52" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-59" value="若 \(F(t^n)\geq0\) 且 \(F(t^{n+1})&amp;lt;0\)，则在区间 \([t^n,t^{n+1}]\) 内进行二分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1020" y="2460" width="160" height="149.5" as="geometry" />
+          <mxGeometry x="1020" y="2480" width="410" height="129.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-61" value="重复二分直至区间宽度不超过 \(0.1\ \mathrm{s}\)，取最终右端时刻作为烘干终点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1070" y="2620" width="337.75" height="49.5" as="geometry" />
-        </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontStyle=1" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-59">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1320" y="2569.5" as="sourcePoint" />
-            <mxPoint x="1214.9999999999995" y="2489.4999999999995" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;fontStyle=1" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-59">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1320" y="2569.5" as="sourcePoint" />
-            <mxPoint x="1230" y="2539.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontStyle=1" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-59">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1320" y="2569.5" as="sourcePoint" />
-            <mxPoint x="1214.9999999999995" y="2590.25" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-70" value="确定烘干终点后，每 \(60\ \mathrm{s}\) 记录各径向节点的水分浓度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="513.49" y="2420" width="376.51" height="49.5" as="geometry" />
