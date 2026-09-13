@@ -254,6 +254,12 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-89" value="结合参数敏感性与能量守恒校核，验证模型及数值结果的一致性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="592" y="929" width="210" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-102" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="1210" as="sourcePoint" />
+            <mxPoint x="860" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
