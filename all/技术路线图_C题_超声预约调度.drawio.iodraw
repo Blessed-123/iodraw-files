@@ -539,16 +539,16 @@
           <mxGeometry x="1083" y="2636" width="180" height="74.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-60" value="固定左端状态和 BDF2 历史" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="2750" width="120" height="60" as="geometry" />
+          <mxGeometry x="1310" y="2589.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-61" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1095" y="2490.5" width="265" height="59.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-62" value="取中点重新求解 \(T_{\mathrm{mid}}\)、\(C_{\mathrm{mid}}\) 和 \(F(t_{\mathrm{mid}})\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="2620" width="120" height="60" as="geometry" />
+          <mxGeometry x="1310" y="2655.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-63" value="根据其符号更新左右区间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1328.5" y="2750" width="120" height="60" as="geometry" />
+          <mxGeometry x="1310" y="2720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
