@@ -383,8 +383,11 @@
         <mxCell id="vHZNnp70cTp2YP3ywfks-40" value="确认误差收敛检验计算时间范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="523.25" y="1740" width="156.75" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="vHZNnp70cTp2YP3ywfks-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vHZNnp70cTp2YP3ywfks-46" target="vHZNnp70cTp2YP3ywfks-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-46" value="完成Picard收敛后推进时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1064" y="1750" width="326" height="40" as="geometry" />
+          <mxGeometry x="1070" y="1820" width="326" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vHZNnp70cTp2YP3ywfks-47" target="vHZNnp70cTp2YP3ywfks-32">
           <mxGeometry relative="1" as="geometry" />
