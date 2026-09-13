@@ -520,7 +520,7 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-40" value="烘干完成转化为 F(t) 首次由非负变为负的下穿事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1567" y="2300" width="350" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-43" value="\\(T^{n}\\)、\\(C^{n}\\) 为初值；首步用后向欧拉启动，后续采用变步长 BDF2。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-43" value="T^n、\\(C^{n为初值；首步用后向欧拉启动，后续采用变步长 BDF2。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1672" y="2510" width="368" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-44" value="进入新时间层后，先根据当前迭代值更新 \\(\rho\\)、\\(c\\_p\\)、\\(k\\)、\\(D\\)。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
