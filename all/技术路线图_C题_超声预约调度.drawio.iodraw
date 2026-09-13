@@ -614,13 +614,13 @@
           <mxGeometry x="1533.25" y="3030" width="234" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-102" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="3590" width="120" height="60" as="geometry" />
+          <mxGeometry x="1498" y="3800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-103" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="3590" width="120" height="60" as="geometry" />
+          <mxGeometry x="1170" y="3450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-104" value="每个线性子问题由 Thomas 算法求解，Picard 不收敛时减小时间步" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="3610" width="120" height="60" as="geometry" />
+          <mxGeometry x="1582" y="3590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-105" value="时间采用首步后向欧拉与变步长 BDF2，层内通过 Picard 迭代处理非线性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1553" y="3500" width="190" height="60" as="geometry" />
