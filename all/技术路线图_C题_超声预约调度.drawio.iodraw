@@ -364,7 +364,7 @@
           <mxGeometry x="710.5" y="1740" width="149.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-40" value="确认误差收敛检验计算时间范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1730" width="160" height="60" as="geometry" />
+          <mxGeometry x="530" y="1740" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
