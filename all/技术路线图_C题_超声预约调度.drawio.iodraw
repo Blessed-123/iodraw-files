@@ -393,13 +393,13 @@
           <mxGeometry x="1580" y="1380" width="440" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-16" value="空间采用径向有限体积法，dr=1 mm" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1578" y="1620" width="192" height="100" as="geometry" />
+          <mxGeometry x="1578" y="1620" width="212" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-18" value="非线性项通过 Picard 迭代处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1610" y="1730" width="340" height="90" as="geometry" />
+          <mxGeometry x="1610" y="1730" width="380" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-19" value="线性子问题由 Thomas 算法求解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1781.01" y="1621.75" width="208.99" height="98.25" as="geometry" />
+          <mxGeometry x="1800" y="1621.75" width="230" height="98.25" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-32" value="对规定输出时刻进行线性插值" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1030" y="1760" width="400" height="60" as="geometry" />
