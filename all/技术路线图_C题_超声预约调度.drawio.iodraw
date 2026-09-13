@@ -632,13 +632,13 @@
           <mxGeometry x="1038.5" y="3750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-111" value="进一步开展网格、时间步、环境延拓、R(t) 插值、固定半径、界面平均、通量平衡和 Cmax 单调性检验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="3600" width="230" height="60" as="geometry" />
+          <mxGeometry x="928.5" y="3560" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-112" value="输出结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="3590" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="3580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-113" value="固定距离满足 r≤R(t) 时按 ξ=r/R(t) 插值，r&amp;gt;R(t) 时结果留空，并另设“药材表面”列" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="3470" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="3450" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
