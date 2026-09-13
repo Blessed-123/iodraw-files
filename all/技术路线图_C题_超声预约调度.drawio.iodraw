@@ -507,10 +507,10 @@
           <mxGeometry x="500" y="2430" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-71" value="将结果映射到径向位置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
-          <mxGeometry x="500" y="2580" width="400" height="80" as="geometry" />
+          <mxGeometry x="500" y="2590" width="400" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-72" value="对温度和水分浓度进行线性插值" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
-          <mxGeometry x="500" y="2500" width="400" height="70" as="geometry" />
+          <mxGeometry x="503" y="2505" width="400" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-79" value="全域达标与终点定位" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=1.5;fontStyle=1;fillColor=#FFD9AD;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1071.75" y="3260" width="339.5" height="47.5" as="geometry" />
