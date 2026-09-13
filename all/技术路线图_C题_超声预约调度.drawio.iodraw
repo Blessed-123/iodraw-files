@@ -273,8 +273,8 @@
             <mxPoint x="860" y="1159.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-104" value="时间推进与结果输出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1530" width="260" height="48" as="geometry" />
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-104" value="空间收敛性与范围检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1490" width="260" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
