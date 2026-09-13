@@ -18,20 +18,15 @@
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1774.98" y="1485.5" as="sourcePoint" />
-            <mxPoint x="1764.98" y="1570" as="targetPoint" />
+            <mxPoint x="1778" y="1485.5" as="sourcePoint" />
+            <mxPoint x="1768" y="1570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1553" y="1248.5" width="440" height="247" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vHZNnp70cTp2YP3ywfks-2" target="vHZNnp70cTp2YP3ywfks-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1530" y="1374" />
-              <mxPoint x="1530" y="1374" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="1248.5" width="480" height="251.5" as="geometry" />
