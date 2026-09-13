@@ -174,7 +174,7 @@
           <mxGeometry x="1573.5" y="2430.5" width="326" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n65" value="结果输出与未达标判定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="2410" width="320" height="48" as="geometry" />
+          <mxGeometry x="520" y="2410" width="330" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -575,13 +575,13 @@
           <mxGeometry x="510" y="2468" width="350" height="49.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-71" value="将结果映射到 0–2 cm、每隔 0.1 cm 的径向位置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="2600.5" width="340" height="69.5" as="geometry" />
+          <mxGeometry x="508.25" y="2589.5" width="340" height="69.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-72" value="对规定输出时刻 t_out∈[tⁿ,tⁿ⁺¹]，按 θ=(t_out−tⁿ)/(tⁿ⁺¹−tⁿ) 对温度和水分浓度进行线性插值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="507.25" y="2530" width="352.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-73" value="若 5 天内 F(t) 始终未变为负，应明确报告未达标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="2750" width="120" height="60" as="geometry" />
+          <mxGeometry x="516.5" y="2690" width="230" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
