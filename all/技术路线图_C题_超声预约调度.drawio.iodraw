@@ -512,7 +512,7 @@
           <mxGeometry x="1709.99" y="2125" width="190.01" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-39" value="判断规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1544.49" y="2237.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1544.49" y="2237.5" width="335.51" height="62.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
