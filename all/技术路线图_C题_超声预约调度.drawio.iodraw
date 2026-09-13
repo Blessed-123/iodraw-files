@@ -435,7 +435,7 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-2" value="阈值事件定位" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1058.5" y="2360" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontStyle=1" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-4" target="HYAzZhG7RNsZK3y5gQgT-5">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-4" target="HYAzZhG7RNsZK3y5gQgT-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="670.5" y="2129.5" />
@@ -444,7 +444,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-4" value="烘干时长求解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="470" y="2164.5" width="150.5" height="110.5" as="geometry" />
+          <mxGeometry x="470" y="2164.5" width="150.5" height="145.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-5" value="首个满足全域水分浓度低于 0.15 kg/kg 的时刻" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="685" y="2164.5" width="219" height="145.5" as="geometry" />
@@ -456,10 +456,10 @@
           <mxGeometry x="1220" y="2200.5" width="227" height="99.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-18" value="空间采用径向有限体积离散" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1030" y="2199.5" width="166" height="100.5" as="geometry" />
+          <mxGeometry x="1030" y="2199.5" width="166" height="140.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-19" value="沿用问题二的变物性双向耦合模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1060" y="2090" width="366" height="80" as="geometry" />
+          <mxGeometry x="1060" y="2090" width="366" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-31" value="从每个时间层的计算结果中提取全域最大水分浓度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1530" y="2090" width="500" height="70" as="geometry" />
