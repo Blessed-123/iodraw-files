@@ -87,7 +87,7 @@
           <mxGeometry x="469.25" y="797" width="469.5" height="247" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-91" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="786.52" width="470" height="253.48" as="geometry" />
+          <mxGeometry x="1030" y="800" width="470" height="240" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-83" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1590" y="796.16" width="450" height="247" as="geometry" />
@@ -300,7 +300,7 @@
           <mxGeometry x="507.25" y="818.5" width="110" height="210" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-77" value="线性求解与结果组织" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1071.75" y="804.1800000000001" width="110" height="210" as="geometry" />
+          <mxGeometry x="1070" y="820" width="110" height="204.66" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-78" value="有限体积离散与时间推进" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="1618" y="811.66" width="110" height="210" as="geometry" />
@@ -317,9 +317,6 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-82" value="中心与表面按半控制体处理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1750" y="866.16" width="260" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZW20HWMj3qy4EFfsu5H-84" target="n40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-84" value="将结果插值至规定时空网格" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="927.84" width="260" height="92.16" as="geometry" />
         </mxCell>
@@ -330,10 +327,10 @@
           <mxGeometry x="1200" y="820" width="260" height="88.34" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-88" value="通过空间网格和时间步收敛性检验评估离散误差" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="646.25" y="825.5" width="243.75" height="80" as="geometry" />
+          <mxGeometry x="646.25" y="825.5" width="273.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-89" value="结合参数敏感性与能量守恒校核，验证模型及数值结果的一致性" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="649.25" y="925.5" width="240.75" height="80" as="geometry" />
+          <mxGeometry x="649.25" y="925.5" width="270.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-104" value="空间收敛性与范围检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="520.5" y="1580" width="340" height="48" as="geometry" />
