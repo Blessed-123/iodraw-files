@@ -572,13 +572,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-70" value="确定烘干终点后，每 \(60\ \mathrm{s}\) 记录各径向节点的水分浓度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="2470.5" width="350" height="49.5" as="geometry" />
+          <mxGeometry x="510" y="2468" width="350" height="49.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-71" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="507.25" y="2680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-72" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="2589.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="540.5" y="2540.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-73" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="2750" width="120" height="60" as="geometry" />
