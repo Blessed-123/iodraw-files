@@ -73,8 +73,8 @@
         <mxCell id="n38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n40" value="问题二：患者级48小时预约方案优化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="1190" width="1000" height="46" as="geometry" />
+        <mxCell id="n40" value="建立整个烘干过程药材温度和水分浓度变化规律的数学模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="722" y="1139" width="1098" height="46" as="geometry" />
         </mxCell>
         <mxCell id="n41" value="① 患者级场景输入" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="417" y="1776" width="260" height="48" as="geometry" />
