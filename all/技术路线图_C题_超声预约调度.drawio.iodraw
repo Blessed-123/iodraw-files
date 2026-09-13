@@ -201,7 +201,7 @@
           <mxGeometry x="1970" y="180" width="252" height="115" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-34" value="问题四：基于药材因水分流失发生尺寸变化条件确定药材的烘干时长" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="2780" width="1280" height="80" as="geometry" />
+          <mxGeometry x="620" y="2800" width="1280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-35" value="移动边界问题转化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="509.5" y="2950" width="370" height="50" as="geometry" />
@@ -657,6 +657,9 @@
             <mxPoint x="800.5" y="3740" as="sourcePoint" />
             <mxPoint x="840" y="3660" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-119" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="2940" width="443" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
