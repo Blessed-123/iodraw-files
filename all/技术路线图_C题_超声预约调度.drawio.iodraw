@@ -39,7 +39,7 @@
           <mxGeometry x="1544.51" y="2910" width="443" height="310" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-101" value="采用附录 4 的 ρ(C)、cₚ(C)、k(C) 和 D(C,T) 经验关系" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1580" y="2980" width="370" height="60" as="geometry" />
+          <mxGeometry x="1580" y="2980" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;endSize=9;strokeWidth=2;fontStyle=1" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-119" target="HYAzZhG7RNsZK3y5gQgT-120">
           <mxGeometry relative="1" as="geometry" />
@@ -561,7 +561,7 @@
           <mxGeometry x="1570" y="3334.5" width="380" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-99" value="附件 2 的 R(t) 采用 PCHIP，中心为零通量条件，表面采用 Robin 换热与传质条件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1590" y="3140" width="360" height="70" as="geometry" />
+          <mxGeometry x="1580" y="3140" width="380" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-100" value="附件 1 在 4 h 内采用 PCHIP，4 h 后主模型保持最后一个小时 10800–14400 s 的平均值" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1580" y="3040" width="380" height="90" as="geometry" />
