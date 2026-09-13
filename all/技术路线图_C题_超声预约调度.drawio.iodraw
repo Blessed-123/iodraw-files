@@ -631,8 +631,8 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-110" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1038.5" y="3750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-111" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="3720" width="120" height="60" as="geometry" />
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-111" value="进一步开展网格、时间步、环境延拓、R(t) 插值、固定半径、界面平均、通量平衡和 Cmax 单调性检验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="3600" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-112" value="输出结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="3590" width="120" height="60" as="geometry" />
