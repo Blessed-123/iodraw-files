@@ -529,7 +529,7 @@
           <mxGeometry x="1580" y="3050" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-102" value="检测阈值自动细分时间步并局部二分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="3330" width="410" height="90" as="geometry" />
+          <mxGeometry x="1030" y="3330" width="410" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-104" value="每个线性子问题由 Thomas 算法求解，Picard 不收敛时减小时间步" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1550" y="3460" width="490" height="90" as="geometry" />
@@ -547,7 +547,7 @@
           <mxGeometry x="570" y="3450" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-114" value="模型采用均匀、等比、径向收缩假设" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="530" y="3320" width="400" height="100" as="geometry" />
+          <mxGeometry x="530" y="3340" width="400" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-138" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endSize=9;fontSize=24;fontStyle=1;fillColor=#F8CECC;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-41" target="HYAzZhG7RNsZK3y5gQgT-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
