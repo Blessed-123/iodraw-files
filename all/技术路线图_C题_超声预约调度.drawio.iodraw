@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FZW20HWMj3qy4EFfsu5H-92" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="412" y="797" width="440" height="247" as="geometry" />
+          <mxGeometry x="412" y="800.5" width="440" height="247" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-91" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1017" y="803.5" width="440" height="247" as="geometry" />
@@ -200,7 +200,7 @@
           <mxGeometry x="1827" y="626.97" width="216" height="51.03" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-76" value="收敛性与物理一致性检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="450" y="818.5" width="110" height="210" as="geometry" />
+          <mxGeometry x="450" y="822" width="110" height="210" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-77" value="线性求解与结果组织" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="1050" y="827.5" width="110" height="210" as="geometry" />
@@ -230,10 +230,10 @@
           <mxGeometry x="1190" y="834" width="217.32" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-88" value="通过空间网格和时间步收敛性检验评估离散误差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="589" y="825.5" width="213" height="80" as="geometry" />
+          <mxGeometry x="589" y="829" width="213" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-89" value="结合参数敏感性与能量守恒校核，验证模型及数值结果的一致性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="592" y="925.5" width="210" height="80" as="geometry" />
+          <mxGeometry x="592" y="929" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
