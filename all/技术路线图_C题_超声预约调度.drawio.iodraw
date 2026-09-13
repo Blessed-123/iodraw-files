@@ -738,7 +738,7 @@
           <mxGeometry x="2300" y="2180" width="320" height="370" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-163" value="&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font color=&quot;#333333&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;变物性建模&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font color=&quot;#333333&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;温度—水分双向耦合&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font color=&quot;#333333&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Picard非线性迭代&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font color=&quot;#333333&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;径向有限体积法 + 后向欧拉 + Thomas算法&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font color=&quot;#333333&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;PCHIP插值、自适应时间步与网格收敛检验&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2225" y="1193" width="470" height="597" as="geometry" />
+          <mxGeometry x="2230" y="1193" width="480" height="597" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-167" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;建立基础传热传质问题&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2" y="600" width="290" height="350" as="geometry" />
