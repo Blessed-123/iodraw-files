@@ -82,7 +82,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=1.5;fontStyle=1;strokeColor=#9673a6;dashed=1;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="1005.5" y="2024.5" width="443" height="305" as="geometry" />
+          <mxGeometry x="1005.5" y="2024.5" width="464.5" height="315.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endSize=9;fontSize=20;fontStyle=1" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-13" target="HYAzZhG7RNsZK3y5gQgT-28">
           <mxGeometry relative="1" as="geometry">
@@ -536,7 +536,7 @@
           <mxGeometry x="1582.99" y="2510" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-17" value="中心用零通量边界，表面为 Robin 换热与传质条件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1215" y="2264.5" width="227" height="55" as="geometry" />
+          <mxGeometry x="1215" y="2264.5" width="227" height="75.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-18" value="空间采用径向有限体积离散" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1034" y="2264.5" width="166" height="55" as="geometry" />
