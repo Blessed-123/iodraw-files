@@ -471,10 +471,10 @@
           <mxGeometry x="1550" y="2510" width="490" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-17" value="中心用零通量边界，&lt;div style=&quot;font-size: 26px;&quot;&gt;表面为 Robin 换热与传质条件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="2180" width="207" height="150" as="geometry" />
+          <mxGeometry x="1240" y="2190" width="190" height="140" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-18" value="空间采用径向有限体积离散" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="2180" width="180" height="150" as="geometry" />
+          <mxGeometry x="1040" y="2190" width="170" height="140" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-19" value="沿用问题二的变物性双向耦合模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="1030" y="2120" width="420" height="50" as="geometry" />
