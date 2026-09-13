@@ -595,8 +595,8 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-95" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="3220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-96" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="3220" width="120" height="60" as="geometry" />
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-96" value="水分浓度场采用径向非稳态扩散模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="3100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-97" value="温度场采用圆柱坐标下的径向非稳态导热模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="3100" width="130" height="60" as="geometry" />
