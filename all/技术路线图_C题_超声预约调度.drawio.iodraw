@@ -502,11 +502,14 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-31" value="从每个时间层的计算结果中提取全域最大水分浓度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1544.49" y="2121" width="145.51" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-32" target="HYAzZhG7RNsZK3y5gQgT-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-32" value="&lt;div&gt;构造达标事件函数&lt;span style=&quot;background-color: initial;&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1544.49" y="2180" width="145.51" height="40" as="geometry" />
+          <mxGeometry x="1490.49" y="2180" width="145.51" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-33" value="\[&lt;br&gt;C_{\max}(t)&lt;br&gt;=&lt;br&gt;\max_{r\in[0,R]} C(r,t)&lt;br&gt;\]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="2118" width="190.01" height="40" as="geometry" />
+          <mxGeometry x="1709.99" y="2125" width="190.01" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
