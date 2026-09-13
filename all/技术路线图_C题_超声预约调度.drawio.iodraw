@@ -474,7 +474,7 @@
           <mxGeometry x="666" y="2125" width="29" height="170" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-16" value="进入新时间层后，先根据当前迭代值更新\(\rho\)、\(c_p\)、\(k\) 、\(D\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1593.74" y="2540" width="301" height="29" as="geometry" />
+          <mxGeometry x="1560" y="2530" width="360" height="39" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-17" value="中心用零通量边界，表面为 Robin 换热与传质条件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="2285" width="200" height="65" as="geometry" />
