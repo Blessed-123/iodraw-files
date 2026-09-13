@@ -153,7 +153,7 @@
           <mxGeometry x="520.5" y="2070" width="330" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n59" value="物理模型继承" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1083" y="2070" width="260" height="48" as="geometry" />
+          <mxGeometry x="1060" y="2070" width="340" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n61" value="达标事件构造" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1636" y="2080" width="260" height="48" as="geometry" />
@@ -463,6 +463,9 @@
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="666" y="2125" width="29" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="2280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
