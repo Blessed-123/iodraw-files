@@ -1,0 +1,85 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
+  <diagram id="a-roadmap" name="A题药材烘干研究框架与方法">
+    <mxGraphModel dx="1213" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3400" pageHeight="2200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="2026 A题“药材的烘干问题”研究框架与研究方法" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#dbeafe;strokeColor=#2f6fb0;fontSize=28;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="40" width="2000" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="leftsec" value="研究框架" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=none;strokeColor=#94a3b8;dashed=1;fontSize=22;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="100" y="160" width="1500" height="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="rightsec" value="研究方法" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=none;strokeColor=#94a3b8;dashed=1;fontSize=22;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1740" y="160" width="1500" height="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="data" value="数据基础&#xa;附件1：烘房 T∞(t)、C∞(t)&#xa;附件2：药材半径 R(t)&#xa;附录2/3/4：物性与扩散系数参数" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#eef6ff;strokeColor=#5b8db8;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="180" y="250" width="1340" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="common" value="公共物理模型&#xa;圆柱径向轴对称：导热 + 水分扩散&#xa;中心零通量 + 表面 Robin 换热/传质&#xa;统一数值框架：PCHIP + 有限体积 + Thomas" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#e8f5e9;strokeColor=#2f8f83;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="180" y="440" width="1340" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q1" value="问题1：固定半径 + 常数物性&#xa;D 随 C 变化；求解 1800 s 预热平衡温度场与水分场&#xa;输出表1、表2和 result1.xlsx" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#eaf3fb;strokeColor=#2f6fb0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="180" y="650" width="1340" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="q2" value="问题2：固定半径 + 附录3变物性&#xa;ρ、cp、k 随 C 变化，D 随 C、T 变化&#xa;温度—水分双向耦合 + Picard 迭代；当前计算前3 h" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#eaf7f4;strokeColor=#2f8f83;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="180" y="870" width="1340" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="q3" value="问题3：在全域耦合模型上增加事件模型&#xa;F(t)=maxC−0.15；BE启动 + 变步长 BDF2&#xa;阈值跨越检测 + 局部二分，求烘干终点" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#fff4e6;strokeColor=#d6802b;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="180" y="1110" width="1340" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="q4" value="问题4：引入 R(t) 与归一化物质坐标&#xa;ξ=r/R(t)；附录4物性；4 h 后环境取最后一小时均值&#xa;阈值事件 + 固定距离映射 + validation4模型检验" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#f4eefc;strokeColor=#7a57a5;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="180" y="1350" width="1340" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="output" value="结果与验证&#xa;论文表1—表6；result1—result4；validation4&#xa;网格/时间步收敛、敏感性、能量与通量平衡" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#e8f5e9;strokeColor=#2f8f83;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="180" y="1590" width="1340" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="m1" value="数据处理方法&#xa;• 附件1、附件2数据校验与单位转换&#xa;• PCHIP 分段三次 Hermite 插值&#xa;• 环境末端延拓/最后一小时均值&#xa;• 输出时刻线性插值" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#f8fafc;strokeColor=#64748b;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="250" width="1340" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="m2" value="模型构建方法&#xa;• 控制体能量守恒与水分守恒&#xa;• Fourier导热、Fick扩散与Robin边界&#xa;• 变物性本构关系与双向耦合&#xa;• 问题4归一化物质坐标与移动边界" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#f8fafc;strokeColor=#64748b;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="530" width="1340" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="m3" value="数值求解方法&#xa;• 径向有限体积空间离散&#xa;• Thomas 三对角求解&#xa;• 问题1/2后向欧拉；问题3/4 BE+BDF2&#xa;• Picard 非线性迭代与自适应时间步" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#f8fafc;strokeColor=#64748b;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="850" width="1340" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="m4" value="事件与结果处理方法&#xa;• 阈值函数 F(t)=maxC−0.15&#xa;• 跨越检测、局部二分与 0.1 s 终点精度&#xa;• 物质坐标到固定物理距离的映射&#xa;• 表格与 Excel 结果组织" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#f8fafc;strokeColor=#64748b;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="1170" width="1340" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="m5" value="模型检验方法&#xa;• 网格、时间步收敛性检验&#xa;• 参数敏感性与环境延拓对比&#xa;• R(t) 插值、固定半径、界面平均对比&#xa;• 能量/水分通量平衡与 Cmax 单调性检查" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#f8fafc;strokeColor=#64748b;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="1470" width="1340" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=block;fontSize=16;fontColor=#555555;" parent="1" source="data" target="common" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=block;fontSize=16;fontColor=#555555;" parent="1" source="common" target="q1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" value="物性推广" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=block;fontSize=16;fontColor=#555555;" parent="1" source="q1" target="q2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" value="目标推广" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=block;fontSize=16;fontColor=#555555;" parent="1" source="q2" target="q3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" value="几何推广" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=block;fontSize=16;fontColor=#555555;" parent="1" source="q3" target="q4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=block;fontSize=16;fontColor=#555555;" parent="1" source="q4" target="output" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="me1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=block;fontSize=16;fontColor=#555555;" parent="1" source="m1" target="m2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="me2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=block;fontSize=16;fontColor=#555555;" parent="1" source="m2" target="m3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="me3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=block;fontSize=16;fontColor=#555555;" parent="1" source="m3" target="m4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="me4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=block;fontSize=16;fontColor=#555555;" parent="1" source="m4" target="m5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
