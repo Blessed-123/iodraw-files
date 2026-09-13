@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram id="c-roadmap" name="C题超声预约技术路线图">
-    <mxGraphModel dx="3605" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
+    <mxGraphModel dx="2537" dy="1213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -375,9 +375,6 @@
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-115" value="\(\rho\)、\(c_p\)、\(k\) 随水分浓度 \(C\) 变化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1020" y="1297" width="250" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="vHZNnp70cTp2YP3ywfks-12" value="初始状态为 T=28 °C、C=2.55 kg/kg" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1610" y="1355.5" width="380" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-13" value="中心采用零通量边界，表面施加 Robin 换热与传质条件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1610" y="1297" width="380" height="48.5" as="geometry" />
