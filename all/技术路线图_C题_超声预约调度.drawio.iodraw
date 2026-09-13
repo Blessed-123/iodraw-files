@@ -526,24 +526,6 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-46" value="Picard 迭代处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1966.01" y="2468" width="90" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-46">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1846.01" y="2678" as="sourcePoint" />
-            <mxPoint x="2074.51" y="2493" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-46">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1846.01" y="2678" as="sourcePoint" />
-            <mxPoint x="2075.01" y="2558" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-46">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1846.01" y="2678" as="sourcePoint" />
-            <mxPoint x="2075.01" y="2623" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
