@@ -313,13 +313,13 @@
           <mxGeometry x="1490" y="1430" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-16" value="空间采用径向有限体积法，dr=1 mm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="1690" width="150" height="90" as="geometry" />
+          <mxGeometry x="1430" y="1690" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-18" value="非线性项通过 Picard 迭代处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="1700" width="90" height="170" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-19" value="线性子问题由 Thomas 算法求解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="1790" width="147" height="80" as="geometry" />
+          <mxGeometry x="1430" y="1780" width="147" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-20" value="更新物性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1699" y="1700" width="101" height="50" as="geometry" />
