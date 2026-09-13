@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FZW20HWMj3qy4EFfsu5H-92" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="891.5" width="440" height="247" as="geometry" />
+          <mxGeometry x="430" y="801.5" width="440" height="247" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-91" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1047" y="810" width="440" height="247" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="957" y="469.25" width="620" height="231.5" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="417" y="470" width="473" height="231" as="geometry" />
+          <mxGeometry x="400" y="470" width="460" height="231" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;dashed=1;opacity=95;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="238" y="2196" width="1725" height="457" as="geometry" />
@@ -200,7 +200,7 @@
           <mxGeometry x="1827" y="626.97" width="216" height="51.03" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-76" value="收敛性与物理一致性检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="550" y="910" width="110" height="210" as="geometry" />
+          <mxGeometry x="490" y="820" width="110" height="210" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-77" value="线性求解与结果组织" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="1097" y="820" width="110" height="210" as="geometry" />
@@ -227,10 +227,10 @@
           <mxGeometry x="1227" y="840.5" width="210.32" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-88" value="通过空间网格和时间步收敛性检验评估离散误差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="677" y="920" width="203" height="70" as="geometry" />
+          <mxGeometry x="617" y="830" width="203" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-89" value="结合参数敏感性与能量守恒校核，验证模型及数值结果的一致性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1020" width="200" height="70" as="geometry" />
+          <mxGeometry x="620" y="930" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
