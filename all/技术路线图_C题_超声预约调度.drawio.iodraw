@@ -779,12 +779,6 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-188" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="2460" y="1094" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-189" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="2470" y="1104" width="70" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-190" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="2480" y="1114" width="70" height="100" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
