@@ -550,9 +550,6 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-63" value="根据其符号更新左右区间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="2720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-64" value="重复二分直至区间宽度不超过 &lt;span&gt;\(0.1\ \mathrm{s}\)&lt;/span&gt;，取最终右端时刻作为烘干终点" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="2820" width="460" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
