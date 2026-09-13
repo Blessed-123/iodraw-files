@@ -441,8 +441,8 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-2" value="阈值事件定位" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1104" y="2350" width="261" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="555" y="2170" width="120" height="60" as="geometry" />
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-4" value="烘干时长求解转化为首个满足全域水分浓度低于 0.15 kg/kg 的时刻" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615.75" y="2170" width="125" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
