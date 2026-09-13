@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram id="c-roadmap" name="C题超声预约技术路线图">
-    <mxGraphModel dx="3395" dy="2012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
+    <mxGraphModel dx="3318" dy="1918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -589,7 +589,7 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-83" value="在归一化物质坐标中建立收缩条件下的传热传质模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1123.25" y="3030" width="285" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-84" value="&lt;div&gt;\[&lt;/div&gt;&lt;div&gt;\rho(C)c_p(C)\frac{\partial T}{\partial t}&lt;/div&gt;&lt;div&gt;=&lt;/div&gt;&lt;div&gt;\frac{1}{r}\frac{\partial}{\partial r}&lt;/div&gt;&lt;div&gt;\left(&lt;/div&gt;&lt;div&gt;k(C)r\frac{\partial T}{\partial r}&lt;/div&gt;&lt;div&gt;\right)&lt;/div&gt;&lt;div&gt;\]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-84" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="3190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
