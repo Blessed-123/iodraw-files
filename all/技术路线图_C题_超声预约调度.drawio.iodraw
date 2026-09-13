@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram id="c-roadmap" name="C题超声预约技术路线图">
-    <mxGraphModel dx="2537" dy="1213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
+    <mxGraphModel dx="1908" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -554,22 +554,13 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-59" value="若 \(F(t^n)\geq0\) 且 \(F(t^{n+1})&amp;lt;0\)，则在区间 \([t^n,t^{n+1}]\) 内进行二分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1020" y="2460" width="160" height="149.5" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;固定左端状态和 BDF2 历史&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1215" y="2469.5" width="235" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-61" value="重复二分直至区间宽度不超过 \(0.1\ \mathrm{s}\)，取最终右端时刻作为烘干终点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1070" y="2620" width="337.75" height="49.5" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-62" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;取中点重新求解 \(T_{\mathrm{mid}}\)、\(C_{\mathrm{mid}}\) 和 \(F(t_{\mathrm{mid}})\)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1222.75" y="2510" width="227.25" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-63" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;根据其符号更新左右区间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1215" y="2570" width="235" height="40.5" as="geometry" />
-        </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontStyle=1" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-59" target="HYAzZhG7RNsZK3y5gQgT-60">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontStyle=1" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1320" y="2569.5" as="sourcePoint" />
-            <mxPoint x="1370" y="2519.5" as="targetPoint" />
+            <mxPoint x="1214.9999999999995" y="2489.4999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;fontStyle=1" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-59">
@@ -578,10 +569,10 @@
             <mxPoint x="1230" y="2539.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontStyle=1" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-59" target="HYAzZhG7RNsZK3y5gQgT-63">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontStyle=1" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1320" y="2569.5" as="sourcePoint" />
-            <mxPoint x="1370" y="2519.5" as="targetPoint" />
+            <mxPoint x="1214.9999999999995" y="2590.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-70" value="确定烘干终点后，每 \(60\ \mathrm{s}\) 记录各径向节点的水分浓度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
