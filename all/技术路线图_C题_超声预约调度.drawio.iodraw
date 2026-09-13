@@ -355,7 +355,7 @@
           <mxGeometry x="1059" y="1830" width="326" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-34" value="采用后向欧拉进行时间离散，自适应步长范围为 0.01–10 s" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1059" y="1650" width="326" height="42" as="geometry" />
+          <mxGeometry x="1060" y="1650" width="326" height="42" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vHZNnp70cTp2YP3ywfks-37" target="vHZNnp70cTp2YP3ywfks-38">
           <mxGeometry relative="1" as="geometry" />
