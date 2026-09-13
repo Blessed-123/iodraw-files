@@ -583,6 +583,9 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-81" value="附件 2 给出随时间收缩的 R(t)，若直接在物理坐标中固定网格，会产生移动边界和网格重构问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="3050" width="250" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-82" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="918.5" y="3100" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
