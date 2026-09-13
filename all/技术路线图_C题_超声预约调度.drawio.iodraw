@@ -257,13 +257,13 @@
           <mxGeometry x="620" y="1919.5" width="1280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n57" value="全域达标事件定义" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;strokeWidth=1.5;fontStyle=1;fillColor=#C3ABD0;" parent="1" vertex="1">
-          <mxGeometry x="520.5" y="2039.5" width="330" height="50.5" as="geometry" />
+          <mxGeometry x="520.5" y="2039.5" width="330" height="60.5" as="geometry" />
         </mxCell>
         <mxCell id="n59" value="物理模型继承" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;strokeWidth=1.5;fontStyle=1;fillColor=#C3ABD0;" parent="1" vertex="1">
-          <mxGeometry x="1043.31" y="2040" width="386.69" height="50" as="geometry" />
+          <mxGeometry x="1043.31" y="2040" width="386.69" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n61" value="达标事件构造" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;strokeWidth=1.5;fontStyle=1;fillColor=#C3ABD0;" parent="1" vertex="1">
-          <mxGeometry x="1607" y="2040.75" width="363" height="59.25" as="geometry" />
+          <mxGeometry x="1600" y="2040.75" width="380" height="59.25" as="geometry" />
         </mxCell>
         <mxCell id="n63" value="BDF2 时间推进" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;strokeWidth=1.5;fontStyle=1;fillColor=#C3ABD0;" parent="1" vertex="1">
           <mxGeometry x="1590.48" y="2380" width="389.52" height="48" as="geometry" />
