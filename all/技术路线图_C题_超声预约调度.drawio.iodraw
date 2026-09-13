@@ -191,7 +191,7 @@
           <mxGeometry x="620" y="390" width="1280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="n25" value="明确问题与几何简化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=1;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="529.25" width="110" height="210" as="geometry" />
+          <mxGeometry x="460" y="538.75" width="110" height="210" as="geometry" />
         </mxCell>
         <mxCell id="n35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -293,10 +293,10 @@
           <mxGeometry x="1600" y="3274.5" width="330" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-51" value="求解 1800 s 内圆柱药材的径向温度场 T(r,t) 与水分浓度场 C(r,t)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="529.25" width="290" height="100.75" as="geometry" />
+          <mxGeometry x="580" y="529.25" width="310" height="100.75" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-52" value="依据长径比和轴对称特征，将问题降为一维径向传热传质模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="639.25" width="300" height="110.75" as="geometry" />
+          <mxGeometry x="580" y="639.25" width="320" height="110.75" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-53" value="建立控制方程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="529.63" width="110" height="210" as="geometry" />
