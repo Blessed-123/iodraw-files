@@ -529,7 +529,7 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-47" value="求解水分浓度C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2075.01" y="2478" width="121" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-48" value="求解浓度&lt;div&gt;求解温度&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-48" value="&lt;span style=&quot;background-color: initial;&quot;&gt;求解温度T&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2075.51" y="2538" width="120.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-49" value="检查收敛" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
