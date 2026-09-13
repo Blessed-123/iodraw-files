@@ -749,7 +749,7 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-172" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;增加全域达标事件，确定烘干终点&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="12" y="2130" width="290" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-173" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-173" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;处理尺寸收缩下的移动边界&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="21" y="3020" width="290" height="360" as="geometry" />
         </mxCell>
       </root>
