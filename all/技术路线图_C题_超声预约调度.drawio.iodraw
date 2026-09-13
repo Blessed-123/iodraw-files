@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram id="c-roadmap" name="C题超声预约技术路线图">
-    <mxGraphModel dx="3594" dy="2254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
+    <mxGraphModel dx="2997" dy="1527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1517" y="2399.5" width="443" height="310" as="geometry" />
+          <mxGeometry x="1523.01" y="2420" width="443" height="310" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-41" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1527" y="2060" width="443" height="310" as="geometry" />
@@ -168,7 +168,7 @@
           <mxGeometry x="1567" y="2070" width="340" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n63" value="BDF2 时间推进" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1567.49" y="2410" width="326" height="48" as="geometry" />
+          <mxGeometry x="1573.5" y="2430.5" width="326" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n65" value="结果输出与未达标判定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="554.75" y="2420" width="261" height="48" as="geometry" />
@@ -474,7 +474,7 @@
           <mxGeometry x="666" y="2125" width="29" height="170" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-16" value="进入新时间层后，先根据当前迭代值更新\(\rho\)、\(c_p\)、\(k\) 、\(D\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="2530" width="360" height="39" as="geometry" />
+          <mxGeometry x="1566.01" y="2550.5" width="360" height="39" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-17" value="中心用零通量边界，表面为 Robin 换热与传质条件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="2285" width="200" height="65" as="geometry" />
@@ -524,13 +524,13 @@
           <mxGeometry x="1567" y="2300" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-43" value="以当前时刻\(T^n\)、\(C^n\)为初值；&lt;div&gt;首步用后向欧拉启动，后续采用变步长 BDF2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="2468" width="360" height="52" as="geometry" />
+          <mxGeometry x="1566.01" y="2488.5" width="360" height="52" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-55" value="执行Picard迭代，并调用Thomas算法线性求解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="2580" width="360" height="50" as="geometry" />
+          <mxGeometry x="1566.01" y="2600.5" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-56" value="Picard 收敛后接受时间步并调整 dt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="2640" width="360" height="50" as="geometry" />
+          <mxGeometry x="1566.01" y="2660.5" width="360" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
