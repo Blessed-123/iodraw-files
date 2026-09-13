@@ -92,7 +92,7 @@
           <mxGeometry x="977.5" y="1253.5" width="362.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n45" value="边界条件与数据延拓" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1520" y="1253.5" width="278" height="48" as="geometry" />
+          <mxGeometry x="1490" y="1253.5" width="320" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n47" value="有限体积离散与 Picard 迭代" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1480" y="1630" width="260" height="48" as="geometry" />
@@ -304,7 +304,7 @@
           <mxGeometry x="1555" y="1380" width="235" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-13" value="中心采用零通量边界，表面施加 Robin 换热与传质条件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="1320" width="260" height="50" as="geometry" />
+          <mxGeometry x="1490" y="1311.5" width="320" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-14" value="附件 1 时间范围外采用末端值延拓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1555" y="1430" width="235" height="50" as="geometry" />
