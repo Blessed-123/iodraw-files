@@ -141,7 +141,7 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;endSize=9;fontSize=20;fontStyle=1" edge="1" parent="1" source="FZW20HWMj3qy4EFfsu5H-91" target="FZW20HWMj3qy4EFfsu5H-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-91" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" parent="1" vertex="1">
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-91" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=1.5;fontStyle=1;strokeColor=#36393d;dashed=1;fillColor=#ffff88;" parent="1" vertex="1">
           <mxGeometry x="1030" y="800" width="470" height="240" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endSize=9;fontSize=20;fontStyle=1" edge="1" parent="1" source="FZW20HWMj3qy4EFfsu5H-83" target="FZW20HWMj3qy4EFfsu5H-91">
@@ -361,7 +361,7 @@
           <mxGeometry x="1750" y="800" width="260" height="56.16" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-80" value="离散方程构成三对角系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1750" y="976.16" width="270" height="53.84" as="geometry" />
+          <mxGeometry x="1750" y="990" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-81" value="时间采用后向欧拉格式，步长设置在 0.01–0.5 s 内自适应" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1750" y="906.16" width="260" height="73.84" as="geometry" />
