@@ -152,7 +152,7 @@
         <mxCell id="n59" value="物理模型继承" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="2120" width="260" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="n61" value="③ 资源压缩MILP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="n61" value="达标事件构造" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1190.88" y="2120" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n63" value="④ 字典序压缩优化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
