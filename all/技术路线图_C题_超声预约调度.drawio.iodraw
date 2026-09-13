@@ -381,7 +381,7 @@
           <mxGeometry x="480" y="1385.5" width="410" height="84.5" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-115" value="\(\rho\)、\(c_p\)、\(k\) 随水分浓度 \(C\) 变化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#FFB366;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="1297" width="280" height="70" as="geometry" />
+          <mxGeometry x="1010" y="1297" width="290" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-13" value="中心采用零通量边界，&lt;div&gt;表面施加 Robin 换热与传质条件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#FFB366;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1580" y="1297" width="440" height="73" as="geometry" />
@@ -612,8 +612,8 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-204" value="进行检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="740" y="3450" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-208" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;D同时随C和温度T变化&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="1385.5" width="290" height="64.5" as="geometry" />
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-208" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;D同时随C和温度T变化&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1380" width="290" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
