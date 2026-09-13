@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram id="c-roadmap" name="C题超声预约技术路线图">
-    <mxGraphModel dx="2537" dy="1213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
+    <mxGraphModel dx="3605" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,13 +64,13 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-74" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;strokeWidth=1.5;fontStyle=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="480.49" y="2350" width="443" height="329.5" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endSize=9;fontSize=26;fontStyle=1;fillColor=#F8CECC;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-66" target="HYAzZhG7RNsZK3y5gQgT-74">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endSize=9;fontSize=27;fontStyle=1;fillColor=#F8CECC;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-66" target="HYAzZhG7RNsZK3y5gQgT-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;strokeWidth=1.5;fontStyle=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="2350" width="480" height="329.5" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endSize=9;fontSize=26;fontStyle=1;fillColor=#F8CECC;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-57" target="HYAzZhG7RNsZK3y5gQgT-66">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endSize=9;fontSize=27;fontStyle=1;fillColor=#F8CECC;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-57" target="HYAzZhG7RNsZK3y5gQgT-66">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1470" y="2525" />
@@ -467,7 +467,7 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-5" value="首个满足全域水分浓度低于 0.15 kg/kg 的时刻" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="681" y="2150" width="219" height="145.5" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-16" value="迭代值更新\(\rho\)、\(c_p\)、\(k\) 、\(D\)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-16" value="迭代值更新\(\rho\)、\(c_p\)、\(k\) 、\(D\)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="1550" y="2510" width="490" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-17" value="中心用零通量边界，&lt;div style=&quot;font-size: 26px;&quot;&gt;表面为 Robin 换热与传质条件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
@@ -488,28 +488,28 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-39" value="判断规则：若 F(t)&amp;lt;0，表示药材各处均已达标" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="1540" y="2241.5" width="500" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-43" value="&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;首步用后向欧拉启动，后续采用变步长 BDF2&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;labelBorderColor=#ffffff;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-43" value="&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;首步用后向欧拉启动，后续采用变步长 BDF2&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;labelBorderColor=#ffffff;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="1550" y="2438" width="490" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-55" value="执行Picard迭代，并调用Thomas算法线性求解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-55" value="执行Picard迭代，并调用Thomas算法线性求解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="1550" y="2590" width="480" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-58" value="对每个已接受时间步计算 \(F(t^n)\) 和 \(F(t^{n+1})\)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="1000" y="2408" width="440" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-59" value="在区间 \([t^n,t^{n+1}]\) 内进行二分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-59" value="在区间 \([t^n,t^{n+1}]\) 内进行二分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="1000" y="2500" width="440" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-61" value="重复二分，取最终右端时刻为烘干终点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-61" value="重复二分，取最终右端时刻为烘干终点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="1000" y="2580" width="440" height="89.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-70" value="记录各径向节点的水分浓度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="500" y="2420" width="400" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-71" value="将结果映射到径向位置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-71" value="将结果映射到径向位置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="500" y="2580" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-72" value="对温度和水分浓度进行线性插值" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-72" value="对温度和水分浓度进行线性插值" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="500" y="2500" width="400" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-79" value="全域达标与终点定位" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=1.5;fontStyle=1;fillColor=#FFD9AD;strokeColor=#d6b656;" vertex="1" parent="1">
