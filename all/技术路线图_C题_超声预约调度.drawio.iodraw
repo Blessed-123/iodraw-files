@@ -521,13 +521,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-4" value="烘干时长求解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="520" y="2099.5" width="140.5" height="60" as="geometry" />
+          <mxGeometry x="510" y="2099.5" width="150.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-5" value="首个满足全域水分浓度低于 0.15 kg/kg 的时刻" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="681" y="2097.5" width="169" height="62" as="geometry" />
+          <mxGeometry x="681" y="2097.5" width="219" height="62" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-6" value="事件目标可写为&lt;br style=&quot;font-size: 20px;&quot;&gt;\(&lt;br style=&quot;font-size: 20px;&quot;&gt;t_{\mathrm{dry}}&lt;br style=&quot;font-size: 20px;&quot;&gt;=&lt;br style=&quot;font-size: 20px;&quot;&gt;\inf&lt;br style=&quot;font-size: 20px;&quot;&gt;\left\{&lt;br style=&quot;font-size: 20px;&quot;&gt;t\geq 0:&lt;br style=&quot;font-size: 20px;&quot;&gt;\max_{r\in[0,R]} C(r,t)&lt;br style=&quot;font-size: 20px;&quot;&gt;&amp;lt;&lt;br style=&quot;font-size: 20px;&quot;&gt;0.15\ \mathrm{kg/kg}&lt;br style=&quot;font-size: 20px;&quot;&gt;\right\}&lt;br style=&quot;font-size: 20px;&quot;&gt;\)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="510" y="2209.5" width="350" height="90" as="geometry" />
+          <mxGeometry x="510" y="2209.5" width="350" height="120.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="658" y="2102.5" width="45" height="170" as="geometry" />
