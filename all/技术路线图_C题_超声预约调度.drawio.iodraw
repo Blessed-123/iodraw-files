@@ -286,7 +286,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-104" value="空间收敛性与范围检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="1570" width="340" height="48" as="geometry" />
+          <mxGeometry x="520.5" y="1570" width="340" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-105" value="问题一采用常数物性，仅适用于短时预热阶段，难以刻画完整烘干过程" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="516.5" y="1325.5" width="327.5" height="70" as="geometry" />
@@ -364,7 +364,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-38" value="分别计算 3 h 时的表面温度、中心温度、表面水分浓度和中心水分浓度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710.5" y="1638" width="149.5" height="82" as="geometry" />
+          <mxGeometry x="710.5" y="1638" width="159.5" height="82" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vHZNnp70cTp2YP3ywfks-39" target="vHZNnp70cTp2YP3ywfks-40">
           <mxGeometry relative="1" as="geometry" />
