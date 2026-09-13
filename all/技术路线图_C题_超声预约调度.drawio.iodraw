@@ -699,16 +699,16 @@
           <mxGeometry x="669.25" y="3510" width="260.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-111" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;开展网格、时间步、环境延拓、R(t) 插值检验&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="675.63" y="3450" width="258.75" height="50" as="geometry" />
+          <mxGeometry x="671.25" y="3440" width="258.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-112" value="输出结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="547" y="3465" width="92.12" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-113" value="固定距离满足 r≤R(t) 时按 ξ=r/R(t) 插值，r&amp;gt;R(t) 时结果留空，并另设“药材表面”列" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="544.5" y="3360" width="355.25" height="60" as="geometry" />
+          <mxGeometry x="530" y="3360" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-114" value="模型采用均匀、等比、径向收缩假设" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="530" y="3310" width="370" height="40" as="geometry" />
+          <mxGeometry x="530" y="3310" width="380" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-116" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-112">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
