@@ -11,13 +11,13 @@
           <mxGeometry x="400" y="400" width="1710" height="680" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-123" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="503" y="3270" width="410" height="320" as="geometry" />
+          <mxGeometry x="545.99" y="3260" width="410" height="320" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-122" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="988.5" y="3272.5" width="443" height="310" as="geometry" />
+          <mxGeometry x="1031.49" y="3262.5" width="443" height="310" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-121" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1497" y="3280" width="443" height="310" as="geometry" />
+          <mxGeometry x="1539.99" y="3270" width="443" height="310" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-120" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1544.51" y="2910" width="443" height="310" as="geometry" />
@@ -261,7 +261,7 @@
           <mxGeometry x="538.5" y="2920" width="370" height="52" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-37" value="结果输出与模型检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="539.5" y="3277" width="310" height="48" as="geometry" />
+          <mxGeometry x="582.49" y="3267" width="310" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-38" value="核心模型构建" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1063.5" y="2920" width="349.5" height="48" as="geometry" />
@@ -270,7 +270,7 @@
           <mxGeometry x="1613.25" y="2920" width="306.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-40" value="时空离散与耦合求解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1561.75" y="3295" width="309.75" height="48" as="geometry" />
+          <mxGeometry x="1604.74" y="3285" width="309.75" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-51" value="求解 1800 s 内圆柱药材的径向温度场 T(r,t) 与水分浓度场 C(r,t)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="529.25" width="260" height="90" as="geometry" />
@@ -621,7 +621,7 @@
           <mxGeometry x="515" y="2600" width="365" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-79" value="全域达标与终点定位" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1042" y="3284.5" width="339.5" height="48" as="geometry" />
+          <mxGeometry x="1084.99" y="3274.5" width="339.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-81" value="附件 2 给出随时间收缩的 R(t)，若直接在物理坐标中固定网格，会产生移动边界和网格重构问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="532.5" y="2990" width="390" height="90" as="geometry" />
@@ -645,7 +645,7 @@
           <mxGeometry x="1063" y="3040" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-98" value="ξ 方向取 N=250，几何量按步末 R(tⁿ⁺¹) 更新，界面 D、k 采用调和平均" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1552.99" y="3355" width="330" height="70" as="geometry" />
+          <mxGeometry x="1595.98" y="3345" width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-99" value="附件 2 的 R(t) 采用 PCHIP，中心为零通量条件，表面采用 Robin 换热与传质条件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1599.01" y="3150" width="333.99" height="60" as="geometry" />
@@ -654,45 +654,45 @@
           <mxGeometry x="1599.01" y="3060" width="333.99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-102" value="检测阈值跨越后使用 advance_to_target 自动细分时间步并局部二分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="3422.5" width="341.5" height="60" as="geometry" />
+          <mxGeometry x="1082.99" y="3412.5" width="341.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-103" value="以 max_ξC(ξ,t)&amp;lt;0.15 kg/kg 为全域达标判据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="3352.5" width="341.5" height="60" as="geometry" />
+          <mxGeometry x="1082.99" y="3342.5" width="341.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-104" value="每个线性子问题由 Thomas 算法求解，Picard 不收敛时减小时间步" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1552.99" y="3505" width="330" height="60" as="geometry" />
+          <mxGeometry x="1595.98" y="3495" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-105" value="时间采用首步后向欧拉与变步长 BDF2，层内通过 Picard 迭代处理非线性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1554" y="3435" width="327" height="60" as="geometry" />
+          <mxGeometry x="1596.99" y="3425" width="327" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-109" value="当时间区间宽度不超过 0.1 s 时，取右端时刻作为烘干终点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1041.5" y="3497.5" width="340" height="60" as="geometry" />
+          <mxGeometry x="1084.49" y="3487.5" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-110" value="进一步比较固定半径、界面平均、通量平衡和 Cmax 单调性检验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="653.75" y="3527.5" width="227.75" height="50" as="geometry" />
+          <mxGeometry x="696.74" y="3517.5" width="227.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-111" value="开展网格、时间步、环境延拓、R(t) 插值检验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="655.75" y="3467.5" width="225.75" height="50" as="geometry" />
+          <mxGeometry x="698.74" y="3457.5" width="225.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-112" value="输出结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="531.5" y="3482.5" width="92.12" height="90" as="geometry" />
+          <mxGeometry x="574.49" y="3472.5" width="92.12" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-113" value="固定距离满足 r≤R(t) 时按 ξ=r/R(t) 插值，r&amp;gt;R(t) 时结果留空，并另设“药材表面”列" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="526.25" y="3397.5" width="355.25" height="60" as="geometry" />
+          <mxGeometry x="569.24" y="3387.5" width="355.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-114" value="模型采用均匀、等比、径向收缩假设" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525.75" y="3337.5" width="355.75" height="50" as="geometry" />
+          <mxGeometry x="568.74" y="3327.5" width="355.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-116" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-112">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="606" y="3532.5" as="sourcePoint" />
-            <mxPoint x="656" y="3482.5" as="targetPoint" />
+            <mxPoint x="648.99" y="3522.5" as="sourcePoint" />
+            <mxPoint x="698.99" y="3472.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-117" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-112">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="616.25" y="3647.5" as="sourcePoint" />
-            <mxPoint x="655.75" y="3567.5" as="targetPoint" />
+            <mxPoint x="659.24" y="3637.5" as="sourcePoint" />
+            <mxPoint x="698.74" y="3557.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-138" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endSize=9;" edge="1" parent="1" target="HYAzZhG7RNsZK3y5gQgT-57">
