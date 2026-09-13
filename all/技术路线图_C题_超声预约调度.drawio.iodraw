@@ -645,7 +645,7 @@
           <mxGeometry x="517.5" y="2619.5" width="365" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-79" value="全域达标与终点定位" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1069" y="3271.5" width="339.5" height="48" as="geometry" />
+          <mxGeometry x="1066.56" y="3270" width="339.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-81" value="附件 2 给出随时间收缩的 R(t)，若直接在物理坐标中固定网格，会产生移动边界和网格重构问题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="532.5" y="2990" width="390" height="90" as="geometry" />
