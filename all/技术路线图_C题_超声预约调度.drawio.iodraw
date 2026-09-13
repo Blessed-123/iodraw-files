@@ -357,7 +357,7 @@
         <mxCell id="vHZNnp70cTp2YP3ywfks-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="1820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vHZNnp70cTp2YP3ywfks-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vHZNnp70cTp2YP3ywfks-34" value="时间采用后向欧拉格式，自适应步长范围为 0.01–10 s" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1115" y="1701.75" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
