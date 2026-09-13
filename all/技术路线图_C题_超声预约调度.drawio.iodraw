@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram id="c-roadmap" name="C题超声预约技术路线图">
-    <mxGraphModel dx="5385" dy="4435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
+    <mxGraphModel dx="6380" dy="5647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,9 +110,6 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;dashed=1;opacity=95;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="317" y="-728" width="1725" height="457" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-8" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;dashed=1;opacity=95;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="235" y="3140" width="1725" height="490" as="geometry" />
-        </mxCell>
         <mxCell id="n24" value="问题一：建立预热平衡阶段药材温度和水分浓度变化规律的数学模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=17;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="400" width="1280" height="90" as="geometry" />
         </mxCell>
@@ -162,7 +159,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n56" value="问题三：要求确定在药材各处的水分浓度低于0.15 kg/kg时药材烘干所需要的时间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="1910" width="1280" height="100" as="geometry" />
+          <mxGeometry x="620" y="1920" width="1280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n57" value="全域达标事件定义" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="520.5" y="2070" width="330" height="48" as="geometry" />
@@ -223,9 +220,6 @@
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-45" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;dashed=1;opacity=95;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="3134" y="682" width="1725" height="457" as="geometry" />
-        </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-46" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;dashed=1;opacity=95;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="30" y="3709" width="1725" height="457" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-51" value="求解 1800 s 内圆柱药材的径向温度场 T(r,t) 与水分浓度场 C(r,t)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="529.25" width="260" height="90" as="geometry" />
