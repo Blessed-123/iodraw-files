@@ -236,9 +236,6 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-40" value="时空离散与耦合求解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1561.75" y="3295" width="309.75" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-44" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;dashed=1;opacity=95;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2203" y="479" width="1725" height="457" as="geometry" />
-        </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-51" value="求解 1800 s 内圆柱药材的径向温度场 T(r,t) 与水分浓度场 C(r,t)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="529.25" width="260" height="90" as="geometry" />
         </mxCell>
