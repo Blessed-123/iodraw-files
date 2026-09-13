@@ -424,18 +424,12 @@
           <mxGeometry x="510" y="1735" width="175" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-46" value="完成Picard收敛后推进时间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1055" y="1661.75" width="360" height="38.25" as="geometry" />
+          <mxGeometry x="1057" y="1681.75" width="360" height="38.25" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontStyle=1" parent="1" source="vHZNnp70cTp2YP3ywfks-34" target="vHZNnp70cTp2YP3ywfks-46" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1305" y="1940" as="sourcePoint" />
             <mxPoint x="1355" y="1890" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vHZNnp70cTp2YP3ywfks-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.501;entryY=0.069;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;fontStyle=1" parent="1" source="vHZNnp70cTp2YP3ywfks-46" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1245" y="1790" as="sourcePoint" />
-            <mxPoint x="1234.4832499999998" y="1722.7599999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.529;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endSize=9;fontSize=20;fontStyle=1" parent="1" source="vHZNnp70cTp2YP3ywfks-15" target="vHZNnp70cTp2YP3ywfks-29" edge="1">
