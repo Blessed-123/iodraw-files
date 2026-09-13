@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram id="c-roadmap" name="C题超声预约技术路线图">
-    <mxGraphModel dx="3102" dy="1655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
+    <mxGraphModel dx="3395" dy="2012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="1005.5" y="2055" width="443" height="305" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="480.5" y="2050" width="410" height="280" as="geometry" />
+          <mxGeometry x="480.5" y="2050" width="410" height="300" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endSize=9;" parent="1" source="vHZNnp70cTp2YP3ywfks-56" target="vHZNnp70cTp2YP3ywfks-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -474,7 +474,7 @@
           <mxGeometry x="681" y="2128" width="169" height="62" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-6" value="事件目标可写为&lt;br&gt;\(&lt;br&gt;t_{\mathrm{dry}}&lt;br&gt;=&lt;br&gt;\inf&lt;br&gt;\left\{&lt;br&gt;t\geq 0:&lt;br&gt;\max_{r\in[0,R]} C(r,t)&lt;br&gt;&amp;lt;&lt;br&gt;0.15\ \mathrm{kg/kg}&lt;br&gt;\right\}&lt;br&gt;\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="2225" width="350" height="85" as="geometry" />
+          <mxGeometry x="510" y="2225" width="350" height="105" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="666" y="2125" width="29" height="170" as="geometry" />
