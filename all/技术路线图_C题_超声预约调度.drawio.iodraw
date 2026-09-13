@@ -283,7 +283,7 @@
           <mxGeometry x="555" y="3259.5" width="310" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-38" value="核心模型构建" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1063.5" y="2920" width="349.5" height="48" as="geometry" />
+          <mxGeometry x="1059.38" y="2920" width="349.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-39" value="物性与边界数据处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1613.25" y="2920" width="306.5" height="48" as="geometry" />
@@ -654,7 +654,7 @@
           <mxGeometry x="532.5" y="3100" width="390" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-83" value="在归一化物质坐标中建立收缩条件下的传热传质模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1071.5" y="2980" width="368.5" height="50" as="geometry" />
+          <mxGeometry x="1047.75" y="2968" width="392.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-94" value="有限体积界面导纳由扩散或导热系数、界面面积、网络间距共同确定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1248" y="3130" width="175" height="80" as="geometry" />
@@ -666,7 +666,7 @@
           <mxGeometry x="1248" y="3040" width="175" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-97" value="温度场采用圆柱坐标下的径向非稳态导热模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1063" y="3040" width="160" height="80" as="geometry" />
+          <mxGeometry x="1037" y="3020" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-98" value="ξ 方向取 N=250，几何量按步末 R(tⁿ⁺¹) 更新，界面 D、k 采用调和平均" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1570" y="3334.5" width="380" height="70" as="geometry" />
