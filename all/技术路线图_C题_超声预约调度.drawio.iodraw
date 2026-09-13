@@ -571,8 +571,8 @@
             <mxPoint x="1340" y="2560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-70" value="确定终点后，每 \(60\ \mathrm{s}\) 记录各径向节点的水分浓度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="2500.5" width="140" height="49.5" as="geometry" />
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-70" value="确定烘干终点后，每 \(60\ \mathrm{s}\) 记录各径向节点的水分浓度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="2500.5" width="170" height="49.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-71" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="507.25" y="2589.5" width="120" height="60" as="geometry" />
