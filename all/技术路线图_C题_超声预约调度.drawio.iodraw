@@ -74,7 +74,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n40" value="建立整个烘干过程药材温度和水分浓度变化规律的数学模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="722" y="1139" width="1098" height="46" as="geometry" />
+          <mxGeometry x="640" y="1139" width="1180" height="71" as="geometry" />
         </mxCell>
         <mxCell id="n41" value="① 患者级场景输入" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="417" y="1776" width="260" height="48" as="geometry" />
