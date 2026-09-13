@@ -529,7 +529,7 @@
           <mxGeometry x="1580" y="3050" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-102" value="检测阈值自动细分时间步并局部二分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1030" y="3320" width="410" height="80" as="geometry" />
+          <mxGeometry x="1030" y="3330" width="410" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-104" value="每个线性子问题由 Thomas 算法求解，Picard 不收敛时减小时间步" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1550" y="3460" width="490" height="90" as="geometry" />
@@ -545,9 +545,6 @@
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-112" value="输出结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="570" y="3490" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-113" value="固定距离满足 r≤R(t) 时按 ξ=r/R(t) 插值，r&amp;gt;R(t) 时结果留空，并另设“药材表面”列" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="530" y="3400" width="400" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-114" value="模型采用均匀、等比、径向收缩假设" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="530" y="3320" width="400" height="70" as="geometry" />
