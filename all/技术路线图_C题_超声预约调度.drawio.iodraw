@@ -510,7 +510,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-2" value="阈值事件定位" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="2379.5" width="360" height="40" as="geometry" />
+          <mxGeometry x="1058.5" y="2360" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-4" target="HYAzZhG7RNsZK3y5gQgT-5">
           <mxGeometry relative="1" as="geometry">
@@ -597,7 +597,7 @@
           <mxGeometry x="1582.99" y="2610" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-58" value="对每个已接受时间步计算 \(F(t^n)\) 和 \(F(t^{n+1})\)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1068.5" y="2427.5" width="340" height="42" as="geometry" />
+          <mxGeometry x="1063" y="2408" width="347" height="42" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-59" value="若 \(F(t^n)\geq0\) 且 \(F(t^{n+1})&amp;lt;0\)，则在区间 \([t^n,t^{n+1}]\) 内进行二分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1050" y="2479.5" width="130" height="130" as="geometry" />
