@@ -26,7 +26,7 @@
           <mxGeometry x="440" y="480" width="110" height="210" as="geometry" />
         </mxCell>
         <mxCell id="n29" value="边界条件与初始状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1650" y="504" width="260" height="48" as="geometry" />
+          <mxGeometry x="1720" y="500" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n31" value="线性求解与结果组织" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="977" y="790" width="260" height="48" as="geometry" />
