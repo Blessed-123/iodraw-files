@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-118" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="660.5" y="2920" width="443" height="310" as="geometry" />
+          <mxGeometry x="470" y="2930" width="443" height="310" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-74" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="467" y="2400" width="443" height="310" as="geometry" />
@@ -204,7 +204,7 @@
           <mxGeometry x="620" y="2780" width="1280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-35" value="移动边界问题转化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="2940" width="370" height="50" as="geometry" />
+          <mxGeometry x="509.5" y="2950" width="370" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-37" value="结果输出与模型检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="3370" width="260" height="48" as="geometry" />
@@ -584,10 +584,10 @@
           <mxGeometry x="1139.81" y="3360" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-81" value="附件 2 给出随时间收缩的 R(t)，若直接在物理坐标中固定网格，会产生移动边界和网格重构问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="698.5" y="3010" width="381.5" height="90" as="geometry" />
+          <mxGeometry x="499.5" y="3020" width="390" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-82" value="令 ξ=r/R(t)，将计算域固定为 ξ∈[0,1]，中心始终对应 ξ=0，表面始终对应 ξ=1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="698.5" y="3110" width="381.5" height="90" as="geometry" />
+          <mxGeometry x="499.5" y="3120" width="390" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-83" value="在归一化物质坐标中建立收缩条件下的传热传质模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1123.25" y="3030" width="285" height="60" as="geometry" />
