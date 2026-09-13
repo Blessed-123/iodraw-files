@@ -458,9 +458,9 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-6" value="事件目标可写为&lt;br&gt;\(&lt;br&gt;t_{\mathrm{dry}}&lt;br&gt;=&lt;br&gt;\inf&lt;br&gt;\left\{&lt;br&gt;t\geq 0:&lt;br&gt;\max_{r\in[0,R]} C(r,t)&lt;br&gt;&amp;lt;&lt;br&gt;0.15\ \mathrm{kg/kg}&lt;br&gt;\right\}&lt;br&gt;\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545.13" y="2230" width="330.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="HYAzZhG7RNsZK3y5gQgT-6">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;width=18;endSize=5.346666666666667;" edge="1" parent="1" target="HYAzZhG7RNsZK3y5gQgT-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="2240" as="sourcePoint" />
+            <mxPoint x="710" y="2200" as="sourcePoint" />
             <mxPoint x="730" y="2190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
