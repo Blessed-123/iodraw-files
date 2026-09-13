@@ -454,7 +454,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-4" value="烘干时长求解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="470" y="2164.5" width="150.5" height="145.5" as="geometry" />
+          <mxGeometry x="480" y="2150" width="150.5" height="145.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-5" value="首个满足全域水分浓度低于 0.15 kg/kg 的时刻" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="681" y="2150" width="219" height="145.5" as="geometry" />
@@ -469,7 +469,7 @@
           <mxGeometry x="1030" y="2199.5" width="166" height="130.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-19" value="沿用问题二的变物性双向耦合模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1060" y="2090" width="366" height="100" as="geometry" />
+          <mxGeometry x="1030" y="2090" width="420" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-31" value="提取全域最大水分浓度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1530" y="2090" width="510" height="70" as="geometry" />
