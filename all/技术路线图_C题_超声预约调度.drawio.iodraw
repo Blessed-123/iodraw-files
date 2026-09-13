@@ -13,7 +13,7 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-83" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1660" y="803" width="440" height="247" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=9;" edge="1" parent="1" source="FZW20HWMj3qy4EFfsu5H-74" target="FZW20HWMj3qy4EFfsu5H-83">
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=9;strokeWidth=2;" edge="1" parent="1" source="FZW20HWMj3qy4EFfsu5H-74" target="FZW20HWMj3qy4EFfsu5H-83">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1870" y="820" />
@@ -56,7 +56,7 @@
           <mxGeometry x="245" y="2695" width="1725" height="490" as="geometry" />
         </mxCell>
         <mxCell id="n24" value="建立预热平衡阶段药材温度和水分浓度变化规律的数学模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=17;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="420" width="1120" height="62" as="geometry" />
+          <mxGeometry x="650" y="420" width="1120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="n25" value="明确问题与几何简化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="440" y="530" width="110" height="210" as="geometry" />
