@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram id="c-roadmap" name="C题超声预约技术路线图">
-    <mxGraphModel dx="3893" dy="2618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
+    <mxGraphModel dx="8370" dy="8070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -582,9 +582,6 @@
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-79" value="① 服务结果锁定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1148.25" y="3210" width="260" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-80" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2180" y="970" width="410" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
