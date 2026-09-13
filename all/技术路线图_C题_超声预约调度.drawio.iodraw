@@ -298,10 +298,10 @@
           <mxGeometry x="1113.5" y="1320" width="246.5" height="150" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-12" value="初始状态为 T=28 °C、C=2.55 kg/kg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="1470" width="120" height="60" as="geometry" />
+          <mxGeometry x="1555" y="1380" width="235" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-13" value="中心采用零通量边界，表面施加 Robin 换热与传质条件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1555" y="1320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1555" y="1320" width="235" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-14" value="附件 1 时间范围外采用末端值延拓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1798" y="1470" width="120" height="60" as="geometry" />
