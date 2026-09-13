@@ -629,7 +629,7 @@
           <mxGeometry x="1170" y="3450" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-104" value="每个线性子问题由 Thomas 算法求解，Picard 不收敛时减小时间步" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="3570" width="330" height="60" as="geometry" />
+          <mxGeometry x="1573.5" y="3560" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-105" value="时间采用首步后向欧拉与变步长 BDF2，层内通过 Picard 迭代处理非线性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1573" y="3490" width="327" height="60" as="geometry" />
