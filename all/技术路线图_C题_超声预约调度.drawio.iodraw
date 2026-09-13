@@ -503,7 +503,7 @@
           <mxGeometry x="1690" y="2165" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-33" value="\[&#xa;C_{\max}(t)&#xa;=&#xa;\max_{r\in[0,R]} C(r,t)&#xa;\]&#xa;&#xa;&#xa;\[&#xa;F(t)&#xa;=&#xa;C_{\max}(t)-0.15\ \mathrm{kg/kg}&#xa;\]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="2150" width="120" height="60" as="geometry" />
+          <mxGeometry x="1510" y="2150" width="330" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
