@@ -456,7 +456,7 @@
           <mxGeometry x="710.5" y="2138" width="156" height="62" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-6" value="事件目标可写为&lt;br&gt;\(&lt;br&gt;t_{\mathrm{dry}}&lt;br&gt;=&lt;br&gt;\inf&lt;br&gt;\left\{&lt;br&gt;t\geq 0:&lt;br&gt;\max_{r\in[0,R]} C(r,t)&lt;br&gt;&amp;lt;&lt;br&gt;0.15\ \mathrm{kg/kg}&lt;br&gt;\right\}&lt;br&gt;\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="534.63" y="2230" width="330.75" height="60" as="geometry" />
+          <mxGeometry x="550" y="2230" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-10" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.3324076334635417;arrowSize=0.5148111979166666;" vertex="1" parent="1">
           <mxGeometry x="670" y="2200" width="60" height="30" as="geometry" />
