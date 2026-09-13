@@ -385,7 +385,7 @@
           <mxGeometry x="649.25" y="925.5" width="270.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-104" value="空间收敛性与范围检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="525.5" y="1560" width="340" height="48" as="geometry" />
+          <mxGeometry x="530" y="1546.5" width="340" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-105" value="问题一采用常数物性，仅适用于短时预热阶段，难以刻画完整烘干过程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="510" y="1305.5" width="360" height="70" as="geometry" />
@@ -468,13 +468,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-38" value="分别计算 3 h 时的表面温度、中心温度、表面水分浓度和中心水分浓度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="715.5" y="1628" width="169.5" height="82" as="geometry" />
+          <mxGeometry x="715.5" y="1610" width="194.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="vHZNnp70cTp2YP3ywfks-39" target="vHZNnp70cTp2YP3ywfks-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-39" value="比较相邻网格结果并计算相对误差" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="734.25" y="1730" width="150.75" height="80" as="geometry" />
+          <mxGeometry x="734.25" y="1730" width="150.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-40" value="确认误差收敛检验计算时间范围" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="510" y="1730" width="175" height="80" as="geometry" />
