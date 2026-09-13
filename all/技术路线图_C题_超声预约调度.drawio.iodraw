@@ -329,16 +329,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-70" value="中心轴处满足零通量条件，药材表面同时发生对流换热与对流传质" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1779" y="520" width="271" height="85" as="geometry" />
+          <mxGeometry x="1779" y="520" width="271" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-71" value="边界条件与初始状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=1;fontStyle=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="1636" y="526.75" width="110" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-72" value="初始 T=28 °C、C=2.55 kg/kg" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1779" y="615" width="271" height="46.03" as="geometry" />
-        </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-73" value="附件 1 数据经 PCHIP 插值形成连续环境边界" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1779" y="673.97" width="271" height="86.03" as="geometry" />
+          <mxGeometry x="1779" y="640" width="271" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-76" value="收敛性与物理一致性检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="507.25" y="818.5" width="110" height="210" as="geometry" />
