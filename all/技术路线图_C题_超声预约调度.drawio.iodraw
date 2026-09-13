@@ -13,8 +13,14 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-83" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1660" y="803.5" width="440" height="247" as="geometry" />
         </mxCell>
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZW20HWMj3qy4EFfsu5H-74" target="FZW20HWMj3qy4EFfsu5H-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-74" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1650" y="469" width="440" height="231.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZW20HWMj3qy4EFfsu5H-59" target="FZW20HWMj3qy4EFfsu5H-74">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="957" y="469.25" width="583" height="231.5" as="geometry" />
@@ -208,6 +214,9 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-77" value="线性求解与结果组织" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="1050" y="827.5" width="110" height="210" as="geometry" />
         </mxCell>
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZW20HWMj3qy4EFfsu5H-78" target="FZW20HWMj3qy4EFfsu5H-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-78" value="有限体积离散与时间推进" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="1688" y="819" width="110" height="210" as="geometry" />
         </mxCell>
@@ -237,6 +246,9 @@
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-89" value="结合参数敏感性与能量守恒校核，验证模型及数值结果的一致性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="592" y="929" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-97" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=14;rounded=1;strokeWidth=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1513" y="894" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
