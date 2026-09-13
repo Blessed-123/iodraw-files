@@ -521,7 +521,7 @@
           <mxGeometry x="1567" y="2300" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-43" value="\\(T^{n}\\)、\\(C^{n}\\) 为初值；首步用后向欧拉启动，后续采用变步长 BDF2。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1672" y="2510" width="280" height="70" as="geometry" />
+          <mxGeometry x="1672" y="2510" width="368" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
