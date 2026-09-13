@@ -215,7 +215,7 @@
           <mxGeometry x="1050.75" y="1239" width="362.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n45" value="边界条件与数据延拓" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1605" y="1237.5" width="370" height="48" as="geometry" />
+          <mxGeometry x="1605" y="1237.5" width="395" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n47" value="有限体积离散与 Picard 迭代" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1591.01" y="1560" width="380" height="48" as="geometry" />
@@ -355,7 +355,7 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-87" value="求解温度场与水分浓度场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="820" width="270" height="88.34" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-88" value="通过空间网格和时间步收敛性检验评估离散误差" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-88" value="空间网格，时间步收敛性&lt;div&gt;检验&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="800" width="310" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-89" value="结合参数敏感性与能量守恒校核，验证模型及数值结果的一致性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;" parent="1" vertex="1">
@@ -371,16 +371,16 @@
           <mxGeometry x="480" y="1385.5" width="410" height="84.5" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-114" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;\(D\) 同时随 \(C\) 和温度 \(T\) 变化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1020" y="1390" width="270" height="70" as="geometry" />
+          <mxGeometry x="1010" y="1390" width="280" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-115" value="\(\rho\)、\(c_p\)、\(k\) 随水分浓度 \(C\) 变化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1020" y="1297" width="270" height="70" as="geometry" />
+          <mxGeometry x="1010" y="1297" width="280" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-13" value="中心采用零通量边界，&lt;div&gt;表面施加 Robin 换热与传质条件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1580" y="1297" width="440" height="73" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-14" value="数据采用末端值延拓" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1580" y="1380" width="420" height="80" as="geometry" />
+          <mxGeometry x="1580" y="1380" width="440" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-16" value="空间采用径向有限体积法，dr=1 mm" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1578" y="1620" width="192" height="100" as="geometry" />
