@@ -515,7 +515,7 @@
           <mxGeometry x="1544.49" y="2232.5" width="345.51" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-40" value="烘干完成转化为 F(t) 首次由非负变为负的下穿事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1564" y="2290" width="310" height="45" as="geometry" />
+          <mxGeometry x="1553" y="2290" width="337" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
