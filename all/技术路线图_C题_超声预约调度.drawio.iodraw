@@ -321,10 +321,10 @@
         <mxCell id="vHZNnp70cTp2YP3ywfks-20" value="更新物性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1699" y="1700" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vHZNnp70cTp2YP3ywfks-22" value="求解浓度求解温度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1703" y="1760" width="80" height="40" as="geometry" />
+        <mxCell id="vHZNnp70cTp2YP3ywfks-22" value="求解浓度&lt;div&gt;求解温度&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1703" y="1760" width="87" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vHZNnp70cTp2YP3ywfks-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vHZNnp70cTp2YP3ywfks-23" value="检查收敛" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1703" y="1830" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
