@@ -8,7 +8,7 @@
           <mxGeometry x="1435" y="1550" width="440" height="283.5" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="1260" width="440" height="247" as="geometry" />
+          <mxGeometry x="1523" y="1248.5" width="440" height="247" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="928.75" y="1260" width="440" height="247" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry x="967.5" y="1270.5" width="362.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n45" value="边界条件与数据延拓" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1470" y="1270.5" width="350" height="48" as="geometry" />
+          <mxGeometry x="1573" y="1259" width="350" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n47" value="有限体积离散与 Picard 迭代" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1465" y="1570" width="380" height="48" as="geometry" />
@@ -304,13 +304,13 @@
           <mxGeometry x="1103.5" y="1337" width="246.5" height="150" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-12" value="初始状态为 T=28 °C、C=2.55 kg/kg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="1387" width="320" height="50" as="geometry" />
+          <mxGeometry x="1583" y="1375.5" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-13" value="中心采用零通量边界，表面施加 Robin 换热与传质条件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="1328.5" width="320" height="48.5" as="geometry" />
+          <mxGeometry x="1583" y="1317" width="320" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-14" value="附件 1 时间范围外采用末端值延拓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="1447" width="320" height="50" as="geometry" />
+          <mxGeometry x="1583" y="1435.5" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-16" value="空间采用径向有限体积法，dr=1 mm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1455" y="1630" width="150" height="80" as="geometry" />
