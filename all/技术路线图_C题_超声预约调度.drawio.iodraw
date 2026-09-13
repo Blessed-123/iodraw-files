@@ -207,7 +207,7 @@
           <mxGeometry x="620" y="2800" width="1280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-35" value="移动边界问题转化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="507.25" y="2938" width="370" height="52" as="geometry" />
+          <mxGeometry x="505.5" y="2940" width="370" height="52" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-37" value="结果输出与模型检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="3370" width="260" height="48" as="geometry" />
@@ -587,13 +587,13 @@
           <mxGeometry x="1139.81" y="3360" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-81" value="附件 2 给出随时间收缩的 R(t)，若直接在物理坐标中固定网格，会产生移动边界和网格重构问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="499.5" y="3020" width="390" height="90" as="geometry" />
+          <mxGeometry x="499.5" y="3010" width="390" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-82" value="令 ξ=r/R(t)，将计算域固定为 ξ∈[0,1]，中心始终对应 ξ=0，表面始终对应 ξ=1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="499.5" y="3120" width="390" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-83" value="在归一化物质坐标中建立收缩条件下的传热传质模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1123.25" y="3030" width="285" height="60" as="geometry" />
+          <mxGeometry x="1038.5" y="3000" width="285" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-94" value="有限体积界面导纳由扩散或导热系数、界面面积、网络间距共同确定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1285" y="3170" width="120" height="60" as="geometry" />
