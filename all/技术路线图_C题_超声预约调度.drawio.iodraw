@@ -166,9 +166,6 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-58" value="水分浓度控制方程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1330" y="619" width="60" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-61" value="$$&lt;span style=&quot;background-color: initial;&quot;&gt;\begin{aligned}&lt;/span&gt;&lt;div&gt;\rho c_p \frac{\partial T}{\partial t}&lt;/div&gt;&lt;div&gt;&amp;amp;=&lt;/div&gt;&lt;div&gt;\frac{1}{r}\frac{\partial}{\partial r}&lt;/div&gt;&lt;div&gt;\left(&lt;/div&gt;&lt;div&gt;k r \frac{\partial T}{\partial r}&lt;/div&gt;&lt;div&gt;\right),&lt;/div&gt;&lt;div&gt;\qquad \rho,\ c_p,\ k\text{为常数},\\&lt;/div&gt;&lt;div&gt;\frac{\partial C}{\partial t}&lt;/div&gt;&lt;div&gt;&amp;amp;=&lt;/div&gt;&lt;div&gt;\frac{1}{r}\frac{\partial}{\partial r}&lt;/div&gt;&lt;div&gt;\left[&lt;/div&gt;&lt;div&gt;D(C)\, r\, \frac{\partial C}{\partial r}&lt;/div&gt;&lt;div&gt;\right],\\&lt;/div&gt;&lt;div&gt;D(C)&lt;/div&gt;&lt;div&gt;&amp;amp;=&lt;/div&gt;&lt;div&gt;7\times 10^{-9}&lt;/div&gt;&lt;div&gt;\exp\left(-\frac{0.89}{C}\right).&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;\end{aligned}&lt;/span&gt;$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="850" y="880" width="210" height="290" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
