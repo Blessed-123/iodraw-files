@@ -297,9 +297,6 @@
         <mxCell id="vHZNnp70cTp2YP3ywfks-3" value="\begin{aligned}&lt;br&gt;\rho(C)c_p(C)\frac{\partial T}{\partial t}&lt;br&gt;&amp;amp;=&lt;br&gt;\frac{1}{r}\frac{\partial}{\partial r}&lt;br&gt;\left(&lt;br&gt;k(C)r\frac{\partial T}{\partial r}&lt;br&gt;\right)\\&lt;br&gt;\frac{\partial C}{\partial t}&lt;br&gt;&amp;amp;=&lt;br&gt;\frac{1}{r}\frac{\partial}{\partial r}&lt;br&gt;\left(&lt;br&gt;D(C,T)r\frac{\partial C}{\partial r}&lt;br&gt;\right)&lt;br&gt;\end{aligned}" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1113.5" y="1320" width="246.5" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="vHZNnp70cTp2YP3ywfks-6" value="\[&#xa;\begin{aligned}&#xa;\rho(C)c_p(C)\frac{\partial T}{\partial t}&#xa;&amp;=&#xa;\frac{1}{r}\frac{\partial}{\partial r}&#xa;\left(&#xa;k(C)r\frac{\partial T}{\partial r}&#xa;\right),\\[4pt]&#xa;\frac{\partial C}{\partial t}&#xa;&amp;=&#xa;\frac{1}{r}\frac{\partial}{\partial r}&#xa;\left(&#xa;D(C,T)r\frac{\partial C}{\partial r}&#xa;\right),\\[4pt]&#xa;\rho(C)&amp;=650+128C,\\&#xa;c_p(C)&amp;=1450+\frac{2736C}{C+1},\\&#xa;k(C)&amp;=0.21+\frac{0.38C}{C+1},\\&#xa;D(C,T)&amp;=&#xa;2.4\times 10^{-3}&#xa;\exp\left(-\frac{0.45}{C}\right)&#xa;\exp\left(-\frac{3850}{T_K}\right).&#xa;\end{aligned}&#xa;\]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="1510" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
