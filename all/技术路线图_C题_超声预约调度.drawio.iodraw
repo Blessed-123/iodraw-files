@@ -695,10 +695,10 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-109" value="当时间区间宽度不超过 0.1 s 时，取右端时刻作为烘干终点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1050" y="3470" width="370" height="74.5" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-110" value="进一步比较固定半径、界面平均、通量平衡和 Cmax 单调性检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="669.25" y="3510" width="227.75" height="50" as="geometry" />
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-110" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;进一步比较固定半径、界面平均、通量平衡和 Cmax 单调性检验&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="669.25" y="3510" width="260.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-111" value="开展网格、时间步、环境延拓、R(t) 插值检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-111" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;开展网格、时间步、环境延拓、R(t) 插值检验&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="671.25" y="3450" width="258.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-112" value="输出结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
