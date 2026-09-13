@@ -511,7 +511,7 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-33" value="\[&lt;br&gt;C_{\max}(t)&lt;br&gt;=&lt;br&gt;\max_{r\in[0,R]} C(r,t)&lt;br&gt;\]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1709.99" y="2125" width="190.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-39" value="判断规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-39" value="判断规则：若 F(t)≥0，表示尚未全域达标，若 F(t)&amp;lt;0，表示药材各处均已达标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1544.49" y="2237.5" width="335.51" height="62.5" as="geometry" />
         </mxCell>
       </root>
