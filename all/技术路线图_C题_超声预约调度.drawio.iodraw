@@ -523,8 +523,8 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-43" value="以当前时刻\(T^n\)、\(C^n\)为初值；&lt;div&gt;首步用后向欧拉启动，后续采用变步长 BDF2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1618" y="2490" width="258" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-46" value="Picard 迭代处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1966.01" y="2468" width="90" height="180" as="geometry" />
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-55" value="进入新时间层后，先根据当前迭代值更新\(\rho\)、\(c_p\)、\(k\) 、\(D\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1598" y="2590" width="301" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
