@@ -527,7 +527,7 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-96" value="水分浓度场采用径向非稳态扩散模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1037" y="3130" width="413" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-97" value="温度场采用圆柱坐标下的径向非稳态导热模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-97" value="温度场采用径向非稳态导热模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1037" y="3050" width="413" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-99" value="中心为零通量条件，表面采用 Robin 换热与传质条件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
