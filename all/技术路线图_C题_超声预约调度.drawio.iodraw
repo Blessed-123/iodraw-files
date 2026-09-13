@@ -144,7 +144,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n56" value="问题三：要求确定在药材各处的水分浓度低于0.15 kg/kg时药材烘干所需要的时间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="1910" width="1240" height="46" as="geometry" />
+          <mxGeometry x="620" y="1910" width="1280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="n57" value="① 服务结果锁定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="417" y="2366" width="260" height="48" as="geometry" />
