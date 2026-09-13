@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FZW20HWMj3qy4EFfsu5H-74" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1617" y="471" width="440" height="231.5" as="geometry" />
+          <mxGeometry x="1650" y="469" width="440" height="231.5" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="957" y="469.25" width="620" height="231.5" as="geometry" />
@@ -188,16 +188,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-70" value="中心轴处满足零通量条件，药材表面同时发生对流换热与对流传质" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1794" y="490.75" width="216" height="69.25" as="geometry" />
+          <mxGeometry x="1827" y="488.75" width="216" height="69.25" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-71" value="边界条件与初始状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1675" y="481.75" width="110" height="210" as="geometry" />
+          <mxGeometry x="1708" y="479.75" width="110" height="210" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-72" value="初始 T=28 °C、C=2.55 kg/kg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1794" y="570" width="216" height="46.03" as="geometry" />
+          <mxGeometry x="1827" y="568" width="216" height="46.03" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-73" value="附件 1 数据经 PCHIP 插值形成连续环境边界" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1794" y="628.97" width="216" height="51.03" as="geometry" />
+          <mxGeometry x="1827" y="626.97" width="216" height="51.03" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
