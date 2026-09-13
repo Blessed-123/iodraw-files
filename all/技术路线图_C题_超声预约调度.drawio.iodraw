@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vHZNnp70cTp2YP3ywfks-44" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="468" y="1543" width="452" height="307" as="geometry" />
+        </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1539.99" y="1590" width="440" height="283.5" as="geometry" />
         </mxCell>
@@ -375,13 +378,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-39" value="比较相邻网格结果并计算相对误差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="709.25" y="1740" width="170.75" height="80" as="geometry" />
+          <mxGeometry x="729.25" y="1740" width="150.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-40" value="确认误差收敛检验计算时间范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="523.25" y="1740" width="156.75" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vHZNnp70cTp2YP3ywfks-44" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="468" y="1543" width="420.5" height="247" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
