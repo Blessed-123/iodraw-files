@@ -589,7 +589,7 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-83" value="在归一化物质坐标中建立收缩条件下的传热传质模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1123.25" y="3030" width="285" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-84" value="&lt;div&gt;\[&lt;/div&gt;&lt;div&gt;\xi=\frac{r}{R(t)},\qquad 0\leq \xi\leq 1&lt;/div&gt;&lt;div&gt;\]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-84" value="&lt;div&gt;\(&lt;/div&gt;&lt;div&gt;\xi=\frac{r}{R(t)},\qquad 0\leq \xi\leq 1&lt;/div&gt;&lt;div&gt;\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="3190" width="300" height="90" as="geometry" />
         </mxCell>
       </root>
