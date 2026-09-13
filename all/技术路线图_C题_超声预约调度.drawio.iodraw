@@ -225,7 +225,7 @@
           <mxGeometry x="505.5" y="2940" width="370" height="52" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-37" value="结果输出与模型检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="528.5" y="3307.5" width="310" height="48" as="geometry" />
+          <mxGeometry x="536.5" y="3307" width="310" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-38" value="核心模型构建" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1030.5" y="2940" width="349.5" height="48" as="geometry" />
