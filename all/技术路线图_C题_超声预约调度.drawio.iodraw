@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="2020" width="450" height="310" as="geometry" />
+          <mxGeometry x="1040" y="2020" width="430" height="310" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="480.5" y="2050" width="410" height="280" as="geometry" />
@@ -156,7 +156,7 @@
           <mxGeometry x="520.5" y="2070" width="330" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n59" value="物理模型继承" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="2032" width="340" height="48" as="geometry" />
+          <mxGeometry x="1080" y="2032" width="350" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n61" value="达标事件构造" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1636" y="2080" width="260" height="48" as="geometry" />
