@@ -602,13 +602,13 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-59" value="若 \(F(t^n)\geq0\) 且 \(F(t^{n+1})&amp;lt;0\)，则在区间 \([t^n,t^{n+1}]\) 内进行二分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1020" y="2460" width="160" height="149.5" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-60" value="固定左端状态和 BDF2 历史" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;固定左端状态和 BDF2 历史&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1215" y="2469.5" width="197.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-61" value="重复二分直至区间宽度不超过 \(0.1\ \mathrm{s}\)，取最终右端时刻作为烘干终点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1070" y="2620" width="337.75" height="49.5" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-62" value="取中点重新求解 \(T_{\mathrm{mid}}\)、\(C_{\mathrm{mid}}\) 和 \(F(t_{\mathrm{mid}})\)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-62" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;取中点重新求解 \(T_{\mathrm{mid}}\)、\(C_{\mathrm{mid}}\) 和 \(F(t_{\mathrm{mid}})\)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1222.75" y="2520" width="185" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-63" value="根据其符号更新左右区间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
@@ -727,9 +727,6 @@
             <mxPoint x="1761" y="2340" as="sourcePoint" />
             <mxPoint x="1816.5" y="2289.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-148" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1325" y="2578" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
