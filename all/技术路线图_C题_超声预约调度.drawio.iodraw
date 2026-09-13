@@ -384,10 +384,10 @@
           <mxGeometry x="523.25" y="1740" width="156.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-46" value="完成Picard收敛后推进时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="1730" width="330" height="40" as="geometry" />
+          <mxGeometry x="1064" y="1720" width="326" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-47" value="根据温度和水分变化调整时间步长" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="1873.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1064" y="1780" width="326" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
