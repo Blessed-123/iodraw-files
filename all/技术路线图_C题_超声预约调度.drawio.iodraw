@@ -379,7 +379,7 @@
         <mxCell id="vHZNnp70cTp2YP3ywfks-13" value="中心采用零通量边界，&lt;div&gt;表面施加 Robin 换热与传质条件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1580" y="1297" width="420" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="vHZNnp70cTp2YP3ywfks-14" value="附件 1 时间范围外采用末端值延拓" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="vHZNnp70cTp2YP3ywfks-14" value="采用末端值延拓" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1580" y="1380" width="420" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-16" value="空间采用径向有限体积法，dr=1 mm" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
