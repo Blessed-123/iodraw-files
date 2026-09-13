@@ -204,7 +204,7 @@
           <mxGeometry x="790.25" y="2970" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-37" value="结果输出与模型检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="778.5" y="3238" width="260" height="48" as="geometry" />
+          <mxGeometry x="740" y="3370" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-38" value="核心模型构建" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1138.25" y="2970" width="260" height="48" as="geometry" />
@@ -578,7 +578,7 @@
           <mxGeometry x="510" y="2640.5" width="350" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-79" value="全域达标与终点定位" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1148.25" y="3210" width="260" height="48" as="geometry" />
+          <mxGeometry x="1139.81" y="3360" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-81" value="附件 2 给出随时间收缩的 R(t)，若直接在物理坐标中固定网格，会产生移动边界和网格重构问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="3030" width="280" height="80" as="geometry" />
@@ -587,7 +587,7 @@
           <mxGeometry x="780" y="3120" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-83" value="在归一化物质坐标中建立收缩条件下的传热传质模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1145" y="3030" width="285" height="120" as="geometry" />
+          <mxGeometry x="1123.25" y="3030" width="285" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
