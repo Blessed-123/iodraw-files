@@ -150,7 +150,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-91" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;strokeColor=#36393d;dashed=1;fillColor=#ffff88;" parent="1" vertex="1">
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-91" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="790" width="470" height="250" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endSize=9;fontSize=24;fontStyle=1" edge="1" parent="1" source="FZW20HWMj3qy4EFfsu5H-83" target="FZW20HWMj3qy4EFfsu5H-91">
