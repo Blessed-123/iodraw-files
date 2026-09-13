@@ -155,13 +155,13 @@
           <mxGeometry x="1017" y="479" width="110" height="210" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-54" value="能量守恒和 Fourier 定律" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="480" width="140" height="80" as="geometry" />
+          <mxGeometry x="1140" y="480" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-56" value="水分守恒和 Fick 定律" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1143" y="600" width="138" height="82" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-57" value="温度控制方程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="481" width="60" height="71" as="geometry" />
+          <mxGeometry x="1320" y="481" width="70" height="89" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-58" value="水分浓度控制方程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1330" y="619" width="60" height="71" as="geometry" />
