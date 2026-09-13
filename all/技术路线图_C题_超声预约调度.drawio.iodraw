@@ -354,6 +354,12 @@
         <mxCell id="vHZNnp70cTp2YP3ywfks-34" value="时间采用后向欧拉格式，自适应步长范围为 0.01–10 s" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1115" y="1701.75" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vHZNnp70cTp2YP3ywfks-37" value="采用不同 dr 开展空间离散收敛性检验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vHZNnp70cTp2YP3ywfks-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="2000" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
