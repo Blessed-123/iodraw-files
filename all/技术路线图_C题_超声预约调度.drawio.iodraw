@@ -32,7 +32,7 @@
           <mxGeometry x="470" y="2930" width="443" height="310" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-74" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="480.49" y="2369.5" width="443" height="310" as="geometry" />
+          <mxGeometry x="480.49" y="2350" width="443" height="329.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="991.99" y="2360" width="443" height="329.5" as="geometry" />
@@ -207,7 +207,7 @@
           <mxGeometry x="1586.99" y="2400" width="326" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n65" value="结果输出与未达标判定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="533.49" y="2379.5" width="330" height="48" as="geometry" />
+          <mxGeometry x="523.49" y="2360" width="330" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -585,7 +585,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-70" value="确定烘干终点后，每 \(60\ \mathrm{s}\) 记录各径向节点的水分浓度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="523.49" y="2437.5" width="350" height="49.5" as="geometry" />
+          <mxGeometry x="513.49" y="2420" width="350" height="49.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-71" value="将结果映射到 0–2 cm、每隔 0.1 cm 的径向位置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="521.74" y="2559" width="351.75" height="40.5" as="geometry" />
