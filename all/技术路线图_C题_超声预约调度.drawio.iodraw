@@ -203,7 +203,7 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-35" value="移动边界问题转化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="790.25" y="2970" width="260" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-37" value="① 服务结果锁定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-37" value="结果输出与模型检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="778.5" y="3190" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-38" value="核心模型构建" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
@@ -577,7 +577,7 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-73" value="若 5 天内 F(t) 始终未变为负，应明确报告未达标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="2640.5" width="350" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-79" value="① 服务结果锁定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-79" value="全域达标与终点定位" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1148.25" y="3210" width="260" height="48" as="geometry" />
         </mxCell>
       </root>
