@@ -230,7 +230,7 @@
           <mxGeometry x="515" y="1239" width="350.5" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="n43" value="变物性双向耦合模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;strokeWidth=1.5;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="1239" width="400" height="48" as="geometry" />
+          <mxGeometry x="1055" y="1237.5" width="400" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n45" value="边界条件与数据延拓" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;strokeWidth=1.5;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1605" y="1237.5" width="395" height="48" as="geometry" />
@@ -259,7 +259,7 @@
         <mxCell id="n57" value="全域达标事件定义" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;strokeWidth=1.5;fontStyle=1;fillColor=#C3ABD0;" parent="1" vertex="1">
           <mxGeometry x="520.5" y="2039.5" width="330" height="60.5" as="geometry" />
         </mxCell>
-        <mxCell id="n59" value="物理模型继承" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;strokeWidth=1.5;fontStyle=1;fillColor=#C3ABD0;" parent="1" vertex="1">
+        <mxCell id="n59" value="物理模型继承" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;strokeWidth=1.5;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1043.31" y="2040" width="386.69" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n61" value="达标事件构造" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;strokeWidth=1.5;fontStyle=1;fillColor=#C3ABD0;" parent="1" vertex="1">
