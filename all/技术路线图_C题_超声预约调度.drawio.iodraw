@@ -291,9 +291,6 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-115" value="\(\rho\)、\(c_p\)、\(k\) 随水分浓度 \(C\) 变化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="1330" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-116" value="&lt;div&gt;\[&lt;/div&gt;&lt;div&gt;\begin{aligned}&lt;/div&gt;&lt;div&gt;\rho(C)c_p(C)\frac{\partial T}{\partial t}&lt;/div&gt;&lt;div&gt;&amp;amp;=&lt;/div&gt;&lt;div&gt;\frac{1}{r}\frac{\partial}{\partial r}&lt;/div&gt;&lt;div&gt;\left(&lt;/div&gt;&lt;div&gt;k(C)r\frac{\partial T}{\partial r}&lt;/div&gt;&lt;div&gt;\right),\\[4pt]&lt;/div&gt;&lt;div&gt;\frac{\partial C}{\partial t}&lt;/div&gt;&lt;div&gt;&amp;amp;=&lt;/div&gt;&lt;div&gt;\frac{1}{r}\frac{\partial}{\partial r}&lt;/div&gt;&lt;div&gt;\left(&lt;/div&gt;&lt;div&gt;D(C,T)r\frac{\partial C}{\partial r}&lt;/div&gt;&lt;div&gt;\right),\\[4pt]&lt;/div&gt;&lt;div&gt;\rho(C)&amp;amp;=650+128C,\\&lt;/div&gt;&lt;div&gt;c_p(C)&amp;amp;=1450+\frac{2736C}{C+1},\\&lt;/div&gt;&lt;div&gt;k(C)&amp;amp;=0.21+\frac{0.38C}{C+1},\\&lt;/div&gt;&lt;div&gt;D(C,T)&amp;amp;=&lt;/div&gt;&lt;div&gt;2.4\times 10^{-3}&lt;/div&gt;&lt;div&gt;\exp\left(-\frac{0.45}{C}\right)&lt;/div&gt;&lt;div&gt;\exp\left(-\frac{3850}{T_K}\right).&lt;/div&gt;&lt;div&gt;\end{aligned}&lt;/div&gt;&lt;div&gt;\]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="1960" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
