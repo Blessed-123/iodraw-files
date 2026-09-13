@@ -201,7 +201,7 @@
           <mxGeometry x="1038.5" y="2039.5" width="383" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n61" value="达标事件构造" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1567" y="2039.5" width="340" height="48" as="geometry" />
+          <mxGeometry x="1567" y="2039.5" width="363" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n63" value="BDF2 时间推进" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1573.5" y="2400" width="326" height="48" as="geometry" />
@@ -516,7 +516,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-30" value="\[&lt;br&gt;F(t)&lt;br&gt;=&lt;br&gt;C_{\max}(t)-0.15\ \mathrm{kg/kg}&lt;br&gt;\]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1736.99" y="2164.5" width="203.01" height="40" as="geometry" />
+          <mxGeometry x="1736.99" y="2164.5" width="223.01" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-31" target="HYAzZhG7RNsZK3y5gQgT-33">
           <mxGeometry relative="1" as="geometry" />
@@ -534,10 +534,10 @@
           <mxGeometry x="1736.99" y="2104.5" width="223.01" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-39" value="判断规则：若 F(t)≥0，表示尚未全域达标，若 F(t)&amp;lt;0，表示药材各处均已达标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1571.49" y="2212" width="368.51" height="52.5" as="geometry" />
+          <mxGeometry x="1571.49" y="2212" width="388.51" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-40" value="烘干完成转化为 F(t) 首次由非负变为负的下穿事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1571.01" y="2279.5" width="368.99" height="40" as="geometry" />
+          <mxGeometry x="1571.01" y="2279.5" width="388.99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-43" value="以当前时刻\(T^n\)、\(C^n\)为初值；&lt;div&gt;首步用后向欧拉启动，后续采用变步长 BDF2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1566.01" y="2458" width="360" height="52" as="geometry" />
