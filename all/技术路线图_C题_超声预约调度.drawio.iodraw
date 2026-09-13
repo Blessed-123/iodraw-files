@@ -444,8 +444,8 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-4" value="烘干时长求解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="615.75" y="2170" width="125" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="2250" width="120" height="60" as="geometry" />
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-5" value="首个满足全域水分浓度低于 0.15 kg/kg 的时刻" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="818.75" y="2190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
