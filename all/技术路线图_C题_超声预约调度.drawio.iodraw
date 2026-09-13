@@ -260,7 +260,7 @@
           <mxGeometry x="520.5" y="2039.5" width="330" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n59" value="物理模型继承" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;strokeWidth=1.5;fontStyle=1;fillColor=#C3ABD0;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="2029.5" width="383" height="48" as="geometry" />
+          <mxGeometry x="1043.31" y="2040" width="386.69" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n61" value="达标事件构造" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;strokeWidth=1.5;fontStyle=1;fillColor=#C3ABD0;" parent="1" vertex="1">
           <mxGeometry x="1600" y="2039.5" width="363" height="48" as="geometry" />
