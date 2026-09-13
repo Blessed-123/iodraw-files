@@ -678,10 +678,10 @@
           <mxGeometry x="1580" y="3060" width="370" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-102" value="检测阈值跨越后使用 advance_to_target 自动细分时间步并局部二分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="3390" width="358.5" height="79.5" as="geometry" />
+          <mxGeometry x="1050" y="3390" width="370" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-103" value="以 max_ξC(ξ,t)&amp;lt;0.15 kg/kg 为全域达标判据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1067" y="3320" width="341.5" height="60" as="geometry" />
+          <mxGeometry x="1050" y="3320" width="370" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-104" value="每个线性子问题由 Thomas 算法求解，Picard 不收敛时减小时间步" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1570" y="3484.5" width="380" height="60" as="geometry" />
