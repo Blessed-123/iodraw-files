@@ -149,13 +149,13 @@
         <mxCell id="n57" value="① 服务结果锁定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="417" y="2366" width="260" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="n59" value="② 候选列压缩" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="n59" value="② 候选列压缩" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="717" y="2366" width="260" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="n61" value="③ 资源压缩MILP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="n61" value="③ 资源压缩MILP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1017" y="2366" width="260" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="n63" value="④ 字典序压缩优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="n63" value="④ 字典序压缩优化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1317" y="2366" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n65" value="⑤ 结果与审计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;fontColor=#000000;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
