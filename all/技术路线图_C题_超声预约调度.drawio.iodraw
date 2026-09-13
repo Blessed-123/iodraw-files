@@ -20,16 +20,16 @@
           <mxGeometry x="1497" y="3280" width="443" height="310" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-120" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1511.51" y="2930" width="443" height="310" as="geometry" />
+          <mxGeometry x="1544.51" y="2910" width="443" height="310" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-101" value="采用附录 4 的 ρ(C)、cₚ(C)、k(C) 和 D(C,T) 经验关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1567" y="3000" width="333" height="60" as="geometry" />
+          <mxGeometry x="1600" y="2980" width="333" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-119" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="987" y="2930" width="443" height="310" as="geometry" />
+          <mxGeometry x="1020" y="2910" width="443" height="310" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-118" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="2930" width="443" height="310" as="geometry" />
+          <mxGeometry x="503" y="2910" width="443" height="310" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-74" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="480.49" y="2350" width="443" height="329.5" as="geometry" />
@@ -255,19 +255,19 @@
           <mxGeometry x="1970" y="180" width="252" height="115" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-34" value="问题四：基于药材因水分流失发生尺寸变化条件确定药材的烘干时长" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="625" y="2750" width="1280" height="90.5" as="geometry" />
+          <mxGeometry x="625" y="2770" width="1280" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-35" value="移动边界问题转化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="505.5" y="2940" width="370" height="52" as="geometry" />
+          <mxGeometry x="538.5" y="2920" width="370" height="52" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-37" value="结果输出与模型检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="539.5" y="3277" width="310" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-38" value="核心模型构建" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1030.5" y="2940" width="349.5" height="48" as="geometry" />
+          <mxGeometry x="1063.5" y="2920" width="349.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-39" value="物性与边界数据处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1580.25" y="2940" width="306.5" height="48" as="geometry" />
+          <mxGeometry x="1613.25" y="2920" width="306.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-40" value="时空离散与耦合求解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1561.75" y="3295" width="309.75" height="48" as="geometry" />
@@ -624,34 +624,34 @@
           <mxGeometry x="1042" y="3284.5" width="339.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-81" value="附件 2 给出随时间收缩的 R(t)，若直接在物理坐标中固定网格，会产生移动边界和网格重构问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="499.5" y="3010" width="390" height="90" as="geometry" />
+          <mxGeometry x="532.5" y="2990" width="390" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-82" value="令 ξ=r/R(t)，将计算域固定为 ξ∈[0,1]，中心始终对应 ξ=0，表面始终对应 ξ=1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="499.5" y="3120" width="390" height="90" as="geometry" />
+          <mxGeometry x="532.5" y="3100" width="390" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-83" value="在归一化物质坐标中建立收缩条件下的传热传质模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1038.5" y="3000" width="341.5" height="50" as="geometry" />
+          <mxGeometry x="1071.5" y="2980" width="341.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-94" value="有限体积界面导纳由扩散或导热系数、界面面积、网络间距共同确定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1215" y="3150" width="175" height="80" as="geometry" />
+          <mxGeometry x="1248" y="3130" width="175" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-95" value="物理体积按半径平方收缩，界面面积按半径线性缩放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="3150" width="160" height="80" as="geometry" />
+          <mxGeometry x="1063" y="3130" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-96" value="水分浓度场采用径向非稳态扩散模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1215" y="3060" width="175" height="80" as="geometry" />
+          <mxGeometry x="1248" y="3040" width="175" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-97" value="温度场采用圆柱坐标下的径向非稳态导热模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="3060" width="160" height="80" as="geometry" />
+          <mxGeometry x="1063" y="3040" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-98" value="ξ 方向取 N=250，几何量按步末 R(tⁿ⁺¹) 更新，界面 D、k 采用调和平均" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1552.99" y="3355" width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-99" value="附件 2 的 R(t) 采用 PCHIP，中心为零通量条件，表面采用 Robin 换热与传质条件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1566.01" y="3170" width="333.99" height="60" as="geometry" />
+          <mxGeometry x="1599.01" y="3150" width="333.99" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-100" value="附件 1 在 4 h 内采用 PCHIP，4 h 后主模型保持最后一个小时 10800–14400 s 的平均值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1566.01" y="3080" width="333.99" height="70" as="geometry" />
+          <mxGeometry x="1599.01" y="3060" width="333.99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-102" value="检测阈值跨越后使用 advance_to_target 自动细分时间步并局部二分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="3422.5" width="341.5" height="60" as="geometry" />
