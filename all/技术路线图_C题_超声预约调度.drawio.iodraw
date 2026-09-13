@@ -537,7 +537,7 @@
           <mxGeometry x="1571.49" y="2212" width="345.51" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-40" value="烘干完成转化为 F(t) 首次由非负变为负的下穿事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1567" y="2269.5" width="350" height="40" as="geometry" />
+          <mxGeometry x="1571.01" y="2279.5" width="368.99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-43" value="以当前时刻\(T^n\)、\(C^n\)为初值；&lt;div&gt;首步用后向欧拉启动，后续采用变步长 BDF2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1566.01" y="2458" width="360" height="52" as="geometry" />
