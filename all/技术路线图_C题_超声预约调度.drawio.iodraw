@@ -296,7 +296,7 @@
           <mxGeometry x="600" y="529.25" width="290" height="100.75" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-52" value="依据长径比和轴对称特征，忽略端面及周向差异，将问题降为一维径向传热传质模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="605" y="639.25" width="275" height="110.75" as="geometry" />
+          <mxGeometry x="605" y="639.25" width="295" height="110.75" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-53" value="建立控制方程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="529.63" width="110" height="210" as="geometry" />
@@ -365,7 +365,7 @@
           <mxGeometry x="1200" y="820" width="260" height="88.34" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-88" value="通过空间网格和时间步收敛性检验评估离散误差" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="825.5" width="310" height="80" as="geometry" />
+          <mxGeometry x="610" y="800" width="310" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-89" value="结合参数敏感性与能量守恒校核，验证模型及数值结果的一致性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="925.5" width="310" height="104.5" as="geometry" />
