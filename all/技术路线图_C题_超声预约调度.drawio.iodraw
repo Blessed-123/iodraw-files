@@ -507,10 +507,7 @@
           <mxGeometry x="1540" y="2164.5" width="490" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-39" value="判断规则：若 F(t)≥0，表示尚未全域达标，若 F(t)&amp;lt;0，表示药材各处均已达标" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1571.49" y="2212" width="458.51" height="52.5" as="geometry" />
-        </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-40" value="烘干完成转化为 F(t) 首次由非负变为负的下穿事件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1571.01" y="2270" width="458.99" height="49.5" as="geometry" />
+          <mxGeometry x="1571.49" y="2212" width="458.51" height="78" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-43" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;以当前时刻\(T^n\)、\(C^n\)为初值；&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;首步用后向欧拉启动，后续采用变步长 BDF2&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;labelBorderColor=#ffffff;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1582.99" y="2438" width="427.01" height="72" as="geometry" />
