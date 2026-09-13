@@ -279,8 +279,8 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-105" value="问题一采用常数物性，仅适用于短时预热阶段，难以刻画完整烘干过程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="1340" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-106" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="617" y="1420" width="120" height="60" as="geometry" />
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-106" value="需建立物性与状态量之间的函数关系，实现温度场与水分场的联立求解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="617" y="1420" width="283" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
