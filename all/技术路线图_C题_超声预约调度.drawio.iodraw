@@ -23,7 +23,7 @@
           <mxGeometry x="1020" y="797.84" width="470" height="245.32" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-83" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1590" y="796.16" width="430" height="247" as="geometry" />
+          <mxGeometry x="1590" y="796.16" width="450" height="247" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=9;strokeWidth=2;" parent="1" source="FZW20HWMj3qy4EFfsu5H-74" target="FZW20HWMj3qy4EFfsu5H-83" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -253,7 +253,7 @@
           <mxGeometry x="1618" y="811.66" width="110" height="210" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-79" value="采用径向有限体积法，dr=1 mm" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1750" y="816.16" width="240" height="40" as="geometry" />
+          <mxGeometry x="1750" y="816.16" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-80" value="离散方程构成三对角系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1750" y="976.16" width="240" height="40" as="geometry" />
