@@ -288,9 +288,6 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-106" value="需建立物性与状态量之间的函数关系，实现温度场与水分场的联立求解" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="567.5" y="1411.5" width="260" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-111" value="\begin{aligned}&lt;br&gt;\rho(C)c_p(C)\frac{\partial T}{\partial t}&lt;br&gt;&amp;amp;=&lt;br&gt;\frac{1}{r}\frac{\partial}{\partial r}&lt;br&gt;\left(&lt;br&gt;k(C)r\frac{\partial T}{\partial r}&lt;br&gt;\right)\\&lt;br&gt;\frac{\partial C}{\partial t}&lt;br&gt;&amp;amp;=&lt;br&gt;\frac{1}{r}\frac{\partial}{\partial r}&lt;br&gt;\left(&lt;br&gt;D(C,T)r\frac{\partial C}{\partial r}&lt;br&gt;\right)&lt;br&gt;\end{aligned}" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="1330" width="250" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-114" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;\(D\) 同时随 \(C\) 和温度 \(T\) 变化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" y="1400" width="130" height="70" as="geometry" />
         </mxCell>
@@ -298,7 +295,7 @@
           <mxGeometry x="970" y="1320" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-3" value="\begin{aligned}&lt;br&gt;\rho(C)c_p(C)\frac{\partial T}{\partial t}&lt;br&gt;&amp;amp;=&lt;br&gt;\frac{1}{r}\frac{\partial}{\partial r}&lt;br&gt;\left(&lt;br&gt;k(C)r\frac{\partial T}{\partial r}&lt;br&gt;\right)\\&lt;br&gt;\frac{\partial C}{\partial t}&lt;br&gt;&amp;amp;=&lt;br&gt;\frac{1}{r}\frac{\partial}{\partial r}&lt;br&gt;\left(&lt;br&gt;D(C,T)r\frac{\partial C}{\partial r}&lt;br&gt;\right)&lt;br&gt;\end{aligned}" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1457" y="1370" width="120" height="60" as="geometry" />
+          <mxGeometry x="1113.5" y="1320" width="246.5" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
