@@ -369,13 +369,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-38" value="分别计算 3 h 时的表面温度、中心温度、表面水分浓度和中心水分浓度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710.5" y="1638" width="159.5" height="82" as="geometry" />
+          <mxGeometry x="710.5" y="1638" width="169.5" height="82" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vHZNnp70cTp2YP3ywfks-39" target="vHZNnp70cTp2YP3ywfks-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-39" value="比较相邻网格结果并计算相对误差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="709.25" y="1750" width="170.75" height="70" as="geometry" />
+          <mxGeometry x="709.25" y="1740" width="170.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-40" value="确认误差收敛检验计算时间范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="523.25" y="1740" width="156.75" height="80" as="geometry" />
