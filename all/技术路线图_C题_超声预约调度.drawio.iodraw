@@ -11,7 +11,7 @@
           <mxGeometry x="1553" y="1248.5" width="440" height="247" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1007" y="1248.5" width="440" height="247" as="geometry" />
+          <mxGeometry x="990" y="1248.5" width="480" height="251.5" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="1248.5" width="420.5" height="247" as="geometry" />
@@ -301,7 +301,7 @@
           <mxGeometry x="1038.25" y="1325.5" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-3" value="\begin{aligned}&lt;br&gt;\rho(C)c_p(C)\frac{\partial T}{\partial t}&lt;br&gt;&amp;amp;=&lt;br&gt;\frac{1}{r}\frac{\partial}{\partial r}&lt;br&gt;\left(&lt;br&gt;k(C)r\frac{\partial T}{\partial r}&lt;br&gt;\right)\\&lt;br&gt;\frac{\partial C}{\partial t}&lt;br&gt;&amp;amp;=&lt;br&gt;\frac{1}{r}\frac{\partial}{\partial r}&lt;br&gt;\left(&lt;br&gt;D(C,T)r\frac{\partial C}{\partial r}&lt;br&gt;\right)&lt;br&gt;\end{aligned}" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1181.75" y="1325.5" width="246.5" height="150" as="geometry" />
+          <mxGeometry x="1181.75" y="1325.5" width="278.25" height="150" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-12" value="初始状态为 T=28 °C、C=2.55 kg/kg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1613" y="1375.5" width="320" height="50" as="geometry" />
