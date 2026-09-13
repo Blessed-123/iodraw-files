@@ -40,7 +40,7 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1008.5" y="2350" width="443" height="329.5" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-57" target="HYAzZhG7RNsZK3y5gQgT-66">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endSize=9;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-57" target="HYAzZhG7RNsZK3y5gQgT-66">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1470" y="2525" />
@@ -255,7 +255,7 @@
           <mxGeometry x="1970" y="180" width="252" height="115" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-34" value="问题四：基于药材因水分流失发生尺寸变化条件确定药材的烘干时长" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="587" y="2830" width="1280" height="80" as="geometry" />
+          <mxGeometry x="620" y="1939.5" width="1280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-35" value="移动边界问题转化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="505.5" y="2940" width="370" height="52" as="geometry" />
@@ -695,7 +695,7 @@
             <mxPoint x="655.75" y="3567.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-138" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="HYAzZhG7RNsZK3y5gQgT-57">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-138" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endSize=9;" edge="1" parent="1" target="HYAzZhG7RNsZK3y5gQgT-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1761" y="2340" as="sourcePoint" />
             <mxPoint x="1816.5" y="2289.5" as="targetPoint" />
