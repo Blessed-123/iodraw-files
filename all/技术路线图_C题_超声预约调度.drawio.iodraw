@@ -166,13 +166,13 @@
           <mxGeometry x="565" y="640" width="255" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-53" value="建立控制方程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="984" y="529.75" width="110" height="210" as="geometry" />
+          <mxGeometry x="960" y="529.63" width="110" height="210" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-54" value="能量守恒和 Fourier 定律" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1107" y="540" width="103" height="70" as="geometry" />
+          <mxGeometry x="1080" y="538.75" width="103" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-56" value="水分守恒和 Fick 定律" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="650" width="100" height="70" as="geometry" />
+          <mxGeometry x="1083" y="650" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-57" value="温度控制方程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1247" y="531" width="70" height="89" as="geometry" />
