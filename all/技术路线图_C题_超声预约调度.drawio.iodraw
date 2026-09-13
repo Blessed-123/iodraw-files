@@ -297,6 +297,9 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-115" value="\(\rho\)、\(c_p\)、\(k\) 随水分浓度 \(C\) 变化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" y="1320" width="130" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="vHZNnp70cTp2YP3ywfks-3" value="\begin{aligned}&lt;br&gt;\rho(C)c_p(C)\frac{\partial T}{\partial t}&lt;br&gt;&amp;amp;=&lt;br&gt;\frac{1}{r}\frac{\partial}{\partial r}&lt;br&gt;\left(&lt;br&gt;k(C)r\frac{\partial T}{\partial r}&lt;br&gt;\right)\\&lt;br&gt;\frac{\partial C}{\partial t}&lt;br&gt;&amp;amp;=&lt;br&gt;\frac{1}{r}\frac{\partial}{\partial r}&lt;br&gt;\left(&lt;br&gt;D(C,T)r\frac{\partial C}{\partial r}&lt;br&gt;\right)&lt;br&gt;\end{aligned}" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1457" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
