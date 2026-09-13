@@ -496,8 +496,8 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-30" value="\[&lt;br&gt;F(t)&lt;br&gt;=&lt;br&gt;C_{\max}(t)-0.15\ \mathrm{kg/kg}&lt;br&gt;\]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1539.99" y="2280" width="190.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-31" value="&lt;div&gt;从每个时间层的计算结果中提取全域最大水分浓度&lt;/div&gt;&lt;div&gt;\[&lt;/div&gt;&lt;div&gt;C_{\max}(t)&lt;/div&gt;&lt;div&gt;=&lt;/div&gt;&lt;div&gt;\max_{r\in[0,R]} C(r,t)&lt;/div&gt;&lt;div&gt;\]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1742" y="2150" width="120" height="60" as="geometry" />
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-31" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;\[&lt;/div&gt;&lt;div&gt;C_{\max}(t)&lt;/div&gt;&lt;div&gt;=&lt;/div&gt;&lt;div&gt;\max_{r\in[0,R]} C(r,t)&lt;/div&gt;&lt;div&gt;\]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="2150" width="470" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1846.01" y="2270" width="120" height="60" as="geometry" />
