@@ -251,7 +251,7 @@
           <mxGeometry x="1590.48" y="2380" width="389.52" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n65" value="结果输出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="523.49" y="2360" width="336.51" height="48" as="geometry" />
+          <mxGeometry x="523.49" y="2360" width="346.51" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -553,9 +553,6 @@
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-94" value="有限体积界面导纳由扩散或导热系数、界面面积、网络间距共同确定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1240" y="3120" width="200" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-95" value="物理体积按半径平方收缩，界面面积按半径线性缩放" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1040" y="3120" width="183" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-96" value="水分浓度场采用径向非稳态扩散模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1233.5" y="3025" width="206.5" height="85" as="geometry" />
