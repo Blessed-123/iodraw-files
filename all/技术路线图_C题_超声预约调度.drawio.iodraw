@@ -358,7 +358,7 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-88" value="空间网格，时间步收敛性&lt;div&gt;检验&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="800" width="310" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-89" value="结合参数敏感性与能量守恒校核，验证模型及数值结果的一致性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-89" value="参数敏感性与能量守恒&lt;div&gt;校核&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="925.5" width="310" height="104.5" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-104" value="空间收敛性与范围检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
