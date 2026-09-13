@@ -449,7 +449,7 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-5" value="首个满足全域水分浓度低于 0.15 kg/kg 的时刻" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="685" y="2164.5" width="219" height="145.5" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-16" value="进入新时间层后，先根据当前迭代值更新\(\rho\)、\(c_p\)、\(k\) 、\(D\)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-16" value="迭代值更新\(\rho\)、\(c_p\)、\(k\) 、\(D\)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1582.99" y="2510" width="427.01" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-17" value="中心用零通量边界，&lt;div&gt;表面为 Robin 换热与传质条件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
