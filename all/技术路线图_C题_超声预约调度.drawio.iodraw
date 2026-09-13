@@ -523,6 +523,36 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-43" value="以当前时刻\(T^n\)、\(C^n\)为初值；&lt;div&gt;首步用后向欧拉启动，后续采用变步长 BDF2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1618" y="2490" width="258" height="41" as="geometry" />
         </mxCell>
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-46" value="非线性项通过 Picard 迭代处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1743" y="1656.5" width="90" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-47" value="更新物性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1852" y="1666.5" width="121" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-48" value="求解浓度&lt;div&gt;求解温度&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1852.5" y="1726.5" width="120.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-49" value="检查收敛" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1852.5" y="1786.5" width="120.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-46" target="HYAzZhG7RNsZK3y5gQgT-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1623" y="1866.5" as="sourcePoint" />
+            <mxPoint x="1673" y="1816.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-46" target="HYAzZhG7RNsZK3y5gQgT-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1623" y="1866.5" as="sourcePoint" />
+            <mxPoint x="1673" y="1816.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-46" target="HYAzZhG7RNsZK3y5gQgT-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1623" y="1866.5" as="sourcePoint" />
+            <mxPoint x="1673" y="1816.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
