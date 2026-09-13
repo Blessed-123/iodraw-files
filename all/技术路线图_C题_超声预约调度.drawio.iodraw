@@ -304,7 +304,10 @@
           <mxGeometry x="1555" y="1320" width="235" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-14" value="附件 1 时间范围外采用末端值延拓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1555" y="1430" width="120" height="60" as="geometry" />
+          <mxGeometry x="1555" y="1430" width="235" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vHZNnp70cTp2YP3ywfks-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="948.75" y="1253" width="440" height="247" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
