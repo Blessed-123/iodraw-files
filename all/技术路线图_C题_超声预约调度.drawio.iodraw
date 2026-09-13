@@ -380,6 +380,9 @@
         <mxCell id="vHZNnp70cTp2YP3ywfks-40" value="确认误差收敛检验计算时间范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="523.25" y="1740" width="156.75" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="vHZNnp70cTp2YP3ywfks-44" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="468" y="1543" width="420.5" height="247" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
