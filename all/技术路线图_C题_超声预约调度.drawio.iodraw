@@ -302,10 +302,10 @@
           <mxGeometry x="555" y="3259.5" width="335" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-38" value="核心模型构建" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=1.5;fontStyle=1;fillColor=#FFD9AD;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1076.81" y="2907" width="349.5" height="53" as="geometry" />
+          <mxGeometry x="1069.34" y="2900.5" width="356.31" height="53" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-39" value="物性与边界数据处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=1.5;fontStyle=1;fillColor=#FFD9AD;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1646.75" y="2899" width="306.5" height="48" as="geometry" />
+          <mxGeometry x="1642.26" y="2900" width="306.5" height="58" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-40" value="时空离散与耦合求解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=1.5;fontStyle=1;fillColor=#FFD9AD;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1623.25" y="3274.5" width="330" height="48" as="geometry" />
@@ -537,7 +537,7 @@
           <mxGeometry x="1580" y="3050" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-102" value="检测阈值自动细分时间步并局部二分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="3330" width="410" height="80" as="geometry" />
+          <mxGeometry x="1030" y="3350" width="410" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-104" value="&amp;nbsp;Thomas 算法求解&lt;div style=&quot;font-size: 27px;&quot;&gt;Picard 不收敛时减小时间步&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1550" y="3460" width="490" height="90" as="geometry" />
@@ -553,7 +553,7 @@
           <mxGeometry x="1550.51" y="3350" width="490" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-109" value="当时间区间宽度不超过 0.1 s 时，取右端时刻作为烘干终点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="3430" width="410" height="120" as="geometry" />
+          <mxGeometry x="1030" y="3450" width="410" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-112" value="输出结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="550" y="3460" width="170" height="100" as="geometry" />
