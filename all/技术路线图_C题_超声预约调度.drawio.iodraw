@@ -16,7 +16,7 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-123" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="518.5" y="3252.5" width="410" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-122">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeWidth=2;endSize=9;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-122">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="930" y="3415" as="targetPoint" />
           </mxGeometry>
@@ -27,7 +27,7 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-121" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1539.99" y="3259.5" width="443" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-120">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeWidth=2;endSize=9;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-120">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1766" y="3260" as="targetPoint" />
           </mxGeometry>
@@ -38,7 +38,7 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-101" value="采用附录 4 的 ρ(C)、cₚ(C)、k(C) 和 D(C,T) 经验关系" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1580" y="2980" width="370" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;endSize=9;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-119" target="HYAzZhG7RNsZK3y5gQgT-120">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;endSize=9;strokeWidth=2;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-119" target="HYAzZhG7RNsZK3y5gQgT-120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-119" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
@@ -686,7 +686,7 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-104" value="每个线性子问题由 Thomas 算法求解，Picard 不收敛时减小时间步" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1570" y="3484.5" width="380" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-121" target="HYAzZhG7RNsZK3y5gQgT-122">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;strokeWidth=2;endSize=9;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-121" target="HYAzZhG7RNsZK3y5gQgT-122">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-105" value="时间采用首步后向欧拉与变步长 BDF2，层内通过 Picard 迭代处理非线性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
