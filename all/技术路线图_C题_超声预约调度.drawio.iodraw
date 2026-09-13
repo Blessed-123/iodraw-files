@@ -260,7 +260,7 @@
         <mxCell id="n63" value="BDF2 时间推进" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;fillColor=#F8CECC;" parent="1" vertex="1">
           <mxGeometry x="1590.48" y="2380" width="389.52" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="n65" value="结果输出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;fillColor=#F8CECC;" parent="1" vertex="1">
+        <mxCell id="n65" value="结果输出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;fillColor=#C3ABD0;" parent="1" vertex="1">
           <mxGeometry x="523.49" y="2360" width="346.51" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
@@ -442,7 +442,7 @@
             <mxPoint x="1955" y="1480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-2" value="阈值事件定位" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;fillColor=#F8CECC;" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-2" value="阈值事件定位" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;fillColor=#C3ABD0;" vertex="1" parent="1">
           <mxGeometry x="1058.5" y="2360" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fontStyle=1;strokeWidth=2;fillColor=#F8CECC;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-4" target="HYAzZhG7RNsZK3y5gQgT-5">
