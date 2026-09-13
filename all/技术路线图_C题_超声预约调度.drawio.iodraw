@@ -520,8 +520,8 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-40" value="烘干完成转化为 F(t) 首次由非负变为负的下穿事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1567" y="2300" width="350" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-43" value="&lt;div&gt;\[&lt;/div&gt;&lt;div&gt;\text{以当前时刻 }T^n,\ C^n\text{ 为初值；首步用后向欧拉启动，后续采用变步长 BDF2。}&lt;/div&gt;&lt;div&gt;\]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="2510" width="120" height="60" as="geometry" />
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="2480" width="280" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
