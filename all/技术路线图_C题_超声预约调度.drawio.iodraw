@@ -80,7 +80,7 @@
           <mxGeometry x="550" y="1262" width="290" height="58" as="geometry" />
         </mxCell>
         <mxCell id="n43" value="变物性双向耦合模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="1320" width="260" height="48" as="geometry" />
+          <mxGeometry x="977.5" y="1267" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n45" value="边界条件与数据延拓" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1470" y="1310" width="260" height="48" as="geometry" />
