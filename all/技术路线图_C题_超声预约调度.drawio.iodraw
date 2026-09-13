@@ -147,7 +147,7 @@
           <mxGeometry x="620" y="1910" width="1280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="n57" value="全域达标事件定义" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="2080" width="260" height="48" as="geometry" />
+          <mxGeometry x="550" y="2080" width="290" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n59" value="物理模型继承" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1097" y="2080" width="260" height="48" as="geometry" />
@@ -456,7 +456,7 @@
           <mxGeometry x="710.5" y="2138" width="156" height="62" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-6" value="事件目标可写为&lt;br&gt;\(&lt;br&gt;t_{\mathrm{dry}}&lt;br&gt;=&lt;br&gt;\inf&lt;br&gt;\left\{&lt;br&gt;t\geq 0:&lt;br&gt;\max_{r\in[0,R]} C(r,t)&lt;br&gt;&amp;lt;&lt;br&gt;0.15\ \mathrm{kg/kg}&lt;br&gt;\right\}&lt;br&gt;\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="555" y="2240" width="310" height="60" as="geometry" />
+          <mxGeometry x="560" y="2235" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="695.5" y="2135" width="29" height="170" as="geometry" />
