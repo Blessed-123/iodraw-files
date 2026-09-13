@@ -494,7 +494,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-30" value="\[&lt;br&gt;F(t)&lt;br&gt;=&lt;br&gt;C_{\max}(t)-0.15\ \mathrm{kg/kg}&lt;br&gt;\]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1733" y="2247.5" width="190.01" height="40" as="geometry" />
+          <mxGeometry x="1709.99" y="2185" width="190.01" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-31" target="HYAzZhG7RNsZK3y5gQgT-33">
           <mxGeometry relative="1" as="geometry" />
@@ -506,7 +506,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-32" value="&lt;div&gt;构造达标事件函数&lt;span style=&quot;background-color: initial;&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1539.99" y="2233" width="145.51" height="40" as="geometry" />
+          <mxGeometry x="1539.99" y="2185" width="145.51" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-33" value="\[&lt;br&gt;C_{\max}(t)&lt;br&gt;=&lt;br&gt;\max_{r\in[0,R]} C(r,t)&lt;br&gt;\]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1709.99" y="2125" width="190.01" height="40" as="geometry" />
