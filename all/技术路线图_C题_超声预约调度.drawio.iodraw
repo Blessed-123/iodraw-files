@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram id="c-roadmap" name="C题超声预约技术路线图">
-    <mxGraphModel dx="3318" dy="1918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
+    <mxGraphModel dx="4390" dy="3223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -320,6 +320,11 @@
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-18" value="非线性项通过 Picard 迭代处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1719.99" y="1670" width="90" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="vHZNnp70cTp2YP3ywfks-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vHZNnp70cTp2YP3ywfks-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1230" y="1860" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-19" value="线性子问题由 Thomas 算法求解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1559.99" y="1760" width="147" height="90" as="geometry" />
