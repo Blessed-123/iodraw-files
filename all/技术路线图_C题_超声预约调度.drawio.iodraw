@@ -593,7 +593,7 @@
           <mxGeometry x="510" y="2640.5" width="350" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-79" value="全域达标与终点定位" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1030.5" y="3352" width="260" height="48" as="geometry" />
+          <mxGeometry x="1030.5" y="3352" width="339.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-81" value="附件 2 给出随时间收缩的 R(t)，若直接在物理坐标中固定网格，会产生移动边界和网格重构问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="499.5" y="3010" width="390" height="90" as="geometry" />
@@ -629,7 +629,7 @@
           <mxGeometry x="1169.5" y="3520" width="240.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-103" value="以 max_ξC(ξ,t)&amp;lt;0.15 kg/kg 为全域达标判据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="3450" width="230" height="60" as="geometry" />
+          <mxGeometry x="1028.5" y="3420" width="341.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-104" value="每个线性子问题由 Thomas 算法求解，Picard 不收敛时减小时间步" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1571.49" y="3550" width="330" height="60" as="geometry" />
