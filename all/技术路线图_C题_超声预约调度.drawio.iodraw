@@ -251,10 +251,10 @@
         <mxCell id="n57" value="全域达标事件定义" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;fillColor=#C3ABD0;" parent="1" vertex="1">
           <mxGeometry x="520.5" y="2039.5" width="330" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="n59" value="物理模型继承" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;fillColor=#F8CECC;" parent="1" vertex="1">
+        <mxCell id="n59" value="物理模型继承" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;fillColor=#C3ABD0;" parent="1" vertex="1">
           <mxGeometry x="1040" y="2029.5" width="383" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="n61" value="达标事件构造" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;fillColor=#F8CECC;" parent="1" vertex="1">
+        <mxCell id="n61" value="达标事件构造" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;fillColor=#C3ABD0;" parent="1" vertex="1">
           <mxGeometry x="1600" y="2039.5" width="363" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n63" value="BDF2 时间推进" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;fillColor=#F8CECC;" parent="1" vertex="1">
