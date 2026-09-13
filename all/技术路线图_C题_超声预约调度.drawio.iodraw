@@ -47,11 +47,11 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="519.25" width="620" height="250.75" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endSize=9;" parent="1" source="FZW20HWMj3qy4EFfsu5H-50" target="FZW20HWMj3qy4EFfsu5H-59" edge="1">
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endSize=9;exitX=1.009;exitY=0.578;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.004;entryY=0.578;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="FZW20HWMj3qy4EFfsu5H-50" target="FZW20HWMj3qy4EFfsu5H-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="890" y="645" />
-              <mxPoint x="890" y="645" />
+              <mxPoint x="904" y="645" />
+              <mxPoint x="943" y="645" />
             </Array>
           </mxGeometry>
         </mxCell>
