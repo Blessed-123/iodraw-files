@@ -614,10 +614,10 @@
           <mxGeometry x="1520.25" y="3190" width="259.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-100" value="附件 1 在 4 h 内采用 PCHIP，4 h 后主模型保持最后一个小时 10800–14400 s 的平均值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1539" y="3110" width="240" height="60" as="geometry" />
+          <mxGeometry x="1566.01" y="3090" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-101" value="采用附录 4 的 ρ(C)、cₚ(C)、k(C) 和 D(C,T) 经验关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1533.25" y="3030" width="234" height="60" as="geometry" />
+          <mxGeometry x="1567" y="3000" width="333" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-102" value="检测阈值跨越后使用 advance_to_target 自动细分时间步并局部二分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1169.5" y="3520" width="240.5" height="60" as="geometry" />
