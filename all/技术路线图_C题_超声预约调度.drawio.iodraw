@@ -113,7 +113,7 @@
         <mxCell id="n38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n40" value="建立整个烘干过程药材温度和水分浓度变化规律的数学模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="n40" value="问题二：建立整个烘干过程药材温度和水分浓度变化规律的数学模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="1120" width="1280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n41" value="问题一局限分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
