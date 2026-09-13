@@ -611,10 +611,10 @@
           <mxGeometry x="1542" y="3418" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-99" value="附件 2 的 R(t) 采用 PCHIP，中心为零通量条件，表面采用 Robin 换热与传质条件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1520.25" y="3190" width="259.75" height="60" as="geometry" />
+          <mxGeometry x="1566.01" y="3170" width="333.99" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-100" value="附件 1 在 4 h 内采用 PCHIP，4 h 后主模型保持最后一个小时 10800–14400 s 的平均值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1566.01" y="3090" width="240" height="60" as="geometry" />
+          <mxGeometry x="1566.01" y="3080" width="333.99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-101" value="采用附录 4 的 ρ(C)、cₚ(C)、k(C) 和 D(C,T) 经验关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1567" y="3000" width="333" height="60" as="geometry" />
