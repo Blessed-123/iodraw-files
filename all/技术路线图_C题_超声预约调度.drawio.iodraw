@@ -215,7 +215,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-70" value="中心轴处满足零通量条件，药材表面同时发生对流换热与对流传质" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1827" y="538.75" width="216" height="69.25" as="geometry" />
+          <mxGeometry x="1827" y="538.75" width="233" height="69.25" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-71" value="边界条件与初始状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="1684" y="529.75" width="110" height="210" as="geometry" />
