@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram id="c-roadmap" name="C题超声预约技术路线图">
-    <mxGraphModel dx="3485" dy="2122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
+    <mxGraphModel dx="2842" dy="1339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -285,8 +285,8 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-111" value="\begin{aligned}&#xa;\rho(C)c_p(C)\frac{\partial T}{\partial t}&#xa;&amp;=&#xa;\frac{1}{r}\frac{\partial}{\partial r}&#xa;\left(&#xa;k(C)r\frac{\partial T}{\partial r}&#xa;\right),\\&#xa;\frac{\partial C}{\partial t}&#xa;&amp;=&#xa;\frac{1}{r}\frac{\partial}{\partial r}&#xa;\left(&#xa;D(C,T)r\frac{\partial C}{\partial r}&#xa;\right),\\&#xa;\rho(C)&amp;=650+128C,\\&#xa;c_p(C)&amp;=1450+\frac{2736C}{C+1},\\&#xa;k(C)&amp;=0.21+\frac{0.38C}{C+1},\\&#xa;D(C,T)&amp;=&#xa;2.4\times 10^{-3}&#xa;\exp\left(-\frac{0.45}{C}\right)&#xa;\exp\left(-\frac{3850}{T_K}\right).&#xa;\end{aligned}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="1610" width="417" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-112" value="\(\rho\)、\(c_p\)、\(k\) 随水分浓度 \(C\) 变化；\(D\) 同时随 \(C\) 和温度 \(T\) 变化。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1350" width="370" height="60" as="geometry" />
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-112" value="\(\rho\)、\(c_p\)、\(k\) 随水分浓度 \(C\) 变化；&lt;div&gt;\(D\) 同时随 \(C\) 和温度 \(T\) 变化。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="925.65" y="1340" width="370" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
