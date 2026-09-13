@@ -313,7 +313,7 @@
           <mxGeometry x="1460" y="1700" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-18" value="非线性项通过 Picard 迭代处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="1700" width="80" height="170" as="geometry" />
+          <mxGeometry x="1590" y="1700" width="90" height="170" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-19" value="线性子问题由 Thomas 算法求解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="1790" width="117" height="80" as="geometry" />
@@ -325,7 +325,7 @@
           <mxGeometry x="1699.5" y="1760" width="100.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-23" value="检查收敛" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1699.5" y="1820" width="90.5" height="50" as="geometry" />
+          <mxGeometry x="1699.5" y="1820" width="100.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="vHZNnp70cTp2YP3ywfks-18" target="vHZNnp70cTp2YP3ywfks-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -344,6 +344,9 @@
             <mxPoint x="1470" y="1900" as="sourcePoint" />
             <mxPoint x="1520" y="1850" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vHZNnp70cTp2YP3ywfks-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1253" width="440" height="247" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
