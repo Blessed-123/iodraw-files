@@ -728,8 +728,8 @@
             <mxPoint x="1816.5" y="2289.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-160" value="&lt;ol data-pm-slice=&quot;0 0 []&quot; start=&quot;1&quot; data-spread=&quot;false&quot;&gt;&lt;li&gt;&lt;p&gt;圆柱轴对称一维降维&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fourier导热方程与Fick扩散方程&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;中心零通量边界与表面Robin边界&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;径向有限体积法 + 后向欧拉 + Thomas算法&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;自适应时间步与网格、时间步、能量守恒检验&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2290" y="596.16" width="320" height="370" as="geometry" />
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-160" value="&lt;ol style=&quot;font-size: 30px;&quot; data-pm-slice=&quot;0 0 []&quot; start=&quot;1&quot; data-spread=&quot;false&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="596.16" width="600" height="423.84" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-161" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2300" y="3000" width="320" height="370" as="geometry" />
