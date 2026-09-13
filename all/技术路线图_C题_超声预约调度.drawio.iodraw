@@ -255,7 +255,7 @@
           <mxGeometry x="1040" y="2029.5" width="383" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n61" value="达标事件构造" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1601.5" y="2029.5" width="363" height="48" as="geometry" />
+          <mxGeometry x="1600" y="2039.5" width="363" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n63" value="BDF2 时间推进" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1590.48" y="2380" width="389.52" height="48" as="geometry" />
@@ -472,7 +472,7 @@
           <mxGeometry x="1030" y="2090" width="420" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-31" value="提取全域最大水分浓度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1540" y="2090" width="500" height="70" as="geometry" />
+          <mxGeometry x="1540" y="2100" width="500" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-32" value="&lt;div style=&quot;font-size: 24px;&quot;&gt;构造达标事件函数&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1543.5" y="2170" width="496.5" height="60" as="geometry" />
@@ -498,7 +498,7 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-70" value="记录各径向节点的水分浓度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="500" y="2420" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-71" value="将结果映射到 0–2 cm、每隔 0.1 cm 的径向位置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-71" value="将结果映射到径向位置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="490" y="2580" width="410" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-72" value="对温度和水分浓度进行线性插值" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
