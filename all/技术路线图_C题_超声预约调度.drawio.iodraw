@@ -395,7 +395,7 @@
           <mxGeometry x="1064" y="1780" width="351" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-34" value="采用后向欧拉进行时间离散，自适应步长范围为 0.01–10 s" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1040" y="1590" width="390" height="52" as="geometry" />
+          <mxGeometry x="1040" y="1590" width="390" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontStyle=1" parent="1" source="vHZNnp70cTp2YP3ywfks-37" target="vHZNnp70cTp2YP3ywfks-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -424,7 +424,7 @@
           <mxGeometry x="510" y="1735" width="175" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-46" value="完成Picard收敛后推进时间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1057" y="1681.75" width="360" height="38.25" as="geometry" />
+          <mxGeometry x="1053.25" y="1710" width="360" height="48.25" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontStyle=1" parent="1" source="vHZNnp70cTp2YP3ywfks-34" target="vHZNnp70cTp2YP3ywfks-46" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
