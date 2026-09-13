@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-132" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;dashed=1;opacity=95;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1900" width="1710" height="819.5" as="geometry" />
+          <mxGeometry x="400" y="1480" width="1710" height="819.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-126" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;dashed=1;opacity=95;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="1710" height="680" as="geometry" />
@@ -594,7 +594,7 @@
           <mxGeometry x="512.75" y="2480" width="367.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-73" value="若 5 天内 F(t) 始终未变为负，应明确报告未达标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="523.49" y="2610" width="350" height="50" as="geometry" />
+          <mxGeometry x="515" y="2600" width="365" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-79" value="全域达标与终点定位" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1042" y="3284.5" width="339.5" height="48" as="geometry" />
