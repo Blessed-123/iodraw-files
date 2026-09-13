@@ -198,7 +198,7 @@
           <mxGeometry x="1970" y="180" width="252" height="115" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-34" value="问题四：基于药材因水分流失发生尺寸变化条件确定药材的烘干时长" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="2780" width="1000" height="46" as="geometry" />
+          <mxGeometry x="620" y="2780" width="1280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-35" value="① 服务结果锁定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="326" y="3302" width="260" height="48" as="geometry" />
