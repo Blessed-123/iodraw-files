@@ -302,7 +302,7 @@
           <mxGeometry x="555" y="3259.5" width="335" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-38" value="核心模型构建" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=1.5;fontStyle=1;fillColor=#FFD9AD;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1076.8100000000002" y="2907" width="349.5" height="40" as="geometry" />
+          <mxGeometry x="1076.81" y="2907" width="349.5" height="53" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-39" value="物性与边界数据处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=1.5;fontStyle=1;fillColor=#FFD9AD;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1646.75" y="2899" width="306.5" height="48" as="geometry" />
