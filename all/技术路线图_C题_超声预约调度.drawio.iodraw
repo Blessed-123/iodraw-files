@@ -527,10 +527,10 @@
           <mxGeometry x="1560" y="2468" width="360" height="52" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-55" value="执行Picard迭代，并调用Thomas算法线性求解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="2580" width="360" height="40" as="geometry" />
+          <mxGeometry x="1560" y="2580" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-56" value="Picard 收敛后接受时间步并调整 dt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1612.5" y="2640" width="307.5" height="50" as="geometry" />
+          <mxGeometry x="1560" y="2640" width="360" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
