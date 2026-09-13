@@ -189,7 +189,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n56" value="问题三：要求确定在药材各处的水分浓度低于0.15 kg/kg时药材烘干所需要的时间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="1920" width="1280" height="90" as="geometry" />
+          <mxGeometry x="620" y="1950" width="1280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n57" value="全域达标事件定义" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="520.5" y="2070" width="330" height="48" as="geometry" />
@@ -667,6 +667,9 @@
             <mxPoint x="616.25" y="3647.5" as="sourcePoint" />
             <mxPoint x="655.75" y="3567.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-132" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;dashed=1;opacity=95;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="1130" width="1710" height="780" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
