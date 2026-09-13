@@ -28,12 +28,6 @@
         <mxCell id="n25" value="明确问题与几何简化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="440" y="480" width="110" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="n31" value="线性求解与结果组织" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="977" y="790" width="260" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="n33" value="收敛性与物理一致性检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="800" width="260" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="n35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#c00000;strokeWidth=2.2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -196,10 +190,10 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-73" value="附件 1 数据经 PCHIP 插值形成连续环境边界" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1827" y="626.97" width="216" height="51.03" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-76" value="边界条件与初始状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-76" value="收敛性与物理一致性检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="550" y="910" width="110" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-77" value="边界条件与初始状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-77" value="线性求解与结果组织" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="1040" y="860" width="110" height="210" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-78" value="有限体积离散与时间推进" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
