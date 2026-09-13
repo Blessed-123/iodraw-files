@@ -457,7 +457,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-37" value="采用不同 dr 开展空间离散收敛性检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="510" y="1620" width="175" height="80" as="geometry" />
+          <mxGeometry x="503" y="1625" width="175" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="vHZNnp70cTp2YP3ywfks-38" target="vHZNnp70cTp2YP3ywfks-39" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -468,7 +468,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-38" value="分别计算 3 h 时的表面温度、中心温度、表面水分浓度和中心水分浓度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="715.5" y="1610" width="194.5" height="100" as="geometry" />
+          <mxGeometry x="710" y="1620" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="vHZNnp70cTp2YP3ywfks-39" target="vHZNnp70cTp2YP3ywfks-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
