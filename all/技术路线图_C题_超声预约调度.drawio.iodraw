@@ -497,13 +497,13 @@
           <mxGeometry x="1539.99" y="2280" width="190.01" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-31" value="从每个时间层的计算结果中提取全域最大水分浓度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1544.49" y="2123" width="140" height="40" as="geometry" />
+          <mxGeometry x="1544.49" y="2123" width="135.51" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1846.01" y="2270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-33" value="\[&lt;br&gt;C_{\max}(t)&lt;br&gt;=&lt;br&gt;\max_{r\in[0,R]} C(r,t)&lt;br&gt;\]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1539.99" y="2230" width="190.01" height="40" as="geometry" />
+          <mxGeometry x="1720" y="2120" width="190.01" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
