@@ -148,7 +148,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-83" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=1.5;fontStyle=1;strokeColor=#d6b656;dashed=1;fillColor=#FFF4C3;" parent="1" vertex="1">
-          <mxGeometry x="1590" y="796.16" width="510" height="247" as="geometry" />
+          <mxGeometry x="1590" y="796.16" width="490" height="247" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=9;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" source="FZW20HWMj3qy4EFfsu5H-74" target="FZW20HWMj3qy4EFfsu5H-83" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -358,16 +358,16 @@
           <mxGeometry x="1618" y="811.66" width="110" height="210" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-79" value="采用径向有限体积法，dr=1 mm" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#FFF4C3;" parent="1" vertex="1">
-          <mxGeometry x="1750" y="800" width="260" height="56.16" as="geometry" />
+          <mxGeometry x="1750" y="800" width="290" height="56.16" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-80" value="离散方程构成三对角系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#FFF4C3;" parent="1" vertex="1">
-          <mxGeometry x="1750" y="990" width="270" height="40" as="geometry" />
+          <mxGeometry x="1750" y="990" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-81" value="时间采用后向欧拉格式，步长设置在 0.01–0.5 s 内自适应" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#FFF4C3;" parent="1" vertex="1">
-          <mxGeometry x="1750" y="906.16" width="260" height="73.84" as="geometry" />
+          <mxGeometry x="1750" y="906.16" width="290" height="73.84" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-82" value="中心与表面按半控制体处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#FFF4C3;" parent="1" vertex="1">
-          <mxGeometry x="1750" y="866.16" width="260" height="34" as="geometry" />
+          <mxGeometry x="1750" y="866.16" width="280" height="34" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-84" value="将结果插值至规定时空网格" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1200" y="927.84" width="260" height="92.16" as="geometry" />
