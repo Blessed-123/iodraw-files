@@ -203,13 +203,8 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-35" value="① 服务结果锁定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="345" y="2980" width="260" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FZW20HWMj3qy4EFfsu5H-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1420" y="3070" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-37" value="① 服务结果锁定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1292" y="3295" width="260" height="48" as="geometry" />
+          <mxGeometry x="918" y="3260" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-38" value="① 服务结果锁定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="658" y="2970" width="260" height="48" as="geometry" />
@@ -218,7 +213,7 @@
           <mxGeometry x="970" y="2970" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-40" value="① 服务结果锁定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1662" y="3302" width="202" height="48" as="geometry" />
+          <mxGeometry x="1285" y="3350" width="202" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-44" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;dashed=1;opacity=95;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2203" y="479" width="1725" height="457" as="geometry" />
