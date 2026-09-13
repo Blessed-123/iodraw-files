@@ -522,7 +522,7 @@
           <mxGeometry x="1582.99" y="2620" width="427.01" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-58" value="对每个已接受时间步计算 \(F(t^n)\) 和 \(F(t^{n+1})\)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1045" y="2408" width="375" height="52" as="geometry" />
+          <mxGeometry x="1045" y="2408" width="395" height="62" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-59" value="若 \(F(t^n)\geq0\) 且 \(F(t^{n+1})&amp;lt;0\)，则在区间 \([t^n,t^{n+1}]\) 内进行二分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1040" y="2480" width="380" height="100" as="geometry" />
@@ -543,7 +543,7 @@
           <mxGeometry x="1066.56" y="3270" width="339.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-81" value="附件 2 给出随时间收缩的 R(t)，若直接在物理坐标中固定网格，会产生移动边界和网格重构问题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="532.5" y="2990" width="390" height="90" as="geometry" />
+          <mxGeometry x="532.5" y="2990" width="390" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-82" value="令 ξ=r/R(t)，将计算域固定为 ξ∈[0,1]，中心始终对应 ξ=0，表面始终对应 ξ=1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="532.5" y="3100" width="390" height="90" as="geometry" />
@@ -561,7 +561,7 @@
           <mxGeometry x="1570" y="3334.5" width="380" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-99" value="附件 2 的 R(t) 采用 PCHIP，中心为零通量条件，表面采用 Robin 换热与传质条件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1580" y="3140" width="380" height="70" as="geometry" />
+          <mxGeometry x="1580" y="3130" width="380" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-100" value="附件 1 在 4 h 内采用 PCHIP，4 h 后主模型保持最后一个小时 10800–14400 s 的平均值" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1580" y="3040" width="380" height="90" as="geometry" />
