@@ -270,7 +270,7 @@
           <mxGeometry x="1613.25" y="2920" width="306.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-40" value="时空离散与耦合求解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1604.74" y="3285" width="309.75" height="48" as="geometry" />
+          <mxGeometry x="1600" y="3285" width="330" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-51" value="求解 1800 s 内圆柱药材的径向温度场 T(r,t) 与水分浓度场 C(r,t)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="529.25" width="260" height="90" as="geometry" />
@@ -645,7 +645,7 @@
           <mxGeometry x="1063" y="3040" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-98" value="ξ 方向取 N=250，几何量按步末 R(tⁿ⁺¹) 更新，界面 D、k 采用调和平均" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1595.98" y="3345" width="354.02" height="70" as="geometry" />
+          <mxGeometry x="1570" y="3345" width="380" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-99" value="附件 2 的 R(t) 采用 PCHIP，中心为零通量条件，表面采用 Robin 换热与传质条件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1599.01" y="3150" width="333.99" height="60" as="geometry" />
@@ -663,7 +663,7 @@
           <mxGeometry x="1595.98" y="3495" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-105" value="时间采用首步后向欧拉与变步长 BDF2，层内通过 Picard 迭代处理非线性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1596.99" y="3425" width="327" height="60" as="geometry" />
+          <mxGeometry x="1596.99" y="3425" width="353.01" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-109" value="当时间区间宽度不超过 0.1 s 时，取右端时刻作为烘干终点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1068.5" y="3484.5" width="340" height="60" as="geometry" />
