@@ -8,13 +8,13 @@
           <mxGeometry x="1435" y="1550" width="440" height="283.5" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="1243" width="440" height="247" as="geometry" />
+          <mxGeometry x="1420" y="1260" width="440" height="247" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="938.75" y="1243" width="440" height="247" as="geometry" />
+          <mxGeometry x="928.75" y="1260" width="440" height="247" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1243" width="420.5" height="247" as="geometry" />
+          <mxGeometry x="440" y="1260" width="420.5" height="247" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-92" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="469.25" y="797" width="469.5" height="247" as="geometry" />
@@ -89,13 +89,13 @@
           <mxGeometry x="640" y="1139" width="1180" height="71" as="geometry" />
         </mxCell>
         <mxCell id="n41" value="问题一局限分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="1253.5" width="350.5" height="46.5" as="geometry" />
+          <mxGeometry x="480" y="1270.5" width="350.5" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="n43" value="变物性双向耦合模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="977.5" y="1253.5" width="362.5" height="48" as="geometry" />
+          <mxGeometry x="967.5" y="1270.5" width="362.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n45" value="边界条件与数据延拓" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="1253.5" width="350" height="48" as="geometry" />
+          <mxGeometry x="1470" y="1270.5" width="350" height="48" as="geometry" />
         </mxCell>
         <mxCell id="n47" value="有限体积离散与 Picard 迭代" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1465" y="1570" width="380" height="48" as="geometry" />
@@ -289,28 +289,28 @@
           <mxGeometry x="630" y="1630" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-105" value="问题一采用常数物性，仅适用于短时预热阶段，难以刻画完整烘干过程" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="496.5" y="1320" width="327.5" height="70" as="geometry" />
+          <mxGeometry x="486.5" y="1337" width="327.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-106" value="需建立物性与状态量之间的函数关系，实现温度场与水分场的联立求解" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="496.5" y="1400" width="260" height="70" as="geometry" />
+          <mxGeometry x="486.5" y="1417" width="323.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-114" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;\(D\) 同时随 \(C\) 和温度 \(T\) 变化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="1400" width="130" height="70" as="geometry" />
+          <mxGeometry x="960" y="1417" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-115" value="\(\rho\)、\(c_p\)、\(k\) 随水分浓度 \(C\) 变化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="1320" width="130" height="70" as="geometry" />
+          <mxGeometry x="960" y="1337" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-3" value="\begin{aligned}&lt;br&gt;\rho(C)c_p(C)\frac{\partial T}{\partial t}&lt;br&gt;&amp;amp;=&lt;br&gt;\frac{1}{r}\frac{\partial}{\partial r}&lt;br&gt;\left(&lt;br&gt;k(C)r\frac{\partial T}{\partial r}&lt;br&gt;\right)\\&lt;br&gt;\frac{\partial C}{\partial t}&lt;br&gt;&amp;amp;=&lt;br&gt;\frac{1}{r}\frac{\partial}{\partial r}&lt;br&gt;\left(&lt;br&gt;D(C,T)r\frac{\partial C}{\partial r}&lt;br&gt;\right)&lt;br&gt;\end{aligned}" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1113.5" y="1320" width="246.5" height="150" as="geometry" />
+          <mxGeometry x="1103.5" y="1337" width="246.5" height="150" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-12" value="初始状态为 T=28 °C、C=2.55 kg/kg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="1370" width="320" height="50" as="geometry" />
+          <mxGeometry x="1480" y="1387" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-13" value="中心采用零通量边界，表面施加 Robin 换热与传质条件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="1311.5" width="320" height="48.5" as="geometry" />
+          <mxGeometry x="1480" y="1328.5" width="320" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-14" value="附件 1 时间范围外采用末端值延拓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="1430" width="320" height="50" as="geometry" />
+          <mxGeometry x="1480" y="1447" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-16" value="空间采用径向有限体积法，dr=1 mm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1455" y="1630" width="150" height="80" as="geometry" />
