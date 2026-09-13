@@ -539,7 +539,7 @@
           <mxGeometry x="1038.5" y="2468" width="340" height="42" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-59" value="若 \(F(t^n)\geq0\) 且 \(F(t^{n+1})&amp;lt;0\)，则在区间 \([t^n,t^{n+1}]\) 内进行二分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="2530" width="100" height="120" as="geometry" />
+          <mxGeometry x="1059" y="2520" width="101" height="130" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-60" value="固定左端状态和 BDF2 历史" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1192.75" y="2520" width="185" height="30.5" as="geometry" />
@@ -548,10 +548,10 @@
           <mxGeometry x="1060" y="2660.5" width="317.75" height="39" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-62" value="取中点重新求解 \(T_{\mathrm{mid}}\)、\(C_{\mathrm{mid}}\) 和 \(F(t_{\mathrm{mid}})\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1195" y="2570" width="185" height="40" as="geometry" />
+          <mxGeometry x="1192.75" y="2560.5" width="185" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-63" value="根据其符号更新左右区间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1195" y="2620" width="185" height="30" as="geometry" />
+          <mxGeometry x="1192.75" y="2610.5" width="185" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
