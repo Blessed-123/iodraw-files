@@ -562,6 +562,12 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1290" y="2610" as="sourcePoint" />
+            <mxPoint x="1200" y="2580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-69" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="2610" as="sourcePoint" />
             <mxPoint x="1340" y="2560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
