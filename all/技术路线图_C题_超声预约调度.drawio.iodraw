@@ -352,7 +352,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-32" value="对规定输出时刻进行线性插值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="1910" width="120" height="60" as="geometry" />
+          <mxGeometry x="1064" y="1840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-34" value="采用后向欧拉进行时间离散，自适应步长范围为 0.01–10 s" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1064" y="1658" width="326" height="42" as="geometry" />
@@ -387,7 +387,7 @@
           <mxGeometry x="1064" y="1720" width="326" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vHZNnp70cTp2YP3ywfks-47" value="根据温度和水分变化调整时间步长" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1064" y="1780" width="326" height="60" as="geometry" />
+          <mxGeometry x="1064" y="1780" width="326" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
