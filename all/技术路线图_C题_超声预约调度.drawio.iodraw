@@ -203,16 +203,16 @@
           <mxGeometry x="1678" y="815.5" width="110" height="210" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-79" value="采用径向有限体积法，dr=1 mm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="820" width="230" height="40" as="geometry" />
+          <mxGeometry x="1810" y="820" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-80" value="离散方程构成三对角系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="980" width="230" height="40" as="geometry" />
+          <mxGeometry x="1810" y="980" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-81" value="时间采用后向欧拉格式，步长设置在 0.01–0.5 s 内自适应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="910" width="230" height="60" as="geometry" />
+          <mxGeometry x="1810" y="910" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-82" value="中心与表面按半控制体处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="870" width="230" height="34" as="geometry" />
+          <mxGeometry x="1810" y="870" width="240" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
