@@ -1,9 +1,12 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram id="c-roadmap" name="C题超声预约技术路线图">
-    <mxGraphModel dx="2022" dy="2013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
+    <mxGraphModel dx="1155" dy="1493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-139" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;dashed=1;opacity=95;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2750" width="1710" height="850" as="geometry" />
+        </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-132" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;dashed=1;opacity=95;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="1900" width="1710" height="819.5" as="geometry" />
         </mxCell>
@@ -27,6 +30,9 @@
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-119" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="2910" width="443" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-118" target="HYAzZhG7RNsZK3y5gQgT-119">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-118" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="503" y="2910" width="443" height="310" as="geometry" />
@@ -700,9 +706,6 @@
             <mxPoint x="1761" y="2340" as="sourcePoint" />
             <mxPoint x="1816.5" y="2289.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-139" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;dashed=1;opacity=95;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410" y="2750" width="1710" height="819.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
