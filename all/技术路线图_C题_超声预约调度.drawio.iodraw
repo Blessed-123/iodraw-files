@@ -291,8 +291,11 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-115" value="\(\rho\)、\(c_p\)、\(k\) 随水分浓度 \(C\) 变化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="1330" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-123" value="&lt;div&gt;\begin{aligned}&lt;/div&gt;&lt;div&gt;\rho(C)c_p(C)\frac{\partial T}{\partial t}&lt;/div&gt;&lt;div&gt;=&lt;/div&gt;&lt;div&gt;\frac{1}{r}\frac{\partial}{\partial r}&lt;/div&gt;&lt;div&gt;\left(&lt;/div&gt;&lt;div&gt;k(C)r\frac{\partial T}{\partial r}&lt;/div&gt;&lt;div&gt;\right)&lt;/div&gt;&lt;div&gt;\]&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="994" y="1820" width="310" height="130" as="geometry" />
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-123" value="&lt;div&gt;\begin{aligned}&lt;/div&gt;&lt;div&gt;\rho(C)c_p(C)\frac{\partial T}{\partial t}&lt;/div&gt;&lt;div&gt;=&lt;/div&gt;&lt;div&gt;\frac{1}{r}\frac{\partial}{\partial r}&lt;/div&gt;&lt;div&gt;\left(&lt;/div&gt;&lt;div&gt;k(C)r\frac{\partial T}{\partial r}&lt;/div&gt;&lt;div&gt;\right)&lt;/div&gt;&lt;div&gt;\end{aligned}&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="994" y="1820" width="310" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-124" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1890" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
