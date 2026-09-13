@@ -460,7 +460,7 @@
           <mxGeometry x="681" y="2150" width="219" height="145.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-16" value="迭代值更新\(\rho\)、\(c_p\)、\(k\) 、\(D\)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1582.99" y="2510" width="427.01" height="70" as="geometry" />
+          <mxGeometry x="1550" y="2510" width="490" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-17" value="中心用零通量边界，&lt;div style=&quot;font-size: 24px;&quot;&gt;表面为 Robin 换热与传质条件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1240" y="2180" width="207" height="150" as="geometry" />
@@ -481,19 +481,19 @@
           <mxGeometry x="1540" y="2241.5" width="500" height="78" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-43" value="&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;首步用后向欧拉启动，后续采用变步长 BDF2&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;labelBorderColor=#ffffff;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1582.99" y="2438" width="427.01" height="62" as="geometry" />
+          <mxGeometry x="1550" y="2438" width="490" height="62" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-55" value="执行Picard迭代，并调用Thomas算法线性求解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1582.99" y="2590" width="427.01" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-58" value="对每个已接受时间步计算 \(F(t^n)\) 和 \(F(t^{n+1})\)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1030" y="2408" width="410" height="82" as="geometry" />
+          <mxGeometry x="1000" y="2408" width="440" height="82" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-59" value="在区间 \([t^n,t^{n+1}]\) 内进行二分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1030" y="2500" width="410" height="80" as="geometry" />
+          <mxGeometry x="1000" y="2500" width="440" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-61" value="重复二分，取最终右端时刻为烘干终点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1030" y="2590" width="410" height="79.5" as="geometry" />
+          <mxGeometry x="1000" y="2580" width="440" height="89.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-70" value="记录各径向节点的水分浓度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="500" y="2420" width="400" height="70" as="geometry" />
