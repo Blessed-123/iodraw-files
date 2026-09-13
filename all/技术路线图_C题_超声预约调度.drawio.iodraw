@@ -350,10 +350,10 @@
           <mxGeometry x="1750" y="800" width="290" height="56.16" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-80" value="离散方程构成三对角系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1750" y="990" width="290" height="40" as="geometry" />
+          <mxGeometry x="1750" y="950" width="290" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-81" value="时间采用后向欧拉格式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1750" y="870" width="290" height="110" as="geometry" />
+          <mxGeometry x="1750" y="870" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-84" value="将结果插值至规定时空网格" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="927.84" width="260" height="92.16" as="geometry" />
