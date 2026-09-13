@@ -200,10 +200,10 @@
           <mxGeometry x="1827" y="626.97" width="216" height="51.03" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-76" value="收敛性与物理一致性检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="462" y="815.5" width="110" height="210" as="geometry" />
+          <mxGeometry x="450" y="818.5" width="110" height="210" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-77" value="线性求解与结果组织" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1097" y="820" width="110" height="210" as="geometry" />
+          <mxGeometry x="1080" y="834" width="110" height="210" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-78" value="有限体积离散与时间推进" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="1678" y="815.5" width="110" height="210" as="geometry" />
