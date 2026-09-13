@@ -581,10 +581,10 @@
           <mxGeometry x="1148.25" y="3210" width="260" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-81" value="附件 2 给出随时间收缩的 R(t)，若直接在物理坐标中固定网格，会产生移动边界和网格重构问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="3050" width="250" height="50" as="geometry" />
+          <mxGeometry x="798.5" y="3030" width="247.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-82" value="令 ξ=r/R(t)，将计算域固定为 ξ∈[0,1]，中心始终对应 ξ=0，表面始终对应 ξ=1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="797" y="3110" width="241.5" height="80" as="geometry" />
+          <mxGeometry x="799.5" y="3100" width="241.5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
