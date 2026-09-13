@@ -522,7 +522,7 @@
           <mxGeometry x="520" y="3080" width="420" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-83" value="在归一化物质坐标中，&lt;div style=&quot;font-size: 27px;&quot;&gt;建立收缩条件下的传热传质模型&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="2980" width="410" height="60" as="geometry" />
+          <mxGeometry x="1040" y="2970" width="410" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-96" value="水分浓度场采用径向非稳态扩散模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1037" y="3130" width="413" height="80" as="geometry" />
@@ -537,7 +537,7 @@
           <mxGeometry x="1580" y="3050" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-102" value="检测阈值自动细分时间步并局部二分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="3340" width="410" height="90" as="geometry" />
+          <mxGeometry x="1030" y="3340" width="410" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-104" value="&amp;nbsp;Thomas 算法求解&lt;div style=&quot;font-size: 27px;&quot;&gt;Picard 不收敛时减小时间步&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1550" y="3460" width="490" height="80" as="geometry" />
@@ -553,10 +553,10 @@
           <mxGeometry x="1550.51" y="3350" width="489.49" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-109" value="当时间区间宽度不超过 0.1 s 时，取右端时刻作为烘干终点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="3450" width="410" height="100" as="geometry" />
+          <mxGeometry x="1030" y="3440" width="410" height="110" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-112" value="输出结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="550" y="3460" width="170" height="100" as="geometry" />
+          <mxGeometry x="550" y="3450" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-114" value="模型采用均匀、等比、径向收缩假设" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="530" y="3340" width="400" height="90" as="geometry" />
@@ -622,7 +622,7 @@
           <mxGeometry x="1380" y="1300" width="101" height="150" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-204" value="进行检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="740" y="3460" width="180" height="100" as="geometry" />
+          <mxGeometry x="740" y="3450" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-208" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b style=&quot;font-size: 26px;&quot;&gt;D同时随C和温度T变化&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontSize=26;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1010" y="1380" width="290" height="80" as="geometry" />
