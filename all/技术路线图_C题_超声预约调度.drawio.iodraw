@@ -536,7 +536,7 @@
           <mxGeometry x="1095" y="2570" width="165" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-59" value="若 \(F(t^n)\geq0\) 且 \(F(t^{n+1})&amp;lt;0\)，则在区间 \([t^n,t^{n+1}]\) 内进行二分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="2655.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1090" y="2655.5" width="180" height="74.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-60" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1177" y="2790" width="120" height="60" as="geometry" />
