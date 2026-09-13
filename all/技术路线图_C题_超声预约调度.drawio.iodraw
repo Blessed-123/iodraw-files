@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram id="c-roadmap" name="C题超声预约技术路线图">
-    <mxGraphModel dx="6465" dy="4440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
+    <mxGraphModel dx="3866" dy="2880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -728,18 +728,6 @@
             <mxPoint x="1816.5" y="2289.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-156" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="10" y="655.79" width="260" height="334.21" as="geometry" />
-        </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-157" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="3100" width="220" height="200.37" as="geometry" />
-        </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-158" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry y="2248.58" width="220" height="200.37" as="geometry" />
-        </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-159" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1441.63" width="230" height="358.37" as="geometry" />
-        </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-160" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2290" y="596.16" width="320" height="370" as="geometry" />
         </mxCell>
@@ -751,6 +739,9 @@
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-163" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2310" y="1336.5" width="320" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-167" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1080" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
