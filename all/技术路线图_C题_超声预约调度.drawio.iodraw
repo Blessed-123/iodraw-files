@@ -126,7 +126,7 @@
           <mxGeometry x="440" y="519.25" width="460" height="250.75" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;dashed=1;opacity=95;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="353.5" y="1120" width="1710" height="780" as="geometry" />
+          <mxGeometry x="395" y="1120" width="1710" height="780" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;dashed=1;opacity=95;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="317" y="-728" width="1725" height="457" as="geometry" />
@@ -150,7 +150,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n40" value="问题二：建立整个烘干过程药材温度和水分浓度变化规律的数学模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="1120" width="1280" height="90" as="geometry" />
+          <mxGeometry x="620" y="1130" width="1280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n41" value="问题一局限分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="1259" width="350.5" height="46.5" as="geometry" />
