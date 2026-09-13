@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram id="c-roadmap" name="C题超声预约技术路线图">
-    <mxGraphModel dx="2022" dy="2013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
+    <mxGraphModel dx="1155" dy="1493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2400" pageHeight="2800" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,12 @@
           <mxGeometry x="1008.5" y="2350" width="443" height="329.5" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HYAzZhG7RNsZK3y5gQgT-57" target="HYAzZhG7RNsZK3y5gQgT-66">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1470" y="2525" />
+              <mxPoint x="1470" y="2525" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1539.99" y="2369.5" width="443" height="310" as="geometry" />
