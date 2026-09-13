@@ -338,7 +338,7 @@
         <mxCell id="FZW20HWMj3qy4EFfsu5H-73" value="PCHIP 插值形成连续环境边界" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#FFDED9;" parent="1" vertex="1">
           <mxGeometry x="1750" y="640" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="FZW20HWMj3qy4EFfsu5H-76" value="收敛性与物理一致性检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1;fontStyle=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="FZW20HWMj3qy4EFfsu5H-76" value="收敛性与物理一致性检验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1;fontStyle=1;fillColor=#FFFDF3;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="480.49" y="814.66" width="109.51" height="205.34" as="geometry" />
         </mxCell>
         <mxCell id="FZW20HWMj3qy4EFfsu5H-77" value="线性求解与结果组织" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=1;fontStyle=1;" parent="1" vertex="1">
