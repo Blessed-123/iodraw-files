@@ -580,7 +580,7 @@
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-72" value="对规定输出时刻 t_out∈[tⁿ,tⁿ⁺¹]，按 θ=(t_out−tⁿ)/(tⁿ⁺¹−tⁿ) 对温度和水分浓度进行线性插值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="507.25" y="2530" width="352.75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HYAzZhG7RNsZK3y5gQgT-73" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HYAzZhG7RNsZK3y5gQgT-73" value="若 5 天内 F(t) 始终未变为负，应明确报告未达标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="2750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
