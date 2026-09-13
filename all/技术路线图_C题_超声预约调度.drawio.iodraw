@@ -533,7 +533,7 @@
           <mxGeometry x="658" y="2102.5" width="45" height="170" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-16" value="进入新时间层后，先根据当前迭代值更新\(\rho\)、\(c_p\)、\(k\) 、\(D\)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1582.99" y="2500" width="360" height="39" as="geometry" />
+          <mxGeometry x="1582.99" y="2500" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-17" value="中心用零通量边界，表面为 Robin 换热与传质条件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1215" y="2264.5" width="227" height="55" as="geometry" />
@@ -591,7 +591,7 @@
           <mxGeometry x="1582.99" y="2438" width="360" height="52" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-55" value="执行Picard迭代，并调用Thomas算法线性求解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1582.99" y="2550" width="360" height="50" as="geometry" />
+          <mxGeometry x="1582.99" y="2570" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HYAzZhG7RNsZK3y5gQgT-56" value="Picard 收敛后接受时间步并调整 dt" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1582.99" y="2620" width="360" height="50" as="geometry" />
